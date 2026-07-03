@@ -16,5 +16,4 @@ Jeder Geldfluss (Lohn, Gewinn, Rente, Kapitalertrag) wird mit einer investiven A
 ---
 
 **Weiterführend:**  
-- Medium-Artikel: [Link einfügen]  
-- X / Twitter: [Link einfügen]
+- Medium-Artikel: https://medium.com/@m.vogelgsang/der-emergenzstaat-86227da36415?sharedUserId=m.vogelgsang
