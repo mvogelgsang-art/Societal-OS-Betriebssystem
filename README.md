@@ -11,9 +11,9 @@ Jeder Geldfluss (Lohn, Gewinn, Rente, Kapitalertrag) wird mit einer investiven A
 
 **Autor:** Matthias Vogelgsang  
 
-**Lizenz: Dieses Werk (Societal OS) von Matthias Vogelgsang ist lizenziert unter CC BY 4.0.
+Lizenz: Dieses Werk (Societal OS) von Matthias Vogelgsang ist lizenziert unter CC BY 4.0.
 Du darfst es teilen, bearbeiten und weiterverwenden, solange du mich als Autor nennst und einen Link zur Lizenz angibst.
-Lizenzlink: https://creativecommons.org/licenses/by/4.0/ (creativecommons.org in Bing)
+Lizenzlink: https://creativecommons.org/licenses/by/4.0/
 
 ---
 
