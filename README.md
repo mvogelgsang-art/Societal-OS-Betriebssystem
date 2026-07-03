@@ -6,8 +6,8 @@ Das Societal OS ist ein Architekturentwurf für ein zirkuläres Wirtschafts- und
 Jeder Geldfluss (Lohn, Gewinn, Rente, Kapitalertrag) wird mit einer investiven Abgabe belegt (10–20 %). Diese fließt ausschließlich in reale Infrastruktur. Bürger besitzen ab Geburt ein unantastbares Nießbrauch-Konto – der Kapitalstock bleibt unberührt, die Rendite wird im Alter ausgeschüttet und vererbt.
 
 **Enthalten in diesem Repository:**
-- [`Societal_OS_Architektur.md`](Societal_OS_Architektur.md) – Vollständiger Entwurf (25 Kapitel, alle Rückkopplungsschleifen, offene Kalibrierungsfragen)
-- [`Societal_OS_1.1.md`](Societal_OS_1.1.md) – Kurzfassung (Betriebssystem-Ebene, 6 Motoren, Glossar)
+- **[Societal OS - Architekturtext.docx](Societal%20OS%20-%20Architekturtext.docx)** – Vollständiger Entwurf (25 Kapitel, alle Rückkopplungsschleifen, offene Kalibrierungsfragen)
+- **[Societal OS 1.0.docx](Societal%20OS%201.0.docx)** – Kurzfassung (Betriebssystem-Ebene, 6 Motoren, Glossar)
 
 **Autor:** Matthias Vogelgsang  
 
