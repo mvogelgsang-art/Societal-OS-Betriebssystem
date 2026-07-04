@@ -1,63 +1,93 @@
-Societal OS – Ein zirkuläres Betriebssystem für moderne Gesellschaften
-Societal OS ist ein offenes Architektur‑Framework für einen driftresistenten Sozialstaat.
-Es koppelt Existenzsicherung, Infrastruktur, Kapitalflüsse und Eigentum über transparente Rückkopplungen zurück und verankert Würde, Teilhabe und Zeit als strukturelle Systemzustände.
+Societal OS
+Ein modularer Architekturrahmen für einen driftresistenten Sozialstaat.
 
-Kernmechanik
-Jeder Geldfluss (Lohn, Gewinn, Rente, Kapitalertrag) wird mit einer investiven Abgabe belegt (10–20 %).
+Societal OS ist ein theoretisches Framework, das die Grundmechaniken eines modernen, zirkulären Sozialstaats beschreibt.
+Es arbeitet nicht mit politischen Kategorien, sondern mit Systemzuständen, Rückkopplungen und Kapitalarchitektur.
+Ziel ist ein Betriebssystem, das Würde, Existenzsicherung, Zeit und Teilhabe strukturell garantiert.
 
-Diese Abgabe fließt ausschließlich in reale Infrastruktur.
+🎯 Ziel
+Societal OS definiert die Frage:
+Wie kann ein Sozialstaat so gestaltet werden, dass er langfristig stabil, resilient und driftresistent bleibt?
 
-Jede Person besitzt ab Geburt ein Nießbrauch‑Abgabenkonto:
-der Kapitalstock bleibt unantastbar, die Rendite wird im Alter ausgeschüttet und vererbt.
+Das Framework beschreibt die dafür notwendigen Module, Kreisläufe und Kapitalstrukturen.
 
-Weitere Details findest du im Modul Abgabenkonto und im Modul Kreisläufe.
+📁 Architektur
+Die Architektur besteht aus klar getrennten Modulen, die jeweils einen zentralen Systembaustein definieren:
 
-Inhalte dieses Repositories
-Societal OS – Architekturtext.docx  
-Vollständiger Entwurf (25 Kapitel, Rückkopplungsschleifen, offene Kalibrierungsfragen)
+01 Grundfrage — gemeinsamer Nenner des Systems
 
-Societal OS 1.0.docx  
-Kurzfassung (Betriebssystem‑Ebene, 6 Motoren, Glossar)
+02 Diagnose — strukturelle Driftmechaniken moderner Sozialstaaten
 
-Repository‑Zweck
-Dieses Repository dient als offener Startpunkt für die Weiterentwicklung des Societal OS:
+03 Würde — Würde als messbarer Systemzustand
 
-Architekturmodule
+04 Existenzsicherung — Sockelmechanik ohne Bürokratie
 
-Visualisierungen der Kreisläufe und Systemlayer
+05 Abgabenkonto — individuelles Nießbrauch‑Konto mit investiver Abgabe
 
-Simulationen der Abgabe‑ und Renditemechanik
+06 Bürgerfonds — kollektiver Kapitalpuffer
 
-Governance‑Modelle und Parameter‑Kalibrierung
+07 Plattformlogik — zertifizierte Projekte statt Verwaltung
 
-Community‑Beiträge und Erweiterungen
+08 Kreisläufe — Rückkopplungen zwischen Mensch, Staat, Ökonomie
+
+09 Flat Tax — driftresistente Finanzierungsbasis
+
+10 Reservefonds — systemischer Stabilitätspuffer
+
+Alle Module liegen im Ordner ARCHITECTURE/.
+
+Kreisläufe
+Societal OS koppelt drei Kreisläufe:
+
+Mensch — Würde, Zeit, Teilhabe
+
+Staat — Infrastruktur, Plattformen, Zertifizierung
+
+Ökonomie — Kapitalflüsse, Renditen, Abgaben
+
+Diese Kreisläufe sind zirkulär und rückkopplungsfähig.
+Sie bilden die dynamische Ebene des Systems.
+
+Kapitalarchitektur
+Die Kapitalarchitektur besteht aus drei Ebenen:
+
+Abgabenkonto (individuell)
+
+Bürgerfonds (kollektiv)
+
+Reservefonds (systemisch)
+
+Gemeinsam stabilisieren sie Infrastrukturzyklen, Renditepfade und Krisen.
+
+Simulation
+Im Ordner SIMULATION/ liegen Modelle und Skripte, die Kapitalflüsse, Abgabensätze und Infrastrukturzyklen simulieren.
+Sie dienen der Kalibrierung und Validierung der Architektur.
+
+Visuals
+Der Ordner VISUALS/ enthält Diagramme und Darstellungen der Systemkreisläufe, Kapitalarchitektur und Plattformlogik.
+
+Roadmap
+Im Ordner ROADMAP/ liegen offene Fragen und zukünftige Erweiterungspunkte.
+Das Framework wächst iterativ.
 
 Mitwirken
-Societal OS ist ein offenes Framework.
-Beiträge sind ausdrücklich willkommen:
+Beitragen ist willkommen:
 
-Diagramme
+neue Module
 
 Simulationen
 
-Kritik
+Visualisierungen
 
-Erweiterungen
+Analysen
 
-Parameter‑Kalibrierung
+Diskussionen
 
-Governance‑Modelle
+Issues
 
-Pull Requests und Issues sind erwünscht.
-Für Einstieg und Struktur siehe README‑Guide.
+Pull Requests
+
+Details stehen in CONTRIBUTING.md.
 
 Lizenz
-Dieses Werk (Societal OS) von Matthias Vogelgsang ist lizenziert unter CC BY 4.0.
-Du darfst es teilen, bearbeiten und weiterverwenden, solange du den Autor nennst.
-Lizenzlink: https://creativecommons.org/licenses/by/4.0/
-
-Keine Haftung oder Gewähr. Dies ist eine Mechanik, eine Theorie.
-
-Weiterführend
-Medium‑Artikel:
-https://medium.com/@m.vogelgsang/der-emergenzstaat-86227da36415?sharedUserId=m.vogelgsang
+Dieses Projekt steht unter der MIT‑Lizenz.
