@@ -9,3 +9,8 @@ for j in range(JAHRE):
     abgabe = EINWOHNER * EINKOMMEN * ABGABE
     fonds += abgabe + fonds * 0.03 * (1 + FLAT_TAX)
 print("STABIL" if fonds > 0 else "KOLLAPS")
+
+# Hinweis: Diese Modellrechnung dient nur zur Illustration der Mechanik.
+# Keine empirische Prognose, keine Garantie auf Realitätsnähe.
+
+P.S.: Ich bin dafür nicht der Fachmann!
