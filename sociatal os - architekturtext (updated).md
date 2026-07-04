@@ -90,6 +90,7 @@ Der Mensch bringt das Bedürfnis ein, der Staat die Struktur, die Ökonomie die 
 2.	Der staatliche Kreislauf: Existenzsicherung + Teilhabe = Zeit → Wirkung/Innovation → Rückkopplung
 3.	Der ökonomische Kreislauf: Abgabe → Infrastruktur → Einnahmen → Rendite → Bürger/Unternehmen → Erbe
 Diese drei Kreisläufe bündeln die sechs Motoren des Societal OS:
+
 •	Existentieller Motor: Existenzsicherung → Teilhabe → Zeit → Wirkung → Innovation
 •	Finanzieller Motor: Abgabe → Infrastruktur → Rendite → neue Abgabe
 •	Realwirtschaftlicher Motor: Infrastruktur → Arbeit → Innovation → neue Infrastruktur
@@ -190,7 +191,7 @@ Zusammenspiel der Ebenen: Unternehmen erwirtschaften operativ über ihre Abo Mod
 16. Erbschaft und Bürgerfonds
 Erbschaften werden nicht pauschal besteuert, sondern über eine strukturelle Vorteilsabgabe erfasst: Immobilien koppeln über erzieltes Einkommen zurück, Unternehmen über realen Gewinn, Kapitalwerte über Rendite. Entsteht kein Vorteil, entsteht auch keine Abgabe. Eine aufwendige Bewertungsbürokratie wird damit überflüssig – besteuert wird nicht die Substanz, sondern der laufende Vorteil aus gesellschaftlicher Einbettung.
 Objektbezogene Haftung: Bei einem Verkauf übernimmt der Käufer die Vorteilsabgabe, da sie am Eigentum haftet, nicht an der Person. Der Verkäufer erhält den vollen Erlös. So wird die Abgabe kein Hindernis für Eigentumswechsel.
-Bodenentzugsabgabe: Unbebauter, erschlossener Baugrund profitiert von gesellschaftlicher Infrastruktur, ohne selbst etwas beizutragen, und trägt zur künstlichen Verknappung bei. Die Bodenentzugsabgabe erfasst ungenutzte Grundstücke ab zwei Jahren Nichtnutzung, steigt moderat (0,5 % des Bodenrichtwerts ab Jahr 3, 1 % ab Jahr 5) und endet automatisch bei tatsächlicher Nutzung (Bebauung, Verkauf, soziale Nutzung). Ziel ist nicht Enteignung, sondern die Rückführung von Boden in seine soziale Funktion. Da ungenutzter Entzug die Preise erhöhen kann, widerspricht es dem Sinne des Grundgesetzes (siehe unten).
+Bodenentzugsabgabe: Unbebauter, erschlossener Baugrund profitiert von gesellschaftlicher Infrastruktur, ohne selbst etwas beizutragen, und trägt zur künstlichen Verknappung bei. Die Bodenentzugsabgabe erfasst ungenutzte Grundstücke ab zwei Jahren Nichtnutzung, steigt moderat (0,5 % des Bodenrichtwerts ab Jahr 3, 1 % ab Jahr 5) und endet automatisch bei tatsächlicher Nutzung (Bebauung, Verkauf, soziale Nutzung). Ziel ist nicht Enteignung, sondern die Rückführung von Boden in seine soziale Funktion. Ungenutzter Entzug, der Preise erhöht, widerspricht aus meiner Sicht dem Grundgedanken des Grundgesetzes, wonach Eigentum verpflichtet (Art. 14 Abs. 2 GG).
 Der Bürgerfonds als Generationenvermögen: Die Vorteilsabgabe fließt in einen unpolitischen, investiven Bürgerfonds, der sozialen Wohnungsbau und langfristige Infrastruktur finanziert. Erträge werden zunächst vollständig reinvestiert, die Renditen speisen den Rentenfonds.
 Der Gedanke dahinter greift das Grundgesetzprinzip auf, wonach Eigentum verpflichtet und sein Gebrauch zugleich dem Wohl der Allgemeinheit dienen soll: Wer strukturell von der Gemeinschaft profitiert, gibt einen Teil dieses Vorteils zurück – nicht durch Einzelfallentscheidung, sondern über eine feste Mechanik.
 Die Vorteilsabgabe ist damit keine Belastung, sondern eine Rückkopplung: Wer strukturell profitiert, trägt strukturell bei.
