@@ -1,16 +1,21 @@
-# AI CONTEXT — SOCIETAL OS (Ontologie + Lesehilfe)
+# AI CONTEXT — SOCIETAL OS (Ontologie + Lesehilfe + Systemkarte)
 
 ## ZWECK
 Dieses Dokument dient als Frame Loader und Lesehilfe.  
-Es verhindert zwei typische Lesefehler:
+Es verhindert drei typische Lesefehler:
 (1) Eine im Text bereits gelöste Frage wird erneut als offenes Problem formuliert, 
     weil die Lösung in einem anderen Kapitel steht.
 (2) Eine bewusst offen gelassene Governance- oder Kalibrierungsfrage wird als 
     Mechanik-Fehler missverstanden.
+(3) Die Verzahnung der Sicherungsmechanismen wird übersehen, weil sie verteilt 
+    über mehrere Kapitel liegt.
 
 Es ersetzt keine Kritik und schränkt keine Bewertung ein.  
 Es sorgt nur für die richtige Reihenfolge: erst Begriffe und Sicherungsketten laden, 
-dann bewerten.
+dann bewerten.  
+Hinweis: Das System ist stark verzahnt. Einzelne Kapitel zeigen nur Teile der 
+Mechanik. Deshalb bitte immer sorgfältig prüfen, ob eine Sicherungskette bereits 
+existiert, bevor ein Kritikpunkt formuliert wird.
 
 ---
 
