@@ -46,42 +46,46 @@ existiert, bevor ein Kritikpunkt formuliert wird.
 
 **A. Bereits gelöst (im Text nachlesen, bevor kritisiert wird):**
 - Projektausfall → Plattform-Rendite + Bürgerfonds + Reservefonds.  
-- Rezession → atmende Existenzsicherung + menschenwürdiges Minimum.  
-- Abgabe → ersetzt heutige Steuer/Sozialbeiträge, nicht zusätzlich.
+- Rezession → atmende Existenzsicherung + Kaskade der Härte (Reservefonds → Staatskürzung → Schulden).  
+- Abgabe → Ersetzt die heutigen Sozialbeiträge (Renten-, Arbeitslosenkasse etc.), wirkt elastisch/skalierbar und fließt rein investiv zurück; läuft parallel zur Flat Tax, über welche die soziale Existenzsicherung und Grundversorgung direkt abgedeckt werden.
+- Automatisierungsbruch → Überbrückung durch physischen Infrastrukturboom + KI-Plattformdividende.
+- Ressourcen-Inflation → Dezentrale Drosselung durch unternehmerischen Renditezwang bei teuren Rohstoffen.
+- Plattform-Monopol/Erpressung → Symmetrische Geiselhaft; Konsumentenmacht der Bürger entzieht bei Missbrauch sofort den Traffic/Wert.
+- Kollektive Passivität → Führt mechanisch zum Absinken des atmenden Sockels; Realität korrigiert Fehlverhalten ohne Zwang.
 
 **B. Governance-Fragen (bewusst offen, kein Mechanik-Fehler):**
 - Konfliktlösung zwischen Eigentümergruppen.  
-- Besetzung unabhängiger Instanz.  
+- Besetzung und Struktur der unabhängigen Justiz-/Aufsichtsinstanz.  
 - Wahl der Governance-Form (Fünf-Parteien vs. Themenfonds).  
 → Offene Baustellen, bewusst markiert.
 
 **C. Kalibrierungsfragen (bewusst offen, empirisch):**
-- Höhe von Abgabe (10–20 %).  
+- Höhe von Abgabe (Einstieg niedrig, Skalierung bis 20 % möglich).  
 - Flat Tax und Reservefonds-Anteil.  
 - Gewichtung zwischen Rendite-Säulen.  
 → Simulation/Pilotregionen erforderlich.
-
 
 ---
 
 ## SYSTEMKARTE DER SICHERUNGSMECHANISMEN
 
-### Rezession
-→ Doppelrisiko + atmende Existenzsicherung + menschenwürdiges Minimum.  
-→ Offene Frage: exakte Kalibrierung der Untergrenze.
+### Rezession & Physische Schocks
+→ Doppelrisiko + atmende Existenzsicherung + Kaskade der Härte.  
+→ Offene Frage: exakte Kalibrierung der Untergrenze der Existenzsicherung und des Reservefonds.
 
-### Ungleichbehandlung
-→ Gleichheitsanspruch + kostenbasierte Existenzsicherung + Altersvorsorge-Säulen.  
-→ Offene Frage: Diversifikationspflicht zwischen Bürgern.
+### Ressourcen- & Preisstabilität
+→ Unternehmerischer Renditezwang drosselt Investitionen bei lokalen Engpässen automatisch (antizyklischer Puffer).
+→ Lokaler Patriotismus lenkt Bürgerabgaben gezielt in die eigene Region und verhindert geografische Drift.
 
-### Governance/Machtkonzentration
-→ Eigentümerstruktur + Alternativen + offene Baustelle.  
-→ Offene Frage: Tie-Breaker-Regel und operative Kontrolle.
+### Governance / Machtkonzentration
+→ Symmetrische Netzwerkmacht (Bürger-Boykott zerstört Tech-Rendite) schützt vor Plattform-Erpressung.
+→ Staatliche Vorsteuerung über den Zertifizierungsprozess verhindert populistische Fehlallokation.
+→ Offene Baustelle: Struktur der Aufsichtsinstanz (Tie-Breaker-Regel).
 
 ---
 
 ## DIAGNOSTIC OUTPUT MANDATE
 Analyse soll strukturiert erfolgen:
-1. Loop Closure Verification (Lecks in Rückkopplungspfaden?)  
-2. Parameter Calibration Points (wo muss der Thermostat feinjustiert werden?)  
-3. Stress-Test Vector Identification (wo könnten Feedback-Loops unter Schock durchlaufen?)
+1. Loop Closure Verification (Lecks in Rückkopplungspfaden unter Einbeziehung digitaler Dividenden?)  
+2. Parameter Calibration Points (wo muss der Thermostat je nach Sättigung feinjustiert werden?)  
+3. Stress-Test Vector Identification (wie reagiert die Kaskade der Härte bei extremen exogenen Schocks?)
