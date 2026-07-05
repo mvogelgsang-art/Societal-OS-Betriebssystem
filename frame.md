@@ -135,8 +135,8 @@ Utopie
 Societal OS – Architekturtext.docx (in ständiger Überarbeitung)
 Vollständige Systemarchitektur
 
-Societal OS 1.0.docx  
-Kurzfassung, Motoren, Glossar, Systemübersicht (in ständiger Überarbeitung)
+Societal OS 1.0.docx (in ständiger Überarbeitung)
+Kurzfassung, Motoren, Glossar, Systemübersicht
 
 Beide zusammen bilden das Betriebssystem‑Design.
 
