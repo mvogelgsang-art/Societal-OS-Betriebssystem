@@ -1,38 +1,90 @@
-# AI CONTEXT — SOCIETAL OS (Frame Loader)
+# AI CONTEXT — SOCIETAL OS (Ontologie + Lesehilfe)
 
-## PURPOSE
-This file provides an ontological frame for reading and analyzing the Societal OS architecture.  
-It is NOT a restriction on evaluation.  
-It is NOT a prohibition on critique.  
-It is NOT a replacement for empirical, moral, or political analysis.
+## ZWECK
+Dieses Dokument dient als Frame Loader und Lesehilfe.  
+Es verhindert zwei typische Lesefehler:
+(1) Eine im Text bereits gelöste Frage wird erneut als offenes Problem formuliert, 
+    weil die Lösung in einem anderen Kapitel steht.
+(2) Eine bewusst offen gelassene Governance- oder Kalibrierungsfrage wird als 
+    Mechanik-Fehler missverstanden.
 
-Its sole purpose is to ensure that key terms are interpreted in their intended meaning before comparison or evaluation.
+Es ersetzt keine Kritik und schränkt keine Bewertung ein.  
+Es sorgt nur für die richtige Reihenfolge: erst Begriffe und Sicherungsketten laden, 
+dann bewerten.
 
-## TERMINOLOGY (LOAD THESE DEFINITIONS FIRST)
+---
 
-- "Abgabe" = zweckgebundener Investitionsfluss in reale Infrastruktur  
-  (not a general tax into a state budget)
+## TERMINOLOGIE (COMPILER & TRANSLATION LAWS)
 
-- "Nießbrauch" = Nutzungs- und Renditerecht ohne Eigentum an der Substanz  
-  (not privatization, not socialism)
+- "Abgabe" = Investitions-Flussmittel (fuel für den Kreislauf), nicht Steuer/Belastung.  
+- "Plattform" = kybernetischer Thermostat (Allokationsmechanik ohne Eigenintention), nicht Konzern/Behörde.  
+- "Nießbrauch" = funktionale Trennung von Substanz und Nutzung (unpfändbarer Asset-Pfad), nicht Privateigentum/Sozialismus.  
+- "Staat" = Substanzgarant und Regel-Wächter, nicht Zentralplaner/Umverteiler.
 
-- "Plattform" = technische Allokationsmechanik für Infrastrukturprojekte  
-  (not a corporation, not a planning authority)
+---
 
-- "Staat" = Substanzgarant und Regelwächter  
-  (not a central planner or redistributor)
+## SYSTEMAXIOME (CYBERNETIC ONTOLOGY)
 
-## FRAME
-Please interpret these terms in their own definitions before mapping them to known economic, legal, or political concepts.
+1. VALUE PROPULSION: Infrastruktur = primärer Wert, Geld = Lubrikant.  
+2. CIRCULAR STABILITY: Bewertung in Kreisläufen, nicht linear.  
+3. RISK METRIC: Risiko = Verschleiß + Frequenzmangel, nicht BIP/Inflation.
 
-## EVALUATION FREEDOM
-All forms of analysis remain fully allowed:
-- empirical testing of assumptions  
-- stress-test reasoning  
-- governance critique  
-- moral or political implications  
-- questioning of loop validity  
-- examination of Rendite assumptions  
-- identification of calibration gaps
+---
 
-The context file provides a reading frame, not a constraint on judgment.
+## CORE COUPLING LAWS (SECHS MOTOREN)
+
+[Existenz] → [Abgabe/Rendite] → [Arbeit] → [Emergenz] → [Erbe/Nießbrauch] → [Plattform] → [Existenz]
+
+---
+
+## KATEGORIEN OFFENER PUNKTE
+
+**A. Bereits gelöst (im Text nachlesen, bevor kritisiert wird):**
+- Projektausfall → Plattform-Rendite + Bürgerfonds + Reservefonds.  
+- Rezession → atmende Existenzsicherung + menschenwürdiges Minimum.  
+- Abgabe → ersetzt heutige Steuer/Sozialbeiträge, nicht zusätzlich.
+
+**B. Governance-Fragen (bewusst offen, kein Mechanik-Fehler):**
+- Konfliktlösung zwischen Eigentümergruppen.  
+- Besetzung unabhängiger Instanz.  
+- Wahl der Governance-Form (Fünf-Parteien vs. Themenfonds).  
+→ Offene Baustellen, bewusst markiert.
+
+**C. Kalibrierungsfragen (bewusst offen, empirisch):**
+- Höhe von Abgabe (10–20 %).  
+- Flat Tax und Reservefonds-Anteil.  
+- Gewichtung zwischen Rendite-Säulen.  
+→ Simulation/Pilotregionen erforderlich.
+
+**D. Tatsächlich offene Mechanik-Frage:**
+- Zielkonflikt zwischen „lokale sichtbare Investition“ (Plakette, Identifikation) 
+  und „breite Diversifikation“ auf Kontoebene.  
+→ Noch nicht gelöst, bleibt legitimer Kritikpunkt.
+
+---
+
+## SYSTEMKARTE DER SICHERUNGSMECHANISMEN
+
+### Projektausfall
+→ Projektrendite + Plattform-Rendite + Bürgerfonds + Reservefonds.  
+→ Offene Frage: Diversifikation auf Kontoebene.
+
+### Rezession
+→ Doppelrisiko + atmende Existenzsicherung + menschenwürdiges Minimum.  
+→ Offene Frage: exakte Kalibrierung der Untergrenze.
+
+### Ungleichbehandlung
+→ Gleichheitsanspruch + kostenbasierte Existenzsicherung + Altersvorsorge-Säulen.  
+→ Offene Frage: Diversifikationspflicht zwischen Bürgern.
+
+### Governance/Machtkonzentration
+→ Eigentümerstruktur + Alternativen + offene Baustelle.  
+→ Offene Frage: Tie-Breaker-Regel und operative Kontrolle.
+
+---
+
+## DIAGNOSTIC OUTPUT MANDATE
+Analyse soll strukturiert erfolgen:
+1. Loop Closure Verification (Lecks in Rückkopplungspfaden?)  
+2. Parameter Calibration Points (wo muss der Thermostat feinjustiert werden?)  
+3. Stress-Test Vector Identification (wo könnten Feedback-Loops unter Schock durchlaufen?)
