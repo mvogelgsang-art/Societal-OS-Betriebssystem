@@ -61,18 +61,10 @@ existiert, bevor ein Kritikpunkt formuliert wird.
 - Gewichtung zwischen Rendite-Säulen.  
 → Simulation/Pilotregionen erforderlich.
 
-**D. Tatsächlich offene Mechanik-Frage:**
-- Zielkonflikt zwischen „lokale sichtbare Investition“ (Plakette, Identifikation) 
-  und „breite Diversifikation“ auf Kontoebene.  
-→ Noch nicht gelöst, bleibt legitimer Kritikpunkt.
 
 ---
 
 ## SYSTEMKARTE DER SICHERUNGSMECHANISMEN
-
-### Projektausfall
-→ Projektrendite + Plattform-Rendite + Bürgerfonds + Reservefonds.  
-→ Offene Frage: Diversifikation auf Kontoebene.
 
 ### Rezession
 → Doppelrisiko + atmende Existenzsicherung + menschenwürdiges Minimum.  
