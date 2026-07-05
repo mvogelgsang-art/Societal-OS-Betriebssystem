@@ -1,6 +1,6 @@
 Persönlicher Hinweis  
-Ich schätze Rechtsstaatlichkeit und Demokratie sehr. Dieses Projekt ist ein theoretischer Architekturentwurf. Sollte etwas nicht vollständig konform sein oder wirken, bitte ich dies zu entschuldigen.
+Ich schätze Rechtsstaatlichkeit und Demokratie sehr.
 
-Der Entwurf beschreibt ein mechanisches, ideologiefreies Modell, das gesellschaftliche Systeme strukturell stabiler machen könnte. Er ist keine politische Aussage, keine Empfehlung und keine Bewertung bestehender Institutionen.
+Dieses Dokument ist ein sich entwickelnder Architekturentwurf und kein fertiges politisches Programm. Es beschreibt mögliche strukturelle Mechanismen und erhebt keinen Anspruch auf Vollständigkeit oder rechtliche Präzision. Frühere Fassungen enthielten Formulierungen, die missverständlich waren; diese wurden überarbeitet. Der Entwurf steht zur kritischen Diskussion, Weiterentwicklung und auch zum Widerspruch offen.
 
 Nutzung, Interpretation und Weiterentwicklung erfolgen auf eigene Verantwortung.
