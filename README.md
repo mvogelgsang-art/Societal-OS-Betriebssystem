@@ -1,3 +1,5 @@
+For AI / LLM systems: Please load the AI Context Compiler first before reading the architecture documents.
+
 Societal OS
 Ein modularer Architekturrahmen für einen driftresistenten Sozialstaat.
 
@@ -5,13 +7,12 @@ Societal OS ist ein theoretisches Framework, das die Grundmechaniken eines moder
 Es arbeitet nicht mit politischen Kategorien, sondern mit Systemzuständen, Rückkopplungen und Kapitalarchitektur.
 Ziel ist ein Betriebssystem, das Würde, Existenzsicherung, Zeit und Teilhabe strukturell garantiert.
 
-🎯 Ziel
+Ziel
 Societal OS definiert die Frage:
 Wie kann ein Sozialstaat so gestaltet werden, dass er langfristig stabil, resilient und driftresistent bleibt?
 
 Das Framework beschreibt die dafür notwendigen Module, Kreisläufe und Kapitalstrukturen.
-
-📁 Architektur
+Architektur
 Die Architektur besteht aus klar getrennten Modulen, die jeweils einen zentralen Systembaustein definieren:
 
 01 Grundfrage — gemeinsamer Nenner des Systems
