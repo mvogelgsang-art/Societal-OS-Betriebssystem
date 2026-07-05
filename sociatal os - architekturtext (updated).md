@@ -1,4 +1,5 @@
 Societal OS – Architekturtext (Noch in Bearbeitung)
+
 Gemeinschaftskapitalismus und die Macht der Teilhabe
 
 Von Matthias Vogelgsang
