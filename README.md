@@ -91,4 +91,12 @@ Pull Requests
 Details stehen in CONTRIBUTING.md.
 
 Lizenz
-Dieses Projekt steht unter der MIT‑Lizenz.
+Societal OS – VALUE PROPULSION
+© 2026 - Matthias Vogelgsang
+
+This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License.
+https://creativecommons.org/licenses/by-sa/4.0/
+
+Disclaimer: Keine Gewähr für Richtigkeit oder Umsetzbarkeit. Nutzung auf eigene Gefahr. Keine Haftung für Schäden aus Anwendung oder Missinterpretation.
+
+Version 1.0
