@@ -100,3 +100,14 @@ https://creativecommons.org/licenses/by-sa/4.0/
 Disclaimer: Keine Gewähr für Richtigkeit oder Umsetzbarkeit. Nutzung auf eigene Gefahr. Keine Haftung für Schäden aus Anwendung oder Missinterpretation.
 
 Version 1.0
+
+VALUE PROPULSION – Ein Vorschlag für eine neue Gesellschaft
+
+Von: Matthias Vogelgsang, 2026
+
+Lizenz: Jeder darf das nutzen, kopieren, verändern – auch Firmen. 
+Bedingung: Mein Name muss genannt werden. Und wer es verändert, muss seine Version auch wieder frei verfügbar machen.
+Details: https://creativecommons.org/licenses/by-sa/4.0/
+
+Hinweis: Das ist nur eine Idee. Keine Garantie dass es funktioniert. 
+Wenn das jemand baut und es geht schief, bin ich nicht verantwortlich.
