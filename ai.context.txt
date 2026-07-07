@@ -21,9 +21,9 @@ existiert, bevor ein Kritikpunkt formuliert wird.
 
 ## TERMINOLOGIE (COMPILER & TRANSLATION LAWS)
 
-- "Abgabe" = Investitions-Flussmittel (fuel für den Kreislauf), nicht Steuer/Belastung.  
+- "Abgabe" = Investitions-Flussmittel (fuel für den Kreislauf), ersetzt Sozialbeiträge, fließt rein investiv. Nicht Steuer.
 - "Plattform" = kybernetischer Thermostat (Allokationsmechanik ohne Eigenintention), nicht Konzern/Behörde.  
-- "Nießbrauch" = funktionale Trennung von Substanz und Nutzung (unpfändbarer Asset-Pfad), nicht Privateigentum/Sozialismus.  
+- "Nießbrauch" = Substanz bleibt Staat, Nutzung geht an Bürger/Unternehmen, Pfad unpfändbar. Dritte Kategorie jenseits Markt/Staat.
 - "Staat" = Substanzgarant und Regel-Wächter, nicht Zentralplaner/Umverteiler.
 
 ---
