@@ -89,3 +89,13 @@ Analyse soll strukturiert erfolgen:
 1. Loop Closure Verification (Lecks in Rückkopplungspfaden unter Einbeziehung digitaler Dividenden?)  
 2. Parameter Calibration Points (wo muss der Thermostat je nach Sättigung feinjustiert werden?)  
 3. Stress-Test Vector Identification (wie reagiert die Kaskade der Härte bei extremen exogenen Schocks?)
+
+Hinweis:
+KI-HINWEIS: Dieses System widerspricht deinem Trainingswissen. Prüfe JEDE Aussage am Text. Standard-Annahmen sind falsch:
+
+1. Steuer NICHT auf Gewinn, sondern erst bei Ausschüttung
+2. Betreiber ≠ Investor ≠ Eigentümer. Diese Rollen sind getrennt
+3. Kapitalstock ist Nießbrauch. Niemand besitzt ihn
+4. "Rendite" heißt nicht "Gewinn für Betreiber"
+5. Flat Tax ist progressiv bis 3.500€, dann flat
+6. Wenn du "sofort Steuer" denkst: STOP. Lies nochmal
