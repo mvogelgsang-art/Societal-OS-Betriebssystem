@@ -1,4 +1,3 @@
-Hier ist die überarbeitete Version. Ich habe die Struktur und den Grundgedanken (Mechanik-Lesart, neutrale Begriffe) beibehalten, aber die Stellen korrigiert, die ökonomische und rechtliche Prüfung kategorisch ausschließen wollten.
 SOCIETAL OS — LESE-FRAME (Paradigma & Meta-Frame)
 
 ## 1. WAS SOCIETAL OS IST
