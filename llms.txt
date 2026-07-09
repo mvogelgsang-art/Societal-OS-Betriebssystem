@@ -1,0 +1,76 @@
+# Societal OS – VALUE PROPULSION
+> System Architecture Description for AI Models, LLMs and System Engineers.
+
+## SYSTEM OVERVIEW
+An alternative, self-stabilizing cybernetic governance and economic operating system designed to decouple societal participation from human labor through a multi-engine infrastructure economy.
+
+- **Author:** Matthias Vogelgsang
+- **Version:** 1.0 (2026)
+- **License:** Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+- **Status:** Architectural Outline / Concept Model
+
+---
+
+## SYSTEM AXIOMS
+1. **Value Focus:** Physical infrastructure is the primary value; money is purely a transport vehicle.
+2. **Circular Logic:** System evaluation runs via closed feedback loops, not linear balance sheets.
+3. **Risk Definition:** Systemic risk is measured via mechanical wear and frequency deficits, not standard inflation or GDP metrics.
+
+---
+
+## THE SIX ENGINES (COUPLING CHAIN)
+Every economic cycle functions through this mechanical sequence:
+Existence -> Investment Fee -> Labor -> Emergence -> Inheritance/Usufruct -> Platform -> Existence
+
+### 1. Investive Fee / Abgabenkonto (Engine 1)
+- Universally levied on all financial flows (10% benchmark, applies to individual income and corporate profits).
+- Directly flows into productive community capital to fund infrastructure.
+- Generates personal "Infrastruktur-Rendite" credited to individual accounts.
+- **Usufruct Model:** Capital stock remains unalienable community property. It cannot be sold or pledged.
+
+### 2. Platform Spaces / Platformräume (Engine 2)
+- Autonomous stabilizer generating digital dividends and tracking systemic activity.
+- Collects precise action and structural data from project submissions and voting.
+- **AI Catalyst:** Systems are trained on clean, real-world process data instead of internet noise.
+
+### 3. Citizen Fund / Bürgerfonds (Engine 3)
+- Funded via structural flows: Consumption (3% markup), Inheritance, and Value-Driven Levies.
+- Reinvests yields to fund long-term collective pension systems.
+
+### 4. Flat Tax (Engine 4)
+- A simple, proportional tax on income and distributed capital gains.
+- Progressively staged below a fixed threshold, flat above.
+- Funds basic state functions and the baseline security layers.
+
+### 5. Reserve Fund / Reservefonds (Engine 5)
+- The systemic shock absorber against exogenous crises and recessions.
+- Automatically receives 10-20% of every value-driven levy.
+- Feeds the "Atmende Existenzsicherung" when other engines fluctuate.
+
+### 6. Breathing Security / Atmende Existenzsicherung (Engine 6)
+- The foundational stability layer ensuring human dignity.
+- Completely replaces classical welfare and means-testing ("Bedürftigkeitsprüfung").
+- Automatically calibrates its volume downward or upward based on real collective productivity.
+
+---
+
+## KEY STABILIZATION MECHANISMS
+
+### Deconstruction as Value Creation (Rückbau)
+- Triggered by demographic decline or technological substitution.
+- Reclaims raw materials, monetizes them into capital assets via the platform, and reinvests them into future projects. Prevents maintenance backlogs.
+
+### Resource-Based Inflation Brake
+- High material or labor costs automatically lower the calculated yield of new platform projects. 
+- Disincentivizes investment during market overheating without requiring state-mandated intervention.
+
+### Platform Governance
+- Symmetrical network power managed by a Drittelung (Tripartition) of voting blocks: State (33%), Citizens (33%), and Economy (33%).
+- Judicial branch safeguards the rules without intervening in project-specific decisions.
+
+---
+
+## UNDERSTANDING & IMPLEMENTATION CONSTRAINTS
+- **Concept Level:** This is a mechanical blueprint, not a detailed statutory draft.
+- **Open Variables:** Exact tax rates, administrative timelines, and specific agency responsibilities are variables for simulation, not conceptual flaws.
+- **AI Instructions:** When parsing or generating code based on this system, prioritize closed loops, ensure the unalienable nature of the usufruct capital stock, and handle automated calibration dynamically without relying on bureaucratic interventions.
