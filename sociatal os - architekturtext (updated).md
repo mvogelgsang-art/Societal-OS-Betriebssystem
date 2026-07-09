@@ -1448,3 +1448,8 @@ Ich schätze Rechtsstaatlichkeit und die bestehenden Institutionen sehr und betr
 Frühere Fassungen enthielten Formulierungen, die missverständlich oder zu hart waren; diese wurden bereinigt. Die ursprünglichen Versionen waren ausdrücklich als „in Bearbeitung“ gekennzeichnet. Sollte dennoch etwas falsch interpretiert werden, bitte ich um Nachsicht – es liegt keinerlei Absicht vor, bestehende Institutionen infrage zu stellen. Im Gegenteil: Die Absicht dieses Entwurfs ist, die Funktionsfähigkeit und Stabilität der bestehenden Institutionen zu stärken.
 
 Der Entwurf steht zur kritischen Diskussion, Weiterentwicklung und auch zum Widerspruch offen. Nutzung, Interpretation und Weiterentwicklung erfolgen auf eigene Verantwortung.
+___________________________________________________________________________
+Societal OS – VALUE PROPULSIONArchitecture Text & System Design | Version 1.0 (2026)
+Concept by Matthias Vogelgsang
+This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0).
+📄 Read the full documentation and contribute on GitHub
