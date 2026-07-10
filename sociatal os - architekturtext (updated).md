@@ -1,5 +1,9 @@
 Societal OS – Architekturtext – Version 1.0
 
+Gemeinschaftskapitalismus und die Macht der Teilhabe
+
+Von Matthias Vogelgsang
+
 Vorwort:
 Das Societal OS ist ein soziales Betriebssystem, das Gesellschaft nicht über Politik, sondern über Mechanik stabilisiert. Es trennt Ebenen, die moderne Staaten seit Jahrzehnten vermischen, und koppelt Kapitalströme neu, sodass das Gesamtsystem driftresistent, modular und selbststabilisierend wird.
 
