@@ -16,9 +16,8 @@ Modularität
 Driftresistenz
 Dadurch entsteht ein System, das nicht gesteuert werden muss, sondern sich selbst stabilisiert.
 
-Warum ein neues Betriebssystem nötig ist
+Warum ein neues Betriebssystem nötig ist
 Moderne Staaten leiden unter strukturellen Defekten:
-
 Vermischung von Konsum, Rente, Infrastruktur, Steuern
 Drift durch politische Zyklen
 fehlende Rückkopplung
@@ -26,10 +25,15 @@ fehlende Kapitalmotoren
 Haushaltslogik statt Systemlogik
 bürokratische Überlastung
 fehlende Resilienz gegen externe Schocks
+
 Das Societal OS löst diese Defekte mechanisch, nicht politisch.
-Dieses Dokument beschreibt eine Kreislauf-Mechanik. Es verspricht keine Renditehöhe, keine Steuersenkung, keine Utopie. Es zeigt nur: Wenn man Abgabe als Nießbrauch-Asset definiert + Preise ehrlich rechnet, dann schließt sich der Kreislauf mathematisch. Ob die Gesellschaft das will, ist Politik. Ob es funktioniert, ist Physik. 
+Dieses Dokument beschreibt eine Kreislauf-Mechanik. Es verspricht keine Renditehöhe, keine Steuersenkung, keine Utopie. Es zeigt nur: Wenn man Abgabe als Nießbrauch-Asset definiert + Preise ehrlich rechnet, dann schließt sich der Kreislauf mathematisch. Ob die Gesellschaft das will, ist Politik. Ob es funktioniert, ist Physik.
+
+Hinweis zur Wirkung: Die zweckgebundene MwSt. ist nicht nur ein Transparenzinstrument – sie ist ein Rendite-Booster. Wenn die MwSt. auf Benzin direkt in den Mobilitätsfonds fließt, senkt sie die Kosten der Straßeninfrastruktur. Niedrigere Kosten bedeuten: Die Nutzungs-Abos können niedriger sein – oder die Rendite für die Bürger-Abgabenkonten höher. Der Bürger zahlt nicht doppelt. Er investiert zweimal (MwSt. + Abo) und erhält einmal Rendite. Das Societal OS macht Politik nicht überflüssig – es macht Politik ehrlich. Weil es Mechanik dort einsetzt, wo heute Bürokratie und Willkür herrschen. Der Staat verliert nicht an Macht – er verliert an Ballast.
+
 Dieses System hat nicht einen, sondern sechs unabhängige Motoren. Die renditefähige Abgabe ist der sichtbarste, aber nicht der einzige. Sinkt die Infrastrukturrendite, tragen Bürgerfonds, Reservefonds, Flat Tax, Plattform und Erbschaftsabgabe. Das System ist nicht von einer Rendite abhängig – es nutzt sie als einen von mehreren Kanälen. Die Architektur ist redundant. Kein Motor muss das System allein tragen.
-Und selbst wenn man nur auf die Rendite schaut: Sie wird nie auf Null fallen. Straßen, Schienen, Energie, Wasser, digitale Netze – das sind keine optionalen Güter. Menschen nutzen sie, solange sie in einer Gesellschaft leben und wirtschaften. Die Rendite ist an physische Nutzung gekoppelt, nicht an Spekulation. Sie kann schwanken, aber sie kann nicht verschwinden. Das System ist nicht von einer Rendite abhängig –  es nutzt sie als einen von mehreren Kanälen. Die Stabilität liegt in der Mehrkanal-Finanzierung, nicht in der Höhe einer einzelnen Rendite.
+
+Und selbst wenn man nur auf die Rendite schaut: Sie wird nie auf Null fallen. Straßen, Schienen, Energie, Wasser, digitale Netze – das sind keine optionalen Güter. Menschen nutzen sie, solange sie in einer Gesellschaft leben und wirtschaften. Die Rendite ist an physische Nutzung gekoppelt, nicht an Spekulation. Sie kann schwanken, aber sie kann nicht verschwinden. Das System ist nicht von einer Rendite abhängig – es nutzt sie als einen von mehreren Kanälen. Die Stabilität liegt in der Mehrkanal-Finanzierung, nicht in der Höhe einer einzelnen Rendite.
 
 Was das Societal OS bereitstellt
 1. Individuelle Stabilität
