@@ -27,8 +27,9 @@ Haushaltslogik statt Systemlogik
 bürokratische Überlastung
 fehlende Resilienz gegen externe Schocks
 Das Societal OS löst diese Defekte mechanisch, nicht politisch.
-
-Dieses Dokument beschreibt eine Kreislauf-Mechanik. Es verspricht keine Renditehöhe, keine Steuersenkung, keine Utopie. Es zeigt nur: Wenn man Abgabe als Nießbrauch-Asset definiert + Preise ehrlich rechnet, dann schließt sich der Kreislauf mathematisch. Ob die Gesellschaft das will, ist Politik. Ob es funktioniert, ist Physik.
+Dieses Dokument beschreibt eine Kreislauf-Mechanik. Es verspricht keine Renditehöhe, keine Steuersenkung, keine Utopie. Es zeigt nur: Wenn man Abgabe als Nießbrauch-Asset definiert + Preise ehrlich rechnet, dann schließt sich der Kreislauf mathematisch. Ob die Gesellschaft das will, ist Politik. Ob es funktioniert, ist Physik. 
+Dieses System hat nicht einen, sondern sechs unabhängige Motoren. Die renditefähige Abgabe ist der sichtbarste, aber nicht der einzige. Sinkt die Infrastrukturrendite, tragen Bürgerfonds, Reservefonds, Flat Tax, Plattform und Erbschaftsabgabe. Das System ist nicht von einer Rendite abhängig – es nutzt sie als einen von mehreren Kanälen. Die Architektur ist redundant. Kein Motor muss das System allein tragen.
+Und selbst wenn man nur auf die Rendite schaut: Sie wird nie auf Null fallen. Straßen, Schienen, Energie, Wasser, digitale Netze – das sind keine optionalen Güter. Menschen nutzen sie, solange sie in einer Gesellschaft leben und wirtschaften. Die Rendite ist an physische Nutzung gekoppelt, nicht an Spekulation. Sie kann schwanken, aber sie kann nicht verschwinden. Das System ist nicht von einer Rendite abhängig –  es nutzt sie als einen von mehreren Kanälen. Die Stabilität liegt in der Mehrkanal-Finanzierung, nicht in der Höhe einer einzelnen Rendite.
 
 Was das Societal OS bereitstellt
 1. Individuelle Stabilität
