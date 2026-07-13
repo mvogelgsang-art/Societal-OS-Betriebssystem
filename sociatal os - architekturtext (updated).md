@@ -1167,6 +1167,7 @@ Nichtnutzung wird über die Baugenehmigung erfasst:
 
 Wer ein Grundstück erwirbt, aber keine Baugenehmigung einreicht, zahlt die Bodenentzugsabgabe.
 Damit wird Spekulation objektiv erfasst, ohne die Bewertungsbürokratie des heutigen Systems zu reproduzieren.
+
 16.2 Der Bürgerfonds als Generationenvermögen
 
 Die Vorteilsabgabe fließt in einen unpolitischen, investiven Bürgerfonds, der als generationenübergreifendes Gemeinschaftsvermögen wirkt. Der Fonds finanziert primär sozialen Wohnungsbau und kann – abhängig von Marktsättigung und Bedarf – ebenso in Unternehmen, Forschung und Entwicklung sowie neue wirtschaftliche Räume investieren.
@@ -1176,6 +1177,16 @@ Die Erträge des Bürgerfonds werden vollständig reinvestiert, bis eine stabile
 Der Gedanke dahinter greift das Grundgesetzprinzip auf, wonach Eigentum verpflichtet und sein Gebrauch zugleich dem Wohl der Allgemeinheit dienen soll: Wer strukturell von der Gemeinschaft profitiert, gibt einen Teil dieses Vorteils zurück – nicht durch Einzelfallentscheidung, sondern über eine feste Mechanik.
 
 Die Vorteilsabgabe ist damit keine Belastung, sondern eine Rückkopplung: Wer strukturell profitiert, trägt strukturell bei.
+
+16.2.1 – Die Mietpreisbremse 2.0: Wie der Bürgerfonds den Wohnungsmarkt entlastet
+Der Bürgerfonds ist nicht nur ein kollektives Kapitalpolster – er ist der größte, nachhaltigste Bauträger des Systems. Anders als private Investoren, die auf Rendite durch steigende Mieten angewiesen sind, verfolgt der Fonds ein mechanisches Ziel: Er baut Wohnraum dort, wo er gebraucht wird – und vermietet ihn zu den Kosten.
+Die Mechanik:
+Die Erbschafts‑ und Vorteilsabgaben speisen den Bürgerfonds.
+Der Fonds investiert gezielt in den Wohnungsbau – in Regionen mit hohem Bedarf.
+Die Wohnungen werden nicht zu Marktpreisen vermietet, sondern zu reinen Betriebskosten (Instandhaltung, Verwaltung, Versicherung). Die Baukosten werden nicht auf die Miete umgelegt.
+Die Rendite des Fonds entsteht nicht durch hohe Mieten, sondern durch die Nutzungsdauer (50+ Jahre) und die Masse der vermieteten Einheiten.
+Jede neue Wohnung, die der Fonds baut, erhöht das Angebot – und senkt dadurch strukturell die Mietpreise in der gesamten Region.
+Besondere Mechanik: Die Wohnungen könnten sogar unter Kosten vermietet werden – weil die Baukosten nicht über die Miete hereingeholt werden müssen. Wenn eine Wohnung verkauft wird, wird der Baukostenanteil zuzüglich einer kleinen Rendite erzielt, die in den nächsten Fonds fließt. Dadurch bleibt der Kreislauf geschlossen: Niedrige Mieten sichern die Nutzung, Verkaufserlöse finanzieren neue Bauten.
 
 16.3 Strukturelle Kapitalumschichtung
 
