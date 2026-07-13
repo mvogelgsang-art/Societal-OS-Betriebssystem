@@ -1183,10 +1183,13 @@ Der Bürgerfonds ist nicht nur ein kollektives Kapitalpolster – er ist der gr�
 Die Mechanik:
 Die Erbschafts‑ und Vorteilsabgaben speisen den Bürgerfonds.
 Der Fonds investiert gezielt in den Wohnungsbau – in Regionen mit hohem Bedarf.
-Die Wohnungen werden nicht zu Marktpreisen vermietet, sondern zu reinen Betriebskosten (Instandhaltung, Verwaltung, Versicherung). Die Baukosten werden nicht auf die Miete umgelegt.
+Die Wohnungen werden nicht zu Marktpreisen vermietet, sondern zu reinen Betriebskosten (Instandhaltung, Verwaltung, Versicherung). Die Baukosten werden nicht auf die Miete umgelegt. Die Kostenmiete ist keine Pflicht, sondern eine Option. Diejenigen, die Wohnraum nutzen, entscheiden selbst, was angemessen ist – ob reine Betriebskosten, Unterkostenmiete oder eine moderate Rendite von etwa 3 %. Der Bürgerfonds ist flexibel, weil die Baukosten nicht über die Miete refinanziert werden müssen.
 Die Rendite des Fonds entsteht nicht durch hohe Mieten, sondern durch die Nutzungsdauer (50+ Jahre) und die Masse der vermieteten Einheiten.
 Jede neue Wohnung, die der Fonds baut, erhöht das Angebot – und senkt dadurch strukturell die Mietpreise in der gesamten Region.
 Besondere Mechanik: Die Wohnungen könnten sogar unter Kosten vermietet werden – weil die Baukosten nicht über die Miete hereingeholt werden müssen. Wenn eine Wohnung verkauft wird, wird der Baukostenanteil zuzüglich einer kleinen Rendite erzielt, die in den nächsten Fonds fließt. Dadurch bleibt der Kreislauf geschlossen: Niedrige Mieten sichern die Nutzung, Verkaufserlöse finanzieren neue Bauten.
+
+Profite auf Wohnraum sind im Societal OS nicht verboten – sie sind mechanisch unmöglich. Der Bürgerfonds baut zu Kosten, senkt die Mieten strukturell und verdrängt Spekulation durch Überlegenheit. Wohnraum wird wieder Nutzung, nicht Rendite.
+Die Erbschaftsabgabe landet im Societal OS nicht im Haushalt, sondern im Bürgerfonds. Dadurch wird sie nicht konsumiert, sondern investiert: in Wohnraum, der dauerhaft bezahlbar bleibt. Diese Struktur ist eine konkrete Form von Generationsgerechtigkeit, weil das Kapital der älteren Generation direkt die Lebensbedingungen der nächsten verbessert.
 
 16.3 Strukturelle Kapitalumschichtung
 
