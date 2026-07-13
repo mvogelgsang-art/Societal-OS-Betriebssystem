@@ -273,6 +273,8 @@ Fazit: Der Bürger zahlt heute Transportkosten indirekt über Steuern und direkt
 
 Diese Struktur ist eine konkrete Form von Generationsgerechtigkeit, weil die Mittel nicht konsumiert, sondern in dauerhafte Infrastruktur und reale Nutzung investiert werden.
 
+Im Societal OS entsteht Geld nicht aus Schulden, sondern aus Nutzung. Jede Nutzung erzeugt Infrastruktur‑Rendite, die als Nießbrauch‑Zertifikat an Bürger und Unternehmen ausgeschüttet wird. Diese Zertifikate sind substanzgedeckte Assets, die den realen Kapitalstock der Gesellschaft repräsentieren. Dadurch wird Geld zu einem stabilen, driftfreien Wertträger, der nicht aus politischer Geldschöpfung, sondern aus physischer Nutzung entsteht.
+
 Automatische Lokalisierungseffekte durch ehrliche Netzpreise
 
 Die Implementierung ehrlicher Netzpreise korrigiert das heutige Marktversagen globalisierter Lieferketten, bei denen lange Transportwege über verdeckte Infrastruktur‑Subventionen der Steuerzahler künstlich verbilligt werden. Sobald die realen Verschleiß‑ und Netzkosten lückenlos in die Logistikkette eingepreist werden, wird räumliche Distanz wieder zu einem echten betriebswirtschaftlichen Kostenfaktor.
@@ -1904,4 +1906,4 @@ Concept by Matthias Vogelgsang
 This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0).
 📄 Read the full documentation and contribute on GitHub
 
-Version 1.1
+Version 1.0
