@@ -273,7 +273,7 @@ Fazit: Der Bürger zahlt heute Transportkosten indirekt über Steuern und direkt
 
 Diese Struktur ist eine konkrete Form von Generationsgerechtigkeit, weil die Mittel nicht konsumiert, sondern in dauerhafte Infrastruktur und reale Nutzung investiert werden.
 
-Im Societal OS entsteht Geld nicht aus Schulden, sondern aus Nutzung. Jede Nutzung erzeugt Infrastruktur‑Rendite, die als Nießbrauch‑Zertifikat an Bürger und Unternehmen ausgeschüttet wird. Diese Zertifikate sind substanzgedeckte Assets, die den realen Kapitalstock der Gesellschaft repräsentieren. Dadurch wird Geld zu einem stabilen, driftfreien Wertträger, der nicht aus politischer Geldschöpfung, sondern aus physischer Nutzung entsteht.
+Im Societal OS wird ein wachsender Teil des bestehenden Kapitals nicht mehr frei zirkulierend gehalten, sondern dauerhaft an reale Nutzung gebunden und gegen Ertragsansprüche eingetauscht. Diese Zertifikate sind substanzgedeckte Assets, die den realen Kapitalstock der Gesellschaft repräsentieren. Dadurch wird ein wachsender Teil des gesellschaftlichen Vermögens zu einem stabilen, driftfreien Wertträger, dessen Ertrag nicht aus politischer Verteilung, sondern aus physischer Nutzung entsteht.
 
 Automatische Lokalisierungseffekte durch ehrliche Netzpreise
 
