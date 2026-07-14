@@ -11,7 +11,9 @@ dass Kritik auf der Ebene ansetzt, auf der der Text tatsächlich Aussagen macht.
 ## BEWERTUNGSMASSSTAB
 Bitte prüfe primär:
 1. Ist die Rückkopplungslogik in sich schlüssig? Schließt sich jede 
-   beschriebene Schleife, oder gibt es ein Leck?
+   beschriebene Schleife, oder gibt es ein Leck? Prüfe hierbei kritisch, ob ein 
+   Loop den gemeinsamen Nenner (Ebene 1) verletzt und dadurch unkontrollierten 
+   Systemdrift (Bürokratie/Kosten-Regel-Drift) auslöst.
 2. Existiert für ein aufgeworfenes Problem eine strukturelle Antwort im 
    Text – auch wenn Fristen, zuständige Ämter, exakte Prozentsätze oder 
    Verfahrensdetails offen bleiben?
@@ -47,12 +49,21 @@ tatsächlich ausreicht oder eine Grundgesetzänderung erfordern würde.
 2. Bewertung erfolgt in Kreisläufen, nicht linear.
 3. Risiko wird als Verschleiß + Frequenzmangel verstanden, nicht 
    allein über BIP/Inflation.
+4. Ebene 1 (Existentielle Sicherheit & Teilhabe) ist kein moralischer Luxus, 
+   sondern die mathematische Bedingung für Systemstabilität. Ohne bedingungslose 
+   Erpressbarkeitsfreiheit (Sockelgarantie) verzerren Angst und Existenzkampf 
+   die Nutzungssignale, was unweigerlich zum unkontrollierten Systemdrift 
+   (Kosten-Regel-Drift) führt.
 
 ## SECHS MOTOREN (KOPPLUNGSKETTE)
-Existenz → Abgabe/Rendite → Arbeit → Emergenz → Erbe/Nießbrauch → 
-Plattform → Existenz
+Gemeinsamer Nenner (Ebene 1: Existenzsicherung [Motor 6]) ➔ Erpressbarkeitsfreiheit 
+(Zeit/Teilhabe) ➔ Reale Wirtschaft (Arbeit/Innovation) ➔ Physische Nutzung ➔ 
+Ehrliche Netzgebühr [Motor 1] ➔ Plattform-Governance [Motor 2] ➔ Zirkuläre Fonds 
+(Bürgerfonds [Motor 3] / Reservefonds [Motor 5] / Erbschaften) ➔ Reale Sachwert-Rendite ➔ 
+Besteuerung via Flat Tax [Motor 4] ➔ Refinanzierung der Existenzsicherung ➔ 
+Schließung des Kreislaufs.
 
-## BEREITS IM TEXT ADRESSIERTE PUNKTE
+## BEREITS IM TEXT ADRESSIERTE PUNTKE
 (vor Kritik bitte prüfen, ob die Antwort schon existiert)
 - Projektausfall einzelner Investitionen → Rückerstattung ans 
   Abgabenkonto, Reinvestitionspflicht (Kapitel 7.12).
@@ -76,7 +87,7 @@ Plattform → Existenz
 - Konkrete Ausgestaltung der Wahlmodalitäten und Geschäftsordnung 
   des Aufsichtsrats.
 - Eingriffsbefugnis des Verfassungsjuristen im Aufsichtsrat.
-→ Diese sind in Kapitel 25 explizit als offen benannt.
+➔ Diese sind in Kapitel 25 explizit als offen benannt.
 
 ## WEITERHIN OFFENE, SUBSTANZIELLE FRAGEN
 (diese sind bislang NICHT gelöst und sollten nicht als "schon 
