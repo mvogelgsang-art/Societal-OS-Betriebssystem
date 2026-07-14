@@ -5,14 +5,14 @@
 
   "knoten": [
     { "id": "K1", "label": "Flat Tax (Motor 4)", "typ": "Eingabe_Motor", "funktion": "Proportionale Abgabe auf automatisierte Wertschöpfung" },
-    { "id": "K2", "label": "Atmende Existenzsicherung", "typ": "Kern_Basis", "funktion": "Dynamische Grundabsicherung (Wohnen, Nahrung, Energie, Gesundheit)" },
+    { "id": "K2", "label": "Atmende Existenzsicherung (Motor 6)", "typ": "Kern_Basis", "funktion": "Dynamische Grundabsicherung und Frequenzmotor gegen Unterfrequenz" },
     { "id": "K3", "label": "Abgabenkonto", "typ": "Individueller_Puffer", "funktion": "Persönliches Infrastruktur-Nießbrauch- und Nutzungskonto" },
     { "id": "K4", "label": "Bürgerfonds (Motor 3)", "typ": "Kollektiver_Puffer", "funktion": "Generations-Vermögenspool aus Erbschafts-, Konsum- und Vorteilsabgaben" },
-    { "id": "K5", "label": "Reservefonds (Motor 6)", "typ": "System_Puffer", "funktion": "Antizyklisches Krisenkissen und Notfall-Stabilisator" },
+    { "id": "K5", "label": "Reservefonds (Motor 5)", "typ": "System_Puffer", "funktion": "Antizyklisches Krisenkissen und Notfall-Stabilisator" },
     { "id": "K6", "label": "Plattformraum & Voting (Motor 2)", "typ": "Governance_Ebene", "funktion": "Datenaggregation, Zertifizierung und dezentrale Entscheidungsfindung" },
     { "id": "K7", "label": "Reale Wirtschaft / Markt", "typ": "Umwelt", "funktion": "Tech-Automatisierung, lokale Landwirtschaft, menschliche Kunst & Handwerk" },
     { "id": "K8", "label": "Ehrliche Netzgebühr (Motor 1)", "typ": "Rückkopplungs_Motor", "funktion": "Direkte Abrechnung des physischen Infrastruktur-Verschleißes" },
-    { "id": "K9", "label": "Erbschaftsabgabe (Motor 5)", "typ": "Kapital_Motor", "funktion": "Investive Generationskopplung, speist Bürgerfonds und Reservefonds" },
+    { "id": "K9", "label": "Erbschaftsabgabe (Erbschaftsmotor)", "typ": "Kapital_Motor", "funktion": "Investive Generationskopplung, speist Bürgerfonds und Reservefonds" },
     { "id": "K10", "label": "Vorteilsabgabe", "typ": "Rückkopplungsstrom", "funktion": "Erfasst Nutzungsvorteile ohne Substanzzugriff (Art. 14 GG)" },
     { "id": "K11", "label": "Sockelgarantie", "typ": "Basis_Modul", "funktion": "Garantierte Grundversorgung unabhängig von Marktzyklen" },
     { "id": "K12", "label": "Ressourcenmotor (optional)", "typ": "Engpass_Modul", "funktion": "Stabilisiert kritische Materialien durch temporäre Rückkopplung" },
@@ -24,26 +24,27 @@
 
   "kanten": [
     { "quelle": "K1", "ziel": "K2", "typ": "Finanzierung", "label": "Finanziert die Basisschicht" },
-    { "quelle": "K2", "ziel": "K7", "typ": "Befreiung", "label": "Eliminiert existenziellen Zwang, setzt menschliches Potenzial frei" },
+    { "quelle": "K2", "ziel": "K14", "typ": "Befreiung", "label": "Eliminiert existenziellen Zwang für den Menschen, garantiert Würde" },
+    { "quelle": "K14", "ziel": "K7", "typ": "Produktion", "label": "Arbeit, Innovation und kreative Wertschöpfung frei von Erpressbarkeit" },
     { "quelle": "K7", "ziel": "K8", "typ": "Nutzung", "label": "Logistik und Automatisierung verursachen Infrastruktur-Verschleiß" },
-    { "quelle": "K8", "ziel": "K3", "typ": "Rückstrom_Schleife", "label": "20% direkte Infrastruktur-Rendite fließen an die Bürger" },
+    { "quelle": "K8", "ziel": "K4", "typ": "Rückstrom_Schleife", "label": "Infrastruktur-Einnahmen fließen in die Fonds-Struktur" },
+    { "quelle": "K4", "ziel": "K3", "typ": "Dividende", "label": "Generierte Rendite speist die individuellen Bürger-Abgabenkonten" },
+    { "quelle": "K3", "ziel": "K1", "typ": "Rückkopplung", "label": "Ausgezahlte Renditen unterliegen bei Ausschüttung der Flat Tax" },
     { "quelle": "K7", "ziel": "K1", "typ": "Steuer_Fluss", "label": "Automatisierte Transaktionen lösen Flat Tax aus" },
-    { "quelle": "K7", "ziel": "K4", "typ": "Kapital_Fluss", "label": "Erbschafts- und Vorteilsabgaben speisen den Bürgerfonds" },
-    { "quelle": "K9", "ziel": "K4", "typ": "Generations_Fluss", "label": "Erbschaftsabgabe speist kollektiven Kapitalmotor" },
-    { "quelle": "K10", "ziel": "K4", "typ": "Vorteils_Fluss", "label": "Erfasst Nutzungsvorteile ohne Substanzzugriff" },
-    { "quelle": "K7", "ziel": "K5", "typ": "Stabilisierung", "label": "Überschüssige Marktrenditen speisen den systemischen Puffer" },
-    { "quelle": "K5", "ziel": "K2", "typ": "Notfall_Schleife", "label": "Stabilisiert die Basisschicht bei makroökonomischen Schocks" },
+    { "quelle": "K9", "ziel": "K4", "typ": "Generations_Fluss", "label": "Erbschaftsabgabe investiert in Wohnungsbau des Bürgerfonds" },
+    { "quelle": "K10", "ziel": "K4", "typ": "Vorteils_Fluss", "label": "Erfasst laufende Nutzungsvorteile für den Bürgerfonds" },
+    { "quelle": "K7", "ziel": "K5", "typ": "Stabilisierung", "label": "1-2% Konsumabgabe (Reservefondsabgabe) speist den systemischen Puffer" },
+    { "quelle": "K5", "ziel": "K2", "typ": "Notfall_Schleife", "label": "Stabilisiert die Existenzsicherung bei makroökonomischen Schocks" },
     { "quelle": "K6", "ziel": "K7", "typ": "Steuerungs_Signal", "label": "Filtert systemische Probleme in dynamische Abstimmungsvariablen" },
-    { "quelle": "K13", "ziel": "K8", "typ": "Übergangs_Kopplung", "label": "0% MwSt kompensiert ehrliche Netzpreise für Grundversorgung" },
+    { "quelle": "K13", "ziel": "K8", "typ": "Übergangs_Kopplung", "label": "Dynamisches Steuerungsventil kompensiert ehrliche Netzpreise" },
     { "quelle": "K12", "ziel": "K7", "typ": "Engpass_Rückkopplung", "label": "Stabilisiert kritische Materialien bei realen Engpässen" },
     { "quelle": "K11", "ziel": "K2", "typ": "Sockel_Kopplung", "label": "Garantiert Mindestniveau der Existenzsicherung" },
-    { "quelle": "K14", "ziel": "K7", "typ": "Produktion", "label": "Arbeit, Innovation und kreative Wertschöpfung" },
     { "quelle": "K7", "ziel": "K6", "typ": "Daten_Fluss", "label": "Projektvorschläge und Nutzungsdaten für die Plattform" },
     { "quelle": "K15", "ziel": "K11", "typ": "Garantie", "label": "Verfassungsrechtliche Absicherung der Sockelgarantie" },
     { "quelle": "K15", "ziel": "K6", "typ": "Legitimation", "label": "Zertifizierung von Projekten und Modulen" },
     { "quelle": "K16", "ziel": "K10", "typ": "Schutz", "label": "Bildet die unantastbare Basis für die Vorteilsabgabe" },
-    { "quelle": "K16", "ziel": "K3", "typ": "Grundlage", "label": "Speist das individuelle Abgabenkonto als Nießbrauch" },
-    { "quelle": "K14", "ziel": "K16", "typ": "Einbringung", "label": "Lebensleistung und Transfer fließen in den Kapitalstock ein" }
+    { "quelle": "K16", "ziel": "K3", "typ": "Grundlage", "label": "Kapitalstock bleibt unäußerliches Gemeinschaftseigentum" },
+    { "quelle": "K2", "ziel": "K16", "typ": "Kapitalisierung", "label": "10% Abgabe auf den Transfer fließen direkt zurück in den Kapitalstock" }
   ],
 
   "system_regeln": {
@@ -54,11 +55,11 @@
     "win_win_dynamik": "Effizienz der Wirtschaft erhöht die Bürger-Dividende und stärkt kollektive Stabilität.",
     "ehrliche_preise": "Kosten werden an physische Nutzung gekoppelt, nicht an politische Zyklen.",
     "lokalisierungs_effekt": "Regionale Produktion wird durch ehrliche Netzpreise strukturell begünstigt.",
-    "rückkopplungsnetz": "Alle Motoren koppeln an Abgabe, Fonds und Flat Tax zurück und stabilisieren das Gesamtsystem.",
-    "kreislauf_mensch": "Der Mensch ist nicht nur Empfänger, sondern aktiver Teil des Kreislaufs (Arbeit, Innovation, Teilhabe).",
+    "rückkopplungsnetz": "Alle Loops treffen sich an den drei Knotenpunkten (Abgabe, Fonds, Flat Tax) und verhindern den Systemdrift.",
+    "kreislauf_mensch": "Der Mensch bringt Zeit und Kreativität ein, geschützt durch die unzerstörbare Basisschicht.",
     "kreislauf_staat": "Der Staat ist nicht Planer, sondern Garant von Verfassung, Sockelgarantie und Zertifizierung.",
-    "kreislauf_ökonomie": "Kapitalflüsse sind keine Einbahnstraße, sondern zirkuläre Rückkopplungen, die sich selbst stabilisieren."
+    "kreislauf_ökonomie": "Kapital folgt der realen physischen Nutzung, wodurch spekulative Knappheit aus dem System fällt."
   },
   
-  "meta_kommentar": "Version 1.1 schließt die Kreisläufe vollständig. Der Mensch bringt Arbeit und Kreativität ein, der Staat sichert die Rahmenbedingungen, und die Ökonomie zirkuliert über Abgaben, Fonds und Renditen. Die Trennung von Substanz und Vorteil ist als eigener Knoten modelliert und verankert das System verfassungsrechtlich."
+  "meta_kommentar": "Version 1.2 schließt die Kreisläufe exakt nach der Textlogik. Die Kanten wurden an die rekursive Rückkopplungskette (Abgabe -> Fonds -> Rendite -> Flat Tax) angepasst. Die Kapitalisierung von Transferleistungen (S. 34) wurde als stabiler Rückstrom von K2 zu K16 verankert, wodurch auch passive Empfänger zu Kapitalteilhabern werden."
 }
