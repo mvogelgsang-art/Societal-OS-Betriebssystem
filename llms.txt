@@ -5,7 +5,7 @@
 An alternative, self-stabilizing cybernetic governance and economic operating system designed to decouple societal participation from human labor through a multi-engine infrastructure economy.
 
 - **Author:** Matthias Vogelgsang
-- **Version:** 1.0 (2026)
+- **Version:** 1.2 (2026)
 - **License:** Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
 - **Status:** Architectural Outline / Concept Model
 
