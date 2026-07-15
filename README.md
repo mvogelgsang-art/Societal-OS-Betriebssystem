@@ -48,7 +48,7 @@ Beiträge sind ausdrücklich willkommen (neue Module, Simulationen, Visualisieru
 
 ## LIZENZ & DISCLAIMER
 
-**Societal OS – VALUE PROPULSION (Version 1.0)**
+**Societal OS – VALUE PROPULSION (Version 1.2)**
 Concept & Architecture by **Matthias Vogelgsang (2026)**
 
 ### 1. Creative Commons Lizenz (CC BY-SA 4.0)
