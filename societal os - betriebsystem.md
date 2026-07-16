@@ -564,3 +564,10 @@ Renditemotor: Mechanik, in der Infrastruktur Rendite erzeugt, die wiederum neue 
 Generationenmotor: Mechanik, in der Erbe → Vorteil → Abgabe → Infrastruktur → Rendite → Existenzsicherung erzeugt. Er verbindet Eigentum, Erbschaft und soziale Sicherheit.
 Plattformmotor: Mechanik, in der Traffic → Nutzung → Einnahmen → Rendite → Abgabe → Infrastruktur erzeugt. Die Plattform skaliert alle anderen Motoren digital.
 Drift: Systemische Abweichung, die entsteht, wenn Wertströme nicht rückgekoppelt sind. Drift ist das, was passiert, wenn Kapital, Arbeit und Infrastruktur nicht mehr sauber miteinander verbunden sind.
+___________________________________________________________________________________________________________
+
+Societal OS — VALUE PROPULSION Architecture Text & System Design | Version 1.0 (2026) Concept by Matthias Vogelgsang
+
+This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0). 📄 Read the full documentation and contribute on GitHub
+
+Version 1.2
