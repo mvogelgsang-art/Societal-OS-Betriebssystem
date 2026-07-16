@@ -1080,6 +1080,8 @@ Regeneration → Stabilität → weniger Ausfälle → höhere Frequenz → höh
 
 Da psychische Belastungen sinken und Regeneration systemisch möglich ist, steigt die durchschnittliche Produktivität deutlich. Die heutige Ordnung verliert Produktivität durch Überlastung, Burnout, Fehlzeiten und chronische Erschöpfung; das Societal OS gewinnt Produktivität durch Frequenzfreiheit, Redundanz und risikofreie Auszeiten. Die Produktivität steigt nicht durch individuelle Anstrengung, sondern durch die Architektur selbst.
 
+Besondere Relevanz hat die Frequenzfreiheit bei Berufsgruppen, deren Fehler Dritte gefährden können. Ein Arzt, der eine Auszeit nehmen kann, ohne dabei seine wirtschaftliche Existenz zu riskieren, ist weniger auf Übermüdung angewiesen – ein anerkannter Risikofaktor für Behandlungsfehler. Kombiniert mit einer kollektivierten Arzthaftung, die Defensivmedizin aus Regressangst reduziert, wirkt die Existenzsicherung hier auf zwei unabhängigen Ebenen zugleich: weniger Angst vor Fehlern und weniger tatsächliche Fehler durch bessere Regeneration.
+
 10.1.18 Zuschuss‑Sektor: Frequenzbasierte Tagelöhnermechanik
 
 Durch die Kombination aus Sockelgarantie, Unternehmensentlastung und Frequenzlogik könnte ein neuer Beschäftigungssektor entstehen, der in der heutigen Ordnung strukturell unmöglich ist. Da die Existenz unabhängig von Erwerbsarbeit gesichert ist und Unternehmen keine Ausfallkosten tragen, wird jede zusätzliche Tätigkeit zu einem reinen Zuschuss zur Sockelgarantie.
