@@ -1,5 +1,8 @@
 # DISCLAIMER: Modellrechnung. Output ≠ Realität. Parameter sind Annahmen.
 # Zweck: Prüfbarkeit der Mechanik. Keine Prognose.
+# Diese Modellrechnung zeigt nur, dass die beschriebene Rückkopplungslogik
+# formal in eine einfache Iteration überführbar ist. Sie sagt nichts darüber aus,
+# ob die Parameter realistisch sind.
 
 # sim/endgame.py – Härtetest: 0% Wachstum, 50 Jahre
 ABGABE, FLAT_TAX, JAHRE = 0.10, 0.25, 50
