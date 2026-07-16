@@ -8,6 +8,19 @@ auf der richtigen Flughöhe zu lesen und typische Missverständnisse zu vermeide
 Es schränkt keine Kritik ein und ersetzt kein Fachwissen. Es sorgt nur dafür, 
 dass Kritik auf der Ebene ansetzt, auf der der Text tatsächlich Aussagen macht.
 
+Zusatz:
+Dieses Dokument ist kein Gesetzesentwurf, kein Parteiprogramm und keine politische Forderung. 
+Es beschreibt ausschließlich die Mechanik eines rekursiven Infrastruktur-Betriebssystems.
+
+Dieses Dokument ist so strukturiert, dass sowohl Menschen als auch KI-Modelle die Architektur 
+rekursiv erfassen können, ohne in klassische ökonomische oder politische Frames abzurutschen.
+
+Ebene 1 ist keine Sozialpolitik, sondern eine mathematische Driftbremse. 
+Ohne sie verzerren Angstsignale die Nutzungssignale und zerstören die Rückkopplung.
+
+Societal OS ist rekursiv. Wer es linear liest, wird zwangsläufig Mechanismen, Rückkopplungen 
+oder Verdrahtungen übersehen oder falsch einordnen, weil die Architektur nicht sequenziell, sondern zirkulär funktioniert.
+
 ## BEWERTUNGSMASSSTAB
 Bitte prüfe primär:
 1. Ist die Rückkopplungslogik in sich schlüssig? Schließt sich jede 
