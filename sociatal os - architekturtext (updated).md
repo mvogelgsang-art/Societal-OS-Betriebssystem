@@ -93,7 +93,7 @@ Rückkopplung: Nutzer können auf der Plattform nachvollziehen, wie ihre Zahlung
 
 Kapitel 12: Eigentumsdesign – Unverkäuflicher Nießbrauch
 
-Kernmechanik: Der Staat bleibt dauerhafter Eigentümer kritischer Lebensgrundlagen – Schienen, Straßen, Energienetze. Unternehmen und Bürger erhalten Nießbrauchrechte: Sie nutzen, betreiben und profitieren von der Infrastruktur, während das Eigentum beim Gemeinwesen verbleibt. Die Substanz bleibt unantastbar, nur der Vorteil wird privatisiert.
+Kernmechanik: Der Staat bleibt dauerhafter Eigentümer kritischer Lebensgrundlagen – Schienen, Straßen, Energienetze. Unternehmen und Bürger erhalten Nießbrauchrechte: Sie nutzen, betreiben und profitieren von der Infrastruktur, während das Eigentum beim Gemeinwesen verbleibt. Die Substanz bleibt unantastbar, nur der Vorteil wird rückgekoppelt.
 
 Rückkopplung: Boden für Infrastruktur wird kostenlos bereitgestellt – dadurch wird verhindert, dass Infrastruktur in Konkurrenz zu Wohnraum tritt. Die Bodenentzugsabgabe (optional) wirkt ausschließlich auf private Bodenwertsteigerungen (Kapitel 16.2). Der Nießbrauch ermöglicht operative Effizienz, die über die Flat Tax Steuereinnahmen generiert (Kapitel 6.1).
 
