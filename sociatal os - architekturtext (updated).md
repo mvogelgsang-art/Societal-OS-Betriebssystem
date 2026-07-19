@@ -1008,6 +1008,14 @@ Existenzielle Sicherheit verhindert Erpressbarkeit. Sie schafft einen Zustand, i
 
 Würde wird in diesem Entwurf als relationärer Systemzustand verstanden: Sie entsteht nicht isoliert im Individuum, sondern im Verhältnis zwischen Mensch und Gemeinschaft. Ein würdiges System kann Verlust nicht verhindern – denn Verlust gehört zur Realität des Lebens – sondern nur verhindern, dass Verlust in einen Fall unter das menschenunwürdige Minimum führt.
 
+Würde entsteht aus der Tragfähigkeit der Gemeinschaft.  
+Die Gemeinschaft stellt dem Einzelnen existenzielle Sicherheit und Teilhabe bereit – nicht als moralische Geste, sondern als strukturelles Angebot. Ein endliches System kann nur das verteilen, was es gemeinsam erwirtschaftet; deshalb ist Würde kein absoluter Anspruch, sondern ein relationärer Zustand.
+
+Würde bedeutet zu verstehen, dass man getragen wird – und dass die Gemeinschaft zugleich Angebote macht, selbst wieder tragend zu werden.  
+Die Gemeinschaft trägt den Einzelnen durch Infrastruktur, Sicherheit und Resonanzräume. Sie bietet zugleich offene, nicht‑erpresserische Wege an, wie Menschen nach Verlust, Krankheit oder Übergängen wieder in produktive oder soziale Rollen zurückfinden können.
+
+Absolute Würde wäre unlogisch, weil sie unbegrenzte Ansprüche erzeugen würde, die die Würde anderer verletzen. Nur eine kollisionsfreie, ressourcenbasierte Zuteilung stabilisiert Würde als Systemzustand – und nur ein System, das Rückwege anbietet, verhindert dauerhafte Abhängigkeit und stärkt die wechselseitige Teilhabe.
+
 Diese Relation entsteht durch Rückkopplung: Existenzielle Sicherheit schafft die Freiheit, teilzunehmen; Teilhabe erzeugt Resonanz und Wirkung; die Plattform verstärkt diese Rückkopplung, indem sie Teilhabe sichtbar und gestaltbar macht. Erst dieses Zusammenspiel stabilisiert Würde als Systemzustand.
 
 Existenzielle Sicherheit ist dabei kein statischer Wert, sondern an die reale Leistungsfähigkeit der Gemeinschaft gekoppelt. Ein System kann nur verteilen, was es gemeinsam erwirtschaftet. Sinkt die gesamtgesellschaftliche Produktivität dauerhaft, sinkt auch der materielle Umfang der Existenzsicherung – jedoch niemals unter das menschenwürdige Minimum.
