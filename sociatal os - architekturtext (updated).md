@@ -59,8 +59,27 @@ Kernmechanik: Die Finanzarchitektur ruht auf mehreren unabhängigen Säulen: der
 
 Kapitel 7: Die renditefähige Abgabe im Detail
 
-Kernmechanik: Die Abgabe ist kein Steuer, sondern ein Investitionsfluss. Sie fließt in Infrastruktur, erzeugt Rendite und speist das persönliche Abgabenkonto. Die Rendite ist nicht spekulativ, sondern eine strukturelle Rechengröße – sie ist Teil der Kostenrechnung selbst. Die Abgabe ist nur ein Motor im Gesamtsystem; das System hängt nicht von ihr ab.
+Kapitel 7: Die renditefähige Abgabe im Detail
+Kernmechanik: Die Abgabe ist keine Steuer, sondern ein Investitionsfluss. Sie fließt in Infrastruktur, erzeugt Rendite und speist das persönliche Abgabenkonto. 
+Funktionsweise des Abgabenkontos
 
+Das Abgabenkonto hat zwei Seiten und erfüllt zwei unterschiedliche Funktionen.
+
+(1) Abgabenseite – die Abgabe wird gebucht und anschließend investiert
+Wenn Einkommen, Gehalt, Rente, Gewinn oder andere steuerpflichtige Einkünfte eine Abgabe erzeugen, wird diese Abgabe auf der Abgabenseite des Abgabenkontos gebucht. Sie liegt dort nicht als Kapitalbestand, sondern als bereitstehende Abgabe, die in ein beliebiges Projekt investiert werden kann. Sobald die Abgabe investiert wird, ist sie weg. Sie existiert danach nicht mehr als Bestand, sondern nur als Auslöser eines späteren Renditeflusses.
+
+(2) Renditeseite – die Renditen werden gutgeschrieben und bilden den Kapitalstock
+Die Investition der Abgabe erzeugt Renditen. Diese Renditen werden auf der Renditeseite des Abgabenkontos verbucht. Sie bleiben bestehen, wachsen über die Zeit und können erneut abgabefähig werden, bei Ausschüttung. Diese gutgeschriebenen Renditen bilden den Kapitalstock.
+
+Damit gilt:
+
+Die Abgabe wird gebucht und anschließend investiert.
+Nach der Investition ist die Abgabe weg.
+Nur die Renditen bleiben bestehen.
+Der Kapitalstock entsteht ausschließlich aus diesen Renditen.
+Das Abgabenkonto ist kein Kapitalbestand, sondern die Schnittstelle zwischen Abgabe (investiv, weg) und Rendite (bleibt, wächst).
+
+Die Rendite ist nicht spekulativ, sondern eine strukturelle Rechengröße – sie ist Teil der Kostenrechnung selbst. Die Abgabe ist nur ein Motor im Gesamtsystem; das System hängt nicht von ihr ab.
 Rückkopplung: Die Abgabe speist das Abgabenkonto (individuelle Ebene), den Bürgerfonds (kollektive Ebene) und die Flat Tax (systemische Ebene). Sie ist der zentrale Investitionshebel, aber sie ist nicht der einzige – die Plattform (Kapitel 17) und der Reservefonds (Kapitel 16) stabilisieren das System, wenn die Abgabe schwankt.
 
 Kapitel 8: Kinder als Kapitalteilhaber ab Geburt
