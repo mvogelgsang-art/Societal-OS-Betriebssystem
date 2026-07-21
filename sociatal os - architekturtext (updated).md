@@ -4,6 +4,8 @@ Gemeinschaftskapitalismus und die Macht der Teilhabe
 
 Von Matthias Vogelgsang
 
+Manchmal verändert sich ein System nicht durch große Reformen, sondern durch einen einzigen, präzisen Hebel. Wie der Flügelschlag eines Schmetterlings, der eine Kette von Ereignissen auslöst, genügt eine minimale Kopplungsänderung, um ein komplexes System neu zu ordnen. In dieser Architektur ist es die Umwandlung eines kleinen Teils der Steuer in eine renditefähige Abgabe für Infrastruktur – die Lebensader jeder Gesellschaft. Ein winziger Eingriff, und die Dynamik beginnt sich zu verschieben: Infrastruktur trägt sich selbst, Regionen gewinnen an Attraktivität, Teilhabe wächst, Existenzsicherung entsteht als Output, und das System stabilisiert sich durch seine eigene Struktur. Nicht durch Zwang, sondern durch Kopplung. Nicht durch Komplexität, sondern durch Präzision.
+
 PUNKT 1: LESEPLAN
 Wie Sie dieses Dokument lesen sollten
 
