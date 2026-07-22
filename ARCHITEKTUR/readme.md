@@ -9,6 +9,16 @@ Bei Fragen zu einem spezifischen Modul bitte die entsprechende Datei laden. Die 
 
 Societal OS – Architektur-Module Dieser Ordner enthält die modularisierte Architektur des Societal OS. Die vollständigen Inhalte befinden sich in den beiden Hauptdokumenten:
 
+Hinweis zu KI‑generierten Modulen
+Die Module dieses Projekts wurden aktuell mit Unterstützung von KI‑Systemen erstellt.
+Sie sind noch nicht vollständig geprüft und können inhaltliche Fehler, Unschärfen oder strukturelle Abweichungen enthalten.
+
+Die Hauptdokumente definieren die verbindliche Systemlogik.
+Die Module dienen der Ausarbeitung einzelner Bereiche und werden in späteren Überarbeitungsphasen manuell korrigiert und präzisiert.
+
+KI‑generierte Inhalte können Fehler machen.
+Bitte alle Module als vorläufige Arbeitsversionen betrachten.
+
 ../SOCIETAL_OS_ARCHITEKTUR.md ../SOCIETAL_OS_KERN.md
 
 Modulübersicht Modul Thema Quelle 
