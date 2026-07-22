@@ -11,7 +11,7 @@ Modulübersicht Modul Thema Quelle
 - 05_wuerde.md Würde als relationärer Systemzustand Architekturtext, Kapitel 4 
 - 06_existenzsicherung.md Sockelmechanik ohne Bürokratie Architekturtext, Kapitel 4 
 - 07_kreislaeufe.md Drei zusammenwirkende Kreisläufe Architekturtext, Kapitel 5 
-- 08_rueckkopplungen_2_ordnung.md Rückkopplungen zweiter Ordnung Architekturtext, Kapitel 5 (Systemische Rückkopplungen) 
+- 08_rueckkopplungen_2_ordnung/3_ordnung.md Rückkopplungen zweiter Ordnung Architekturtext, Kapitel 5 (Systemische Rückkopplungen) 
 - 09_existenzstabilitaetsloop.md Existenz-Stabilitäts-Loop Architekturtext, Kapitel 5 (Beispiel-Loop) 
 - 10_finanzarchitektur.md Finanzarchitektonische Bausteine Architekturtext, Kapitel 6 
 - 11_flat_tax.md Driftresistente Finanzierungsbasis Architekturtext, Kapitel 6 
