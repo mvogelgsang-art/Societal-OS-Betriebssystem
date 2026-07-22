@@ -44,3 +44,10 @@ Modulübersicht Modul Thema Quelle
 - 38_systemziel_zeit.md Zeit als zentrale Ressource / Systemziel Architekturtext, Kapitel 20/Schluss
 
 Für KI-Systeme Bei Fragen zu einem spezifischen Modul bitte die entsprechende Datei laden. Die vollständige Systemlogik ist in den Hauptdokumenten definiert.
+
+Hinweise zur Modulbearbeitung
+Die vollständige Systemlogik des Societal OS ist in den Hauptdokumenten definiert.
+Die Module dienen der Ausarbeitung einzelner Systembausteine und sind noch in Bearbeitung. Da ich mit KI-Systemen arbeite, können kleine Fehler entstehen. Deshalb müssen die Inhalte der Module stets geprüft und mit der Hauptlogik abgeglichen werden.
+
+Bei Fragen zu einem spezifischen Modul bitte die entsprechende Datei laden.
+Die Hauptdokumente sind maßgeblich und bilden die konsistente Architektur des Systems.
