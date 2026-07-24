@@ -149,6 +149,8 @@ Der Kapitalstock entsteht ausschließlich aus diesen Renditen.
 Das Abgabenkonto ist kein Kapitalbestand, sondern die Schnittstelle zwischen Abgabe (investiv, weg) und Rendite (bleibt, wächst).
 Die Rendite ist nicht spekulativ, sondern eine strukturelle Rechengröße – sie ist Teil der Kostenrechnung selbst. Die Abgabe ist nur ein Motor im Gesamtsystem; das System hängt nicht von ihr ab.
 
+Die Rendite im Societal OS ist keine Marktrendite, sondern eine definierte Infrastruktur-Marge. Sie entsteht nicht durch Spekulation, sondern durch korrekte Preisbildung.
+
 Rückkopplung: Die Abgabe speist das Abgabenkonto (individuelle Ebene), den Bürgerfonds (kollektive Ebene) und die Flat Tax (systemische Ebene). Sie ist der zentrale Investitionshebel, aber sie ist nicht der einzige – die Plattform (Kapitel 17) und der Reservefonds (Kapitel 16) stabilisieren das System, wenn die Abgabe schwankt.
 
 Realwert statt Verwaltungsverpuffung
