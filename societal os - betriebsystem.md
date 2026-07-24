@@ -1,4 +1,4 @@
-Societal OS – Betriebssystem (noch in Bearbeitung)
+Societal OS – Betriebssystem
 
 Gemeinschaftskapitalismus und die Macht der Teilhabe
 
