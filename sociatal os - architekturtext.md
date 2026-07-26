@@ -2041,6 +2041,26 @@ Unternehmen profitieren, weil hohe Nutzung hohe Renditen erzeugt.
 Die Gesellschaft profitiert, weil die Kosten sinken.
 Die Industrie profitiert, weil Kapitalströme steigen.
 Die Transformation profitiert, weil die Innovationsfrequenz steigt.
+
+Materialkreislauf als dritter Motor (Ergänzung)
+
+Neben Abgabe und Nutzung entsteht ein dritter Gewinnmotor: der Materialerhalt.
+Da die Fahrzeuge nicht verkauft werden, bleibt die physische Substanz vollständig im Eigentum der Hersteller. Beim Rückbau werden Batterien, Antriebe und Materialien wiederverwendet und fließen erneut in die Produktion ein. Dadurch entsteht ein zirkulärer Materialkreislauf:
+
+Nutzung → Verschleiß → Rückbau → Materialwert → Neubau → erneute Nutzung
+
+Der Materialwert geht nicht verloren, sondern bleibt Teil des Kapitalstocks.
+
+Unternehmen profitieren dreifach:
+
+Kapitalgewinn durch die Abgabe (Anschaffungskosten sinken)
+
+Renditegewinn durch Nutzung (Abo‑Einnahmen)
+
+Materialgewinn durch Substanzerhalt (Wiederverwendung statt Wertverlust)
+
+Dadurch können Unternehmen Fahrzeuge sogar unter Produktionskosten einkaufen, weil die Rendite aus Nutzung und der Materialwert aus Rückbau die Differenz überkompensieren. Die Transformation wird nicht nur finanziell, sondern auch materiell driftfrei.
+
 14. Subvention 2.0: Nicht-renditefähige Infrastruktur
 Das Legacy‑Building‑Prinzip schafft einen marktwirtschaftlichen Anreiz für Unternehmen, nicht‑renditefähige Infrastruktur zu bauen, ohne das Steuersystem zu verzerren.
 
