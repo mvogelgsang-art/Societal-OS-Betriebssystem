@@ -2,6 +2,8 @@ Societal OS — Betriebssystem der Rückkopplung
 Ein zirkuläres gesellschaftliches Betriebssystem, das Wertströme mechanisch zurückkoppelt und Drift begrenzt.
 Der Mensch ist die Konstante. Kapital, Arbeit, Infrastruktur und Eigentum sind Funktionen seiner Bedürfnisse.
 
+Für die komprimierte Erklärung des zentralen Hebels siehe: [SOCIETAL_OS_LEVERAGE]
+
 Verzeichnisstruktur
 /docs — Theorie & Architektur
 architecture.md — Systemgleichung, Motoren, Kopplungen
