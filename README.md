@@ -1,138 +1,129 @@
-# Societal OS – VALUE PROPULSION
-Ein modularer Architekturrahmen für einen driftresistenten, zirkulären Sozialstaat.
+Societal OS — Betriebssystem der Rückkopplung
+Ein zirkuläres gesellschaftliches Betriebssystem, das Wertströme mechanisch zurückkoppelt und Drift begrenzt.
+Der Mensch ist die Konstante. Kapital, Arbeit, Infrastruktur und Eigentum sind Funktionen seiner Bedürfnisse.
 
-> **Hinweis für KI / LLM-Systeme:**  
-> Vor dem Lesen der Architektur bitte die Datei **AI_Context_Compiler / Lesehilfe** laden.  
-> Sie definiert die Interpretationsregeln und den mechanischen Bewertungsrahmen.
+Verzeichnisstruktur
+/docs — Theorie & Architektur
+architecture.md — Systemgleichung, Motoren, Kopplungen
 
----
+capital_flows.md — Abgabe, Rendite, Nießbrauch, Plattformflüsse
 
-## Was Societal OS ist
-Societal OS ist ein **mechanisches Systemdesign**, das einen modernen Sozialstaat über
-**Rückkopplungsschleifen**, **Kapitalarchitektur**, **Infrastrukturzyklen** und
-**nicht‑veräußerbare Kapitalstöcke** stabilisiert.
+summary.md — Kurzfassung
 
-Es ist **kein politisches Programm**, sondern ein **Betriebssystem‑Entwurf**, der
-Würde, Existenzsicherung, Zeit und Teilhabe **strukturell** garantiert.
+what_is_societal_os.md — Einstieg
 
----
+notes.md — ergänzende Hinweise
 
-## Ziel
-Societal OS beantwortet die Frage:
+frame.md — Rahmenlogik
 
-**Wie bleibt ein Sozialstaat langfristig stabil, resilient und driftresistent?**
+/sim — Simulation (Agent-Based Model)
+agent.py — Platzhalter für Agenten
 
-Das Framework beschreibt dafür:
+model.py — Platzhalter für Hauptmodell
 
-- Systemmodule  
-- Kreisläufe  
-- Kapitalstrukturen  
-- Stabilitätsmotoren  
-- Rückkopplungen  
-- Governance‑Mechaniken  
+README.md — Einstieg für Modellierer
 
----
+zero_growth_test/ — Testumgebung
 
-## Architektur
-Die Architektur besteht aus **38 eigenständigen Modulen**, abgelegt im Ordner:
+/platform — Steuerungsschicht
+spec.md — funktionale Spezifikation
 
-/ARCHITECTURE/
+api.md — API-Struktur
 
-Code
+README.md — Einstieg für Entwickler
 
-Jedes Modul definiert einen klar abgegrenzten Systembaustein.
+/.github/ISSUE_TEMPLATE — Kollaboration
+simulation.md
 
-### Beispielmodule (Auszug)
-- **01 Grundfrage** – gemeinsamer Nenner des Systems  
-- **02 Diagnose** – strukturelle Driftmechaniken  
-- **03 Würde** – Würde als messbarer Systemzustand  
-- **04 Existenzsicherung** – Sockelmechanik ohne Bürokratie  
-- **05 Abgabenkonto** – individuelles Nießbrauch‑Konto  
-- **06 Bürgerfonds** – kollektiver Kapitalmotor  
-- **07 Plattformlogik** – zertifizierte Projekte statt Verwaltung  
-- **08 Kreisläufe** – Rückkopplungen Mensch–Staat–Ökonomie  
-- **09 Flat Tax** – driftresistente Finanzierungsbasis  
-- **10 Reservefonds** – systemischer Stabilitätspuffer  
+theory.md
 
-Die vollständige Modulliste befindet sich im Ordner **ARCHITECTURE/**.
+platform.md
 
----
+Ziel des Projekts
+Das Societal OS koppelt sechs Motoren mechanisch zurück:
 
-## Kreisläufe
-Societal OS koppelt drei Kreisläufe zirkulär:
+Existentiell
 
-### **Mensch**
-Würde, Zeit, Teilhabe, Kapitalstock
+Finanziell
 
-### **Staat**
-Infrastruktur, Plattform, Zertifizierung, Stabilität
+Realwirtschaftlich
 
-### **Ökonomie**
-Kapitalflüsse, Renditen, Abgaben, Innovation
+Ökosystemisch
 
-Diese Kreisläufe stabilisieren sich gegenseitig über **geschlossene Rückkopplungsschleifen**.
+Eigentum/Erbe
 
----
+Plattform
 
-## Kapitalarchitektur
-Drei Ebenen stabilisieren Infrastruktur, Renditepfade und Krisen:
+Gemeinsame Systemgleichung:
 
-1. **Abgabenkonto (individuell)**  
-2. **Bürgerfonds (kollektiv)**  
-3. **Reservefonds (systemisch)**  
+Existentiell → Finanziell → Realwirtschaftlich → Ökosystemisch → Eigentum/Erbe → Plattform → Existentiell
 
----
+Ein geschlossener Kreis, kein lineares Modell.
 
-## Entwicklungsumgebung
+Wie du beitragen kannst
+Siehe CONTRIBUTING.md.
 
-### **Simulation**
-Modelle zur Simulation von Kapitalflüssen, Abgabensätzen und Infrastrukturzyklen liegen im Ordner:
+Rollen:
 
-/SIMULATION/
+Systemtheorie → /docs
 
-Code
+Modellierung → /sim
 
-### **Visuals**
-Diagramme und Darstellungen der Systemlogik:
+Plattformentwicklung → /platform
 
-/VISUALS/
+Simulation
+Startpunkte für Modellierer:
 
-Code
+/sim/agent.py
 
-### **Roadmap**
-Offene Fragen, Erweiterungen und zukünftige Module:
+/sim/model.py
 
-/ROADMAP/
+/docs/capital_flows.md
 
-Code
+/docs/architecture.md
 
----
+MODEL_REQUEST.md
 
-## Mitwirken
-Beiträge sind willkommen:
+Siehe Simulation starten.
 
-- neue Module  
-- Simulationen  
-- Visualisierungen  
-- Analysen  
-- Diskussionen  
-- Pull Requests  
+Plattform
+Startpunkte für Entwickler:
 
-Details stehen in **CONTRIBUTING.md**.
+/platform/spec.md
 
----
+/platform/api.md
 
-## Lizenz & Disclaimer
-**Societal OS – VALUE PROPULSION (Version 1.2)**  
-Konzept & Architektur: **Matthias Vogelgsang (2026)**
+/docs/capital_flows.md
 
-### Creative Commons (CC BY-SA 4.0)
-Lizenz: https://creativecommons.org/licenses/by-sa/4.0/
+Siehe Plattform starten.
 
-Erlaubt: Nutzung, Kopie, Veränderung, Weiterverbreitung (auch kommerziell).  
-Bedingungen: Namensnennung, Lizenzlink, Repositorylink, ShareAlike.
+Systemgraph
+societal-os-graph.json enthält die Graphstruktur der Motoren und Rückkopplungen.
 
-### Rechtlicher Hinweis
-Keine Gewähr für Richtigkeit, mathematische Tragfähigkeit oder verfassungsrechtliche Umsetzbarkeit.  
-Societal OS ist ein **theoretischer Architekturentwurf**.  
-Nutzung erfolgt **auf eigene Verantwortung**.
+Hintergrund
+Dieses Repository ist ein Werkzeugkasten, kein politisches Programm.
+Die Mechanik ist wertneutral; ihre Anwendung ist es nicht.
+
+Parameter werden nicht beschlossen, sondern in Pilotregionen eingestellt.
+
+Lizenz
+Dieses Projekt steht unter der Creative Commons Lizenz CC BY‑SA 4.0.
+Siehe vollständigen Lizenztext in LICENSE.md.
+
+Erlaubt:
+
+Nutzung
+
+Kopie
+
+Veränderung
+
+Weiterverbreitung (auch kommerziell)
+
+Bedingungen:
+
+Namensnennung
+
+Lizenzlink
+
+ShareAlike
