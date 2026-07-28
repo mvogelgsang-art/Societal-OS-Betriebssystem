@@ -1,4 +1,4 @@
-Societal OS – Betriebssystem
+Societal OS – Kapitalflüsse
 
 Gemeinschaftskapitalismus und die Macht der Teilhabe
 
