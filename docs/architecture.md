@@ -2491,6 +2491,8 @@ Rückkopplung: Die Plattform liefert KI die Daten, die sie benötigt, um die Ges
 
 Um populistische Fehlallokationen – etwa die Überfinanzierung emotional beliebter Spaßprojekte bei gleichzeitiger Vernachlässigung der Basisinfrastruktur – zu verhindern, behält der Staat eine aktive Filterfunktion. Bevor ein Projekt auf der Plattform für PreAbos und Bürgerkapital freigeschaltet wird, muss es den staatlichen Zertifizierungs- und Genehmigungsprozess durchlaufen. Der Staat steuert das System somit über die Zulassung und kann systemrelevante, unpopuläre Kernprojekte gezielt priorisieren.
 
+Jede digitale Interaktion und jede finanzielle Buchung im gesamten System operiert wie eine zirkuläre Transaktionsgebühr, die direkt an die fünf Eigentümergruppen fließt. Wenn eine Plattform wie AirBnB oder X Umsätze generiert, fließen die Gebühren zu exakt gleichen Teilen an den Staat, die Banken, die Tech-Konzerne, die Realwirtschaft und den Bürgerfonds. Niemand kann das Netz gratis ausbeuten: Jede digitale Transaktion füllt vollautomatisch die Kassen des gesamten gesellschaftlichen Fundaments.
+
 17.2 Eigentümerstruktur
 
 Dieser Entwurf sieht eine Aufteilung zu je 20 % zwischen Staat, Bürgerfonds, Banken, Technologieunternehmen und Unternehmen vor – mit der Begründung, dass jede Gruppe einen unverzichtbaren Beitrag leistet: Bürger bringen Nutzung und Daten, der Staat Legitimation und rechtlichen Rahmen, Banken Vorfinanzierung und Risikomanagement, Technologieunternehmen die technische Infrastruktur, Unternehmen die konkreten Projekte.
