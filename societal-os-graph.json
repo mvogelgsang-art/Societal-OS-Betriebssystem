@@ -682,4 +682,3 @@
   },
 
   "meta_kommentar": "Version 1.2 – Die JSON enthält Invarianten, Reaktionskaskaden, Systemzustände und Kapitelverweise, sodass die Architektur konsistent und mit deutlich reduziertem Interpretationsspielraum nachvollzogen werden kann.
-}
