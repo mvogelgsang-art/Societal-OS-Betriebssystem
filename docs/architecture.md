@@ -225,6 +225,8 @@ Materialschwankungen verändern die Mechanik nicht. Steigende Materialkosten wer
 
 Monopolstrukturen verlieren ihre Wirkung, weil Preise nicht politisch oder subjektiv festgelegt werden, sondern aus physischen Kosten entstehen. Ineffiziente Betreiber verlieren Kapitalzufluss und werden durch effizientere ersetzt. Preismissbrauch ist mechanisch ausgeschlossen, da Preisbildung eine Kostenrechnung ist und nicht verhandelt werden kann.
 
+Wenn ein Segment dauerhaft nicht mehr renditefähig ist, wird es eingestellt und rückgebaut. Der Rückbau ist selbst ein Infrastrukturzyklus und wird durch die Abgabe finanziert, unabhängig davon, ob die Materialeinnahmen die Kosten decken.
+
 Nutzungsspitzen erzeugen keinen Druck, sondern Wachstum: Mehr Nutzung erzeugt mehr Einnahmen, mehr Rendite und mehr Ausbau. Regionale Katastrophen werden durch den Reservefonds abgefedert, der Wiederaufbau priorisiert und Infrastrukturzyklen stabil hält. Technologische Brüche führen nicht zu Kapitalverlust, sondern zu Transformation: Alte Infrastruktur wird rückgebaut, Materialwerte bleiben real, neue Infrastruktur ersetzt die alte.
 
 Damit gilt: Infrastruktur verhält sich wie ein Markt – jedoch wie ein physischer, driftfreier Markt, dessen Stressmechaniken durch Kopplung, Reservefonds und Kostenwahrheit stabilisiert werden.
