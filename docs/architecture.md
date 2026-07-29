@@ -2404,13 +2404,13 @@ Hier die überarbeitete Fassung, mit den drei besprochenen Korrekturen: (1) Ents
 
 16.3.1 – Die Mietpreisbremse 2.0: Wie der Bürgerfonds den Wohnungsmarkt entlastet
 
-Der Bürgerfonds ist nicht nur ein kollektives Kapitalpolster – er ist der größte, nachhaltigste Bauträger des Systems. Anders als private Investoren, die auf Rendite durch steigende Mieten angewiesen sind, verfolgt der Fonds ein mechanisches Ziel: Er baut Wohnraum dort, wo er gebraucht wird – und vermietet ihn unabhängig von den Baukosten.
+Der Bürgerfonds ist nicht nur ein kollektives Kapitalpolster – er ist der größte, nachhaltigste Bauträger des Systems. Anders als private Investoren, die auf Rendite durch steigende Mieten angewiesen sind, verfolgt der Fonds ein mechanisches Ziel: Er baut Wohnraum dort, wo er gebraucht wird – und kann ihn unabhängig von den Baukosten vermieten.
 
 Die Mechanik:
 
 Die Erbschafts- und Vorteilsabgaben speisen den Bürgerfonds. Der Fonds investiert gezielt in den Wohnungsbau – in Regionen mit hohem Bedarf.
 
-Weil die Abgabe nach der Investition als Kapitaleinsatz "verbraucht" ist (Nießbrauch-Logik, Kapitel 7), müssen die Baukosten nicht über die Miete zurückverdient werden. Das eröffnet einen Freiraum, den private Bauträger nicht haben: Die Miethöhe kann unabhängig vom Baupreis festgelegt werden, allein danach, was betriebswirtschaftlich und sozial sinnvoll ist.
+Weil die Abgabe nach der Investition als Kapitaleinsatz verbraucht ist (Nießbrauch-Logik, Kapitel 7), müssen die Baukosten nicht über die Miete zurückverdient werden. Das eröffnet einen Freiraum, den private Bauträger nicht haben: Die Miethöhe kann unabhängig vom Baupreis festgelegt werden, allein danach, was betriebswirtschaftlich und sozial sinnvoll ist.
 
 Die Miethöhe wird nicht individuell verhandelt, sondern vom Bürgerfonds pro Projekt oder Cluster festgelegt – nach Maßgabe der übergeordneten Fondsstrategie, nicht nach der Zahlungsbereitschaft einzelner Mieter. Der Fonds wählt zwischen drei Stufen:
 
@@ -2424,7 +2424,17 @@ Wirkung auf den Markt: Jede neue Wohnung, die der Fonds baut, erhöht das Angebo
 
 Kapitalrückfluss beim Verkauf: Wird eine Fondswohnung veräußert, fließt der Verkaufserlös zuzüglich einer moderaten Rendite in den Bürgerfonds zurück und finanziert neue Bauprojekte. Dadurch bleibt der Kreislauf geschlossen: Laufende Mieten sichern die Nutzung und – je nach gewählter Stufe – den Kapitalaufbau; Verkaufserlöse finanzieren die nächste Bauwelle.
 
-Kein privater Extraktionsgewinn: Was im Societal OS mechanisch ausgeschlossen ist, ist nicht Rendite als solche, sondern die private, spekulative Gewinnextraktion durch Dritte – niemand kann eine Fondswohnung erwerben, um sie gewinnbringend weiterzuvermieten oder von steigenden Bodenpreisen zu profitieren, da die Substanz im Nießbrauch verbleibt (Kapitel 8.2). Die moderate, vom Fonds selbst gewählte Rendite ist davon zu unterscheiden: Sie fließt vollständig zurück in den kollektiven Kapitalstock und kommt damit allen Bürgern über die spätere Rentenausschüttung zugute – sie wird nicht privat angeeignet.
+Rückfluss privater Vorteile: sofort bei Nießbrauch, verzögert bei Verkauf
+
+Der Bürgerfonds hält seine Wohnbestände auf zwei unterschiedlichen Wegen, mit unterschiedlicher Rückkopplung:
+
+Bleibt eine Einheit im Nießbrauch/Pacht des Fonds (Substanz verbleibt im Gemeinschaftseigentum, Kapitel 8.2), ist private, spekulative Weitervermietung strukturell ausgeschlossen: Es gibt keinen Eigentumstitel, den ein Nutzer weiterveräußern könnte. Die vom Fonds gewählte moderate Rendite (~3 %, Kapitel 16.3.1) fließt vollständig in den kollektiven Kapitalstock und kommt allen Bürgern über die spätere Rentenausschüttung zugute.
+
+Verkauft der Fonds eine Einheit hingegen als Volleigentum, geht die Substanz endgültig in Privatbesitz über. Der neue Eigentümer kann anschließend frei vermieten, die Miete erhöhen oder weiterverkaufen.
+
+Der Rückfluss an die Gemeinschaft erfolgt hier nicht durch laufende Beschränkung, sondern verzögert und zuverlässig über die Erbschaftsabgabe (Kapitel 16): Spätestens beim nächsten Generationsübergang wird der aufgelaufene Vorteil – Wertsteigerung, kumulierte Mieterträge – erfasst und fließt in den Bürgerfonds zurück, aus dem die ursprüngliche Investition stammte. Spekulation ist damit nicht unterbunden, aber zeitlich begrenzt: Sie kann eine Generation lang privat genutzt werden, wird danach aber wieder in den kollektiven Kreislauf eingespeist.
+
+Der Bürgerfonds entscheidet projektweise, welcher Weg – dauerhafter Verbleib im Nießbrauch oder Verkauf mit späterem Rückfluss über die Erbschaftsabgabe – seiner jeweiligen Zielsetzung (kurzfristiger Kapitalbedarf für neue Bauprojekte vs. dauerhafte Sicherung gegen Spekulation) entspricht.
 
 Die Erbschaftsabgabe landet im Societal OS nicht im Haushalt, sondern im Bürgerfonds. Dadurch wird sie nicht konsumiert, sondern investiert: in Wohnraum, dessen Bezahlbarkeit und Renditeanteil der Bürgerfonds selbst steuert. Diese Struktur ist eine konkrete Form von Generationsgerechtigkeit, weil das Kapital der älteren Generation direkt sowohl die Lebensbedingungen als auch die Altersvorsorge der nächsten Generation stärkt.
 
