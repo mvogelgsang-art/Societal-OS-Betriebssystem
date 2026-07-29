@@ -160,3 +160,11 @@ Ein rekursiver Kapitalfluss‑Motor, der Infrastruktur, Gesundheit, Arbeit und K
 Überfinanzierung → höhere Renditeausschüttung → mehr verfügbare Investitionsmittel → neue Projekte → sektorale Rebalancierung  
 Überfinanzierung einzelner Sektoren erhöht Renditeausschüttungen auf Abgabenkonten, diese Mittel fließen in neue Projekte anderer Sektoren und balancieren Kapitalströme aus.
 Dämpfungs‑ und Rebalancierungs‑Loop gegen sektorale Blasen.
+
+29. Mikro‑Gamification‑ und Community‑Loop
+Existenzsicherung → Selektionsfreiheit → intrinsische Mikro‑Allokation → renditefähige Infrastrukturabgabe → Netzniveaustabilisierung → persönliche Zweck‑Rendite
+Die garantierte Existenzsicherung nimmt den materiellen Druck und ermöglicht freie, intrinsische Aufgabenwahl. Bürger übernehmen freiwillige Mikro‑Tasks (1–20 Euro), um Projekte, Community‑Hubs oder lokale Infrastruktur zu unterstützen. Jede Mikro‑Abgabe kapitalisiert punktuell genau jene Infrastruktur, stabilisiert deren Netzniveau und erzeugt eine persönliche Zweck‑Rendite. Arbeit wird zu einem gemeinschaftlichen Real‑Life‑Game, das Infrastruktur stärkt und Kapitalflüsse erhöht.
+
+30. Anti‑Schwarzarbeits‑Loop
+Schwarzarbeit → keine Abgabe → kein Infrastrukturfluss → keine Rendite → schwächeres Renditekonto → schwächere Existenzsicherung → schwächerer Bürgerfonds → sichtbarer sozialer Schaden → soziale Meldemechanik
+Schwarzarbeit unterbricht den Kapitalfluss: keine Abgabe, keine Rendite, weniger Flat‑Tax‑Rückkopplung, schwächere Existenzsicherung und geringerer Bürgerfondsanteil. Da diese Kapitalgüter sichtbar sind, entsteht soziale Rückkopplung: Schwarzarbeit wird als Selbst‑ und Gemeinschaftsschädigung erkannt. In regelorientierten Kulturen entsteht sozialer Druck und eine natürliche Meldemechanik. Schwarzarbeit bleibt möglich, wird aber ökonomisch und sozial unattraktiv, da reguläre Mikro‑Jobs ohnehin Flat Tax zahlen und durch die Existenzsicherung ohne Lohnzwang billig angeboten werden können.
