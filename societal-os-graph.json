@@ -52,9 +52,9 @@
     },
     {
       "id": "K6",
-      "label": "Plattformraum (Daten & Zertifizierung)",
+      "label": "Plattformraum (Allokation & Daten)",
       "typ": "Governance_Ebene",
-      "funktion": "Datenaggregation, Projektzertifizierung, dezentrale Entscheidungsfindung",
+      "funktion": "Datenaggregation, Projekt-Allokation, dezentrale Entscheidungsfindung  - auf Basis staatlich zertifizierter Projekte.",
       "invariante": "Die Plattform ist kein politisches Organ und keine Behörde, sondern ein mechanischer Allokationsmotor. Sie ersetzt zentrale Planung durch Nutzungssignale. Sie ist weder Exekutive noch Judikative, sondern ein technisches System, dessen Aufsicht eine eigene, unabhängige Instanz benötigt.",
       "textstelle": "Kapitel 17 – Die Plattform",
       "details": "Gehört fünf gleichberechtigten Eigentümergruppen (Staat, Bürgerfonds, Banken, Tech, Realwirtschaft) zu je 20 %."
