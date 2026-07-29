@@ -2400,21 +2400,33 @@ Der Gedanke dahinter greift das Grundgesetzprinzip auf, wonach Eigentum verpflic
 
 Die Vorteilsabgabe ist damit keine Belastung, sondern eine Rückkopplung: Wer strukturell profitiert, trägt strukturell bei.
 
+Hier die überarbeitete Fassung, mit den drei besprochenen Korrekturen: (1) Entscheidungsinstanz korrigiert – Fonds statt einzelner Mieter, (2) Widerspruch "zu Kosten" vs. "plus Rendite" aufgelöst, (3) "mechanisch unmöglich" präzisiert, damit es nicht die 3-%-Option im selben Kapitel widerlegt.
+
 16.3.1 – Die Mietpreisbremse 2.0: Wie der Bürgerfonds den Wohnungsmarkt entlastet
 
-Der Bürgerfonds ist nicht nur ein kollektives Kapitalpolster – er ist der größte, nachhaltigste Bauträger des Systems. Anders als private Investoren, die auf Rendite durch steigende Mieten angewiesen sind, verfolgt der Fonds ein mechanisches Ziel: Er baut Wohnraum dort, wo er gebraucht wird – und vermietet ihn zu den Kosten.
+Der Bürgerfonds ist nicht nur ein kollektives Kapitalpolster – er ist der größte, nachhaltigste Bauträger des Systems. Anders als private Investoren, die auf Rendite durch steigende Mieten angewiesen sind, verfolgt der Fonds ein mechanisches Ziel: Er baut Wohnraum dort, wo er gebraucht wird – und vermietet ihn unabhängig von den Baukosten.
 
 Die Mechanik:
 
-Die Erbschafts‑ und Vorteilsabgaben speisen den Bürgerfonds.
-Der Fonds investiert gezielt in den Wohnungsbau – in Regionen mit hohem Bedarf.
-Die Wohnungen werden nicht zu Marktpreisen vermietet, sondern zu reinen Betriebskosten (Instandhaltung, Verwaltung, Versicherung). Die Baukosten werden nicht auf die Miete umgelegt. Die Kostenmiete ist keine Pflicht, sondern eine Option. Diejenigen, die Wohnraum nutzen, entscheiden selbst, was angemessen ist – ob reine Betriebskosten, Unterkostenmiete oder eine moderate Rendite von etwa 3 %. Der Bürgerfonds ist flexibel, weil die Baukosten nicht über die Miete refinanziert werden müssen.
-Die Rendite des Fonds entsteht nicht durch hohe Mieten, sondern durch die Nutzungsdauer (50+ Jahre) und die Masse der vermieteten Einheiten.
-Jede neue Wohnung, die der Fonds baut, erhöht das Angebot – und senkt dadurch strukturell die Mietpreise in der gesamten Region.
-Besondere Mechanik: Die Wohnungen könnten sogar unter Kosten vermietet werden – weil die Baukosten nicht über die Miete hereingeholt werden müssen. Wenn eine Wohnung verkauft wird, wird der Baukostenanteil zuzüglich einer kleinen Rendite erzielt, die in den nächsten Fonds fließt. Dadurch bleibt der Kreislauf geschlossen: Niedrige Mieten sichern die Nutzung, Verkaufserlöse finanzieren neue Bauten.
-Profite auf Wohnraum sind im Societal OS nicht verboten – sie sind mechanisch unmöglich. Der Bürgerfonds baut zu Kosten, senkt die Mieten strukturell und verdrängt Spekulation durch Überlegenheit. Wohnraum wird wieder Nutzung, nicht Rendite.
+Die Erbschafts- und Vorteilsabgaben speisen den Bürgerfonds. Der Fonds investiert gezielt in den Wohnungsbau – in Regionen mit hohem Bedarf.
 
-Die Erbschaftsabgabe landet im Societal OS nicht im Haushalt, sondern im Bürgerfonds. Dadurch wird sie nicht konsumiert, sondern investiert: in Wohnraum, der dauerhaft bezahlbar bleibt. Diese Struktur ist eine konkrete Form von Generationsgerechtigkeit, weil das Kapital der älteren Generation direkt die Lebensbedingungen der nächsten verbessert.
+Weil die Abgabe nach der Investition als Kapitaleinsatz "verbraucht" ist (Nießbrauch-Logik, Kapitel 7), müssen die Baukosten nicht über die Miete zurückverdient werden. Das eröffnet einen Freiraum, den private Bauträger nicht haben: Die Miethöhe kann unabhängig vom Baupreis festgelegt werden, allein danach, was betriebswirtschaftlich und sozial sinnvoll ist.
+
+Die Miethöhe wird nicht individuell verhandelt, sondern vom Bürgerfonds pro Projekt oder Cluster festgelegt – nach Maßgabe der übergeordneten Fondsstrategie, nicht nach der Zahlungsbereitschaft einzelner Mieter. Der Fonds wählt zwischen drei Stufen:
+
+Kostenmiete (Betriebskosten für Instandhaltung, Verwaltung, Versicherung, ohne Aufschlag) – Standardfall in Regionen mit hohem sozialem Bedarf.
+Unterkostenmiete – gezielt einsetzbar bei akutem Bedarf oder als sozialer Ausgleich, finanziert aus dem allgemeinen Fondsvolumen.
+Moderate Rendite (~5 %) – dort, wo der Fonds gezielt Kapital für den Bürgerfonds selbst aufbauen will, etwa um die kollektive Rente (Kapitel 16.3, 20) zu stärken.
+
+Diese drei Stufen stehen nicht im Belieben des einzelnen Mieters, sondern sind ein Steuerungsinstrument des Fonds: Er balanciert damit zwei Ziele gegeneinander ab, die in Spannung zueinander stehen – kurzfristige Entlastung des Wohnungsmarkts (Kostenmiete/Unterkostenmiete) versus langfristigen Kapitalaufbau für die kollektive Altersvorsorge (Renditemiete). Beide Ziele lassen sich nicht gleichzeitig maximieren; der Fonds muss diese Gewichtung projektbezogen und transparent auf der Plattform offenlegen.
+
+Wirkung auf den Markt: Jede neue Wohnung, die der Fonds baut, erhöht das Angebot – und senkt dadurch strukturell die Mietpreise in der gesamten Region, unabhängig davon, welche der drei Stufen im Einzelfall gewählt wird. Auch eine zur Kostenmiete vermietete Fondswohnung entfaltet diesen Verdrängungseffekt gegenüber spekulativ bepreistem Wohnraum.
+
+Kapitalrückfluss beim Verkauf: Wird eine Fondswohnung veräußert, fließt der Verkaufserlös zuzüglich einer moderaten Rendite in den Bürgerfonds zurück und finanziert neue Bauprojekte. Dadurch bleibt der Kreislauf geschlossen: Laufende Mieten sichern die Nutzung und – je nach gewählter Stufe – den Kapitalaufbau; Verkaufserlöse finanzieren die nächste Bauwelle.
+
+Kein privater Extraktionsgewinn: Was im Societal OS mechanisch ausgeschlossen ist, ist nicht Rendite als solche, sondern die private, spekulative Gewinnextraktion durch Dritte – niemand kann eine Fondswohnung erwerben, um sie gewinnbringend weiterzuvermieten oder von steigenden Bodenpreisen zu profitieren, da die Substanz im Nießbrauch verbleibt (Kapitel 8.2). Die moderate, vom Fonds selbst gewählte Rendite ist davon zu unterscheiden: Sie fließt vollständig zurück in den kollektiven Kapitalstock und kommt damit allen Bürgern über die spätere Rentenausschüttung zugute – sie wird nicht privat angeeignet.
+
+Die Erbschaftsabgabe landet im Societal OS nicht im Haushalt, sondern im Bürgerfonds. Dadurch wird sie nicht konsumiert, sondern investiert: in Wohnraum, dessen Bezahlbarkeit und Renditeanteil der Bürgerfonds selbst steuert. Diese Struktur ist eine konkrete Form von Generationsgerechtigkeit, weil das Kapital der älteren Generation direkt sowohl die Lebensbedingungen als auch die Altersvorsorge der nächsten Generation stärkt.
 
 16.3 Strukturelle Kapitalumschichtung
 
