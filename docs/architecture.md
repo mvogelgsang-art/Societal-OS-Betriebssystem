@@ -2493,6 +2493,8 @@ Um populistische Fehlallokationen – etwa die Überfinanzierung emotional belie
 
 Jede digitale Transaktion und jede finanzielle Buchung im System erzeugt eine zirkuläre Transaktions‑Flat, die automatisch an die fünf Eigentümergruppen zurückfließt. Wenn eine Plattform wie AirBnB oder X Umsätze generiert, fließt ein definierter Anteil dieser digitalen Wertschöpfung zu gleichen Teilen an Staat, Banken, Technologieunternehmen, Realwirtschaft und Bürgerfonds. Digitale Wertschöpfung kann nicht isoliert entstehen — jede digitale Transaktion koppelt automatisch in das gesellschaftliche Fundament zurück.
 
+Dieser Mechanismus ergänzt die physische Architektur um eine digitale Rückkopplungsschicht und ist nicht notwendig für das Funktionieren des Systems.
+
 17.2 Eigentümerstruktur
 
 Dieser Entwurf sieht eine Aufteilung zu je 20 % zwischen Staat, Bürgerfonds, Banken, Technologieunternehmen und Unternehmen vor – mit der Begründung, dass jede Gruppe einen unverzichtbaren Beitrag leistet: Bürger bringen Nutzung und Daten, der Staat Legitimation und rechtlichen Rahmen, Banken Vorfinanzierung und Risikomanagement, Technologieunternehmen die technische Infrastruktur, Unternehmen die konkreten Projekte.
