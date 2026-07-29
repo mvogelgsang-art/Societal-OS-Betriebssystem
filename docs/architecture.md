@@ -2162,7 +2162,7 @@ Die Industrie profitiert, weil Kapitalströme steigen.
 Die Transformation profitiert, weil die Innovationsfrequenz steigt.
 Materialkreislauf als dritter Motor (Ergänzung)
 
-Neben Abgabe und Nutzung entsteht ein dritter Gewinnmotor: der Materialerhalt. Da die Fahrzeuge nicht verkauft werden, bleibt die physische Substanz vollständig im Eigentum der Hersteller. Beim Rückbau werden Batterien, Antriebe und Materialien wiederverwendet und fließen erneut in die Produktion ein. Dadurch entsteht ein zirkulärer Materialkreislauf:
+Neben Abgabe und Nutzung entsteht ein dritter Gewinnmotor: der Materialerhalt. Da die Fahrzeuge nicht verkauft werden, bleibt die physische Substanz vollständig im Eigentum des Systems. Die Hersteller und Investoren besitzen keinen Eigentumstitel, sondern Nießbrauch: Sie erhalten Nutzung und Rendite, einschließlich der Erträge aus Rückbau und Materialwert. Beim Rückbau werden Batterien, Antriebe und Materialien wiederverwendet und fließen erneut in die Produktion ein. Dadurch entsteht ein zirkulärer Materialkreislauf:
 
 Nutzung → Verschleiß → Rückbau → Materialwert → Neubau → erneute Nutzung
 
