@@ -1,6 +1,6 @@
 Urheberschaft & Lizenz
 Societal OS — VALUE PROPULSION Architecture  
-Text & System Design | Version 1.2 (2026)
+Text & System Design | Version 2.0 (2026)
 Concept by Matthias Vogelgsang
 
 This work is licensed under the Creative Commons Attribution‑ShareAlike 4.0 International License (CC BY‑SA 4.0).
