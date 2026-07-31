@@ -570,4 +570,4 @@ Societal OS — VALUE PROPULSION Architecture Text & System Design | Version 1.0
 
 This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0). 📄 Read the full documentation and contribute on GitHub
 
-Version 1.2
+Version 2.0
