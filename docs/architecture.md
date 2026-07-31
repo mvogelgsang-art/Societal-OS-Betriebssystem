@@ -1727,6 +1727,18 @@ Ein Krankheitstag, unabhängig davon, ob es sich um eine Bagatelle oder eine ern
 
 Gleichzeitig tragen Unternehmen das primäre finanzielle Risiko von Krankheitsausfällen durch gesetzliche Lohnfortzahlungspflichten, inklusive Steuern und Sozialabgaben auf nicht erbrachte Arbeitsleistung. Diese Doppelbelastung verringert die Liquidität der Realwirtschaft, erhöht das Insolvenzrisiko kleiner und mittlerer Unternehmen und wirkt als strukturelles Einstellungshemmnis.
 
+10.1.1.1 – Die unsichtbare Hälfte der Rechnung: Opportunitätskosten
+
+Die genannten Zwei- bis Dreifachkosten eines Krankheitstages erfassen nur die direkten, buchhalterisch sichtbaren Kosten: Lohnfortzahlung, Sozialabgaben auf nicht erbrachte Leistung, administrative Prüfpflichten. Sie bilden damit nur die halbe Rechnung ab. Daneben entstehen zwei strukturelle Opportunitätskosten, die in keiner Kostenstatistik der Krankheitsregelung auftauchen, weil sie sich an anderer Stelle im System zeigen:
+
+Erstens: Vermiedene Einstellungen. Weil Unternehmen das volle Ausfallrisiko ihrer Belegschaft tragen, stellen sie vorsichtiger ein, als sie es bei risikofreier Personalplanung täten – insbesondere bei älteren Arbeitnehmern, chronisch Kranken oder Berufseinsteigern ohne Referenzen. Dieser Effekt erscheint in der Statistik nicht als „Kosten der Krankheitsregelung", sondern als allgemein niedrigere Erwerbsquote bestimmter Gruppen. Das Societal OS macht diesen verdeckten Kostenblock sichtbar, indem es ihn durch Kapitel 10.1.10 („Risikofreie Einstellung") direkt adressiert: Entfällt das Ausfallrisiko für Unternehmen vollständig, entfällt auch der strukturelle Grund für diese Zurückhaltung.
+
+Zweitens: Die Überlastungskaskade. Unterbesetzung durch zurückhaltende Einstellungspolitik verteilt die gleiche Arbeitslast auf weniger Köpfe. Das erhöht nachweislich das Erschöpfungs- und Erkrankungsrisiko der verbleibenden Belegschaft (Präsentismus, Burnout - vgl. Kapitel 10.1.16) und erzeugt damit neue Ausfälle, die ohne die ursprüngliche Unterbesetzung gar nicht entstanden wären. Dieser Mechanismus ist selbstverstärkend:
+Unterbesetzung → Mehrbelastung der Verbleibenden → höheres
+Erkrankungsrisiko → mehr Ausfälle → noch stärkere
+Unterbesetzung
+Dieser Kreislauf ist das strukturelle Spiegelbild des in Kapitel 10.1.17 beschriebenen Präventionsloops: Wo GARS Regeneration ermöglicht und dadurch Ausfälle senkt, verstärkt der Status quo durch Personalzurückhaltung genau die Überlastung, die er eigentlich vermeiden will.
+
 10.1.2 Kybernetisches Prinzip der Eigenverantwortung
 
 Das Societal OS ersetzt administrative Kontrollmechanismen durch eine inhärente, anreizbasierte Selbstregulation. Biologische Krankheitsphasen werden als normale statistische Frequenzvariablen behandelt. Diese Architektur verzichtet vollständig auf staatliche Nachweise, Zertifikate oder bürokratische Prüfungen.
