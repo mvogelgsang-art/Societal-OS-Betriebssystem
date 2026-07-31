@@ -115,7 +115,7 @@ Der Kapitalstock wird nicht verbraucht, sondern zirkuliert.
 Das mechanische Ziel ist die Freisetzung von Lebenszeit bei absolutem Schutz der Würde. Arbeit wird von Pflicht zu Kür. Wertschöpfung wird rekursiv rückgekoppelt. Das System trägt sich selbst.
 _______________________________________________________________________________________
 Societal OS — VALUE PROPULSION
-Architecture Text & System Design | Version 1.2 (2026)
+Architecture Text & System Design | Version 2.0 (2026)
 Concept by Matthias Vogelgsang
 
 This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0).
