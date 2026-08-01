@@ -139,3 +139,8 @@ Das System wird mechanisch stabil.
 Fazit: Die Staatslogik koppelt Existenz an Arbeit und entkoppelt Entscheidungen von Haftung.
 Dadurch entstehen Drift, Bürokratie und Kostenstrukturen, die sich unten konzentrieren.
 Und weil diese Strukturen selbst finanziert werden müssen, wird die Belastung unten weiter erhöht — die Kompensationsmechanismen der Haftungslosigkeit erzeugen zusätzliche Kosten, die erneut auf jene übertragen werden, die bereits die Hauptlast tragen.
+
+Ein Staat, der sozialistisch finanziert, aber dessen Akteure kapitalistisch handeln, erzeugt eine mechanische Instabilität.
+Die fehlende Haftung in der Staatslogik führt dazu, dass Kompensationsstrukturen entstehen, die selbst wieder Kosten verursachen.
+Diese Kosten werden systematisch nach unten weitergereicht, wodurch die Belastung steigt und die Drift sich selbst verstärkt.
+In der Folge entstehen neue Rechtfertigungs‑ und Stabilisierungsschritte, die wiederum zusätzliche Strukturen erzeugen — ein rekursiver Driftprozess.
