@@ -2391,6 +2391,14 @@ Backup‑Löhne → Flat Tax → medizinische Infrastruktur → weniger Ausfall 
 
 Ein rekursiver Kapitalfluss‑Motor, der Infrastruktur, Gesundheit, Arbeit und Konsum koppelt und das gesamte OS makroökonomisch beschleunigt.
 
+Fazit: Das Prinzip der lastenfreien Kompensation
+Im traditionellen System ist Krankheit eine wirtschaftliche Last für das Unternehmen (Lohnfortzahlung) und ein bürokratischer Schadensfall für das Kollektiv. GARS kehrt diese Dynamik um:
+Null Last für das Unternehmen: Das Unternehmen zahlt keine Lohnfortzahlung im Krankheitsfall und verliert keine Produktivität. Es meldet den Ausfall und der autonome Backup-Markt schließt die Lücke sofort.
+Das Backup finanziert den Kranken: Der Backup-Arbeiter füllt die Produktivitätslücke. Seine Aktivität generiert über die Flat Tax genau die Einnahmen, die am selben Tag den bedingungslosen Tagessatz (die Existenzsicherung) des Kranken decken.
+Hohe Löhne finanzieren den Arzt: Bei hoher Dringlichkeit oder Qualifikation steigt der Backup-Lohn durch Marktknappheit. Dieser höhere Multiplikator erzeugt über die Flat Tax eine überschüssige Systemrendite, die direkt in den Ausbau der medizinischen Infrastruktur fließt.
+
+Krankheit finanziert sich höchstwahrscheinlich selbst: Der gesunde Backup-Arbeiter trägt durch seine temporäre Marktteilnahme die Grundsicherung des Kranken und –  bei hoher Wertschöpfung – die Kosten des medizinischen Systems gleich mit.
+
 11. Infrastruktur als Abo-Modelle: Preiswahrheit statt anonymer Steuer
 Straßen sind kein einzelnes Produkt, sondern ein zusammenhängendes Netz. Jede Fahrt beansprucht strukturell das gesamte System: Knotenpunkte, Zufahrten, Verbindungen, Brücken, Kreuzungen und die überregionale Logistikstruktur. Deshalb wird das Straßensystem als Netz‑Abo abgerechnet, nicht als Sammlung einzelner Strecken. Die Plattform berechnet den Preis automatisch nach Achslast, Fahrzeugklasse und zurückgelegter Strecke, während die Erhaltungskosten über das gesamte Netz verteilt werden.
 
