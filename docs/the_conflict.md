@@ -90,7 +90,26 @@ Das führt zu:
 - fehlender Risiko‑ und Haftungslogik  
 (Kapitalgeber tragen kein Risiko, haften für nichts und haben deshalb keine Kontrolle — die Mechanik ist unvollständig)
 
-6. Die Lösung: Gemeinschaftskapitalismus
+6. Beispiel: Der konkrete Driftfehler: LKW‑Maut und Lebensmittelpreise
+Hier wird der Konflikt sichtbar:
+- Der Staat erhebt LKW‑Maut, um Betriebskosten der Straßen zu decken.
+- Die Unternehmen zahlen die Maut als Kosten, nicht als Kapitalinvestition.
+- Diese Kosten werden auf die Warenpreise umgelegt.
+- Lebensmittel werden teurer — unten.
+
+Mechanisch bedeutet das:
+- Die Nutzung wird kapitalistisch bepreist, aber die Finanzierung bleibt sozialistisch.
+
+Das erzeugt:
+- Preisdrift
+- soziale Drift
+- systemische Drift
+
+Die Maut ist ein Beispiel für den strukturellen Konflikt:
+
+Die Bürger zahlen für die Nutzung der oberen, weil die Infrastruktur nicht als Kapitalgut geführt wird.
+
+7. Die Lösung: Gemeinschaftskapitalismus
 Gemeinschaftskapitalismus bedeutet:
 - Infrastruktur = öffentliches Kapitalgut
 - Gesellschaft = Kapitalgeber
