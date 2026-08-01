@@ -135,3 +135,7 @@ Damit wird die Drift gestoppt, weil:
 - nur eine Preisbildungsmechanik gilt
 
 Das System wird mechanisch stabil.
+
+Fazit: Die Staatslogik koppelt eine biologische Konstante (Existenz) an eine ökonomische Variable (Arbeit) und entkoppelt gleichzeitig Entscheidungen von Haftung.
+Diese doppelte Fehlkopplung erzeugt systemische Drift: Bürokratie wächst, Kosten steigen und die Belastung konzentriert sich unten.
+Die daraus entstehenden Verwaltungs‑ und Kontrollstrukturen sind nicht zufällig, sondern das direkte Resultat einer Logik, in der Entscheidungen ohne Risiko getroffen werden und deshalb eigene Kompensationsmechanismen erzeugen.
