@@ -49,28 +49,23 @@ Oben:
 - mit Nutzungspreisen
 - mit Kapitalstock
 
-Diese beiden Logiken sind mechanisch inkompatibel.
-Sie erzeugen Drift, Instabilität und systemische Reibung.
+Diese beiden Logiken folgen unterschiedlichen Mechanismen und erzeugen dauerhaft strukturelle Reibung, wenn sie ohne gemeinsame Kapital- und Eigentumslogik kombiniert werden.
 
 4. Warum Bürokratie entsteht
 Bürokratie ist nicht Verwaltung.
 Bürokratie ist der Versuch, zwei inkompatible Logiken miteinander zu synchronisieren.
 
 Sie versucht:
+- sozialistische Finanzierung mit kapitalistischer Nutzung zu verbinden
+- Kostenlogik mit Kapitalmechanik zu verbinden
+- Haushaltslogik mit Marktlogik zu verbinden
+- Eigentumslosigkeit mit Eigentumsrechten zu verbinden
+- Kollektivfinanzierung mit Einzelrendite zu verbinden
 
-sozialistische Finanzierung mit kapitalistischer Nutzung zu verbinden
+Je stärker diese inkompatiblen Logiken miteinander verknüpft werden, desto mehr Koordination, Kontrolle und Ausgleichsmechanismen sind erforderlich. 
+Bürokratie wächst als Folge dieses strukturellen Koordinationskonflikts.
 
-Kostenlogik mit Kapitalmechanik zu verbinden
-
-Haushaltslogik mit Marktlogik zu verbinden
-
-Eigentumslosigkeit mit Eigentumsrechten zu verbinden
-
-Kollektivfinanzierung mit Einzelrendite zu verbinden
-
-Das ist mechanisch unmöglich.
-Deshalb explodiert Bürokratie.
-
+Bürokratie ist der sichtbare Ausdruck eines tieferliegenden Strukturkonflikts. Wo Eigentum, Haftung und Risiko nicht unmittelbar miteinander verbunden sind, müssen Regeln, Kontrollen und Verwaltungsverfahren diese Funktion teilweise übernehmen.
 Bürokratie ist der sichtbare Ausdruck eines unsichtbaren Systemfehlers.
 
 5. Warum das System driftet
@@ -83,7 +78,7 @@ Drift entsteht immer dann, wenn:
 in einem System kollidieren.
 
 Der zentrale Driftpunkt ist:
-- Infrastruktur wird als Kostenblock geführt, obwohl sie ein Kapitalgut ist.
+- Infrastruktur wird überwiegend als Kostenblock bilanziert, obwohl sie langfristig Eigenschaften eines Kapitalguts besitzt und zukünftigen wirtschaftlichen Nutzen stiften kann.
 
 Das führt zu:
 - falschen Preisen
