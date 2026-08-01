@@ -109,6 +109,11 @@ Die Maut ist ein Beispiel für den strukturellen Konflikt:
 
 Die Bürger zahlen für die Nutzung der oberen, weil die Infrastruktur nicht als Kapitalgut geführt wird.
 
+Ergebnis: Die LKW‑Maut ist der mechanische Beweis für den strukturellen Konflikt:
+- Der Staat bepreist die Nutzung kapitalistisch, aber die Gesellschaft finanziert die Infrastruktur sozialistisch.
+- Die Unternehmen legen die Maut auf die Warenpreise um — und die unteren zahlen für die Nutzung der oberen.
+- Das Brot wird teurer, weil die Buchführung falsch ist.
+
 7. Die Lösung: Gemeinschaftskapitalismus
 Gemeinschaftskapitalismus bedeutet:
 - Infrastruktur = öffentliches Kapitalgut
