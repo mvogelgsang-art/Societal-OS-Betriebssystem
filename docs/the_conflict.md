@@ -2,7 +2,7 @@ Der strukturelle Konflikt zweier inkompatibler Logiken - Warum moderne Staaten d
 Moderne Gesellschaften operieren gleichzeitig mit zwei vollständig unterschiedlichen, inkompatiblen Logiken: einer sozialistischen Staatslogik in der Finanzierung und einer kapitalistischen Marktlogik in der Nutzung. 
 Dieser Widerspruch ist nicht ideologisch, sondern mechanisch. Er entsteht aus der Art und Weise, wie Infrastruktur finanziert, verbucht und genutzt wird.
 
-1. Die Basisschicht: sozialistische Staatslogik
+1. Die Basisschicht: staatliche Haushaltslogik
 In der Basisschicht gilt die Logik des Staates: Infrastruktur wird als Kostenblock geführt.
 Die Gesellschaft finanziert sie kollektiv über Steuern, Abgaben und Gebühren.
 
