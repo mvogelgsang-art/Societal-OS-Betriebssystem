@@ -136,6 +136,6 @@ Damit wird die Drift gestoppt, weil:
 
 Das System wird mechanisch stabil.
 
-Fazit: Die Staatslogik koppelt eine biologische Konstante (Existenz) an eine ökonomische Variable (Arbeit) und entkoppelt gleichzeitig Entscheidungen von Haftung.
-Diese doppelte Fehlkopplung erzeugt systemische Drift: Bürokratie wächst, Kosten steigen und die Belastung konzentriert sich unten.
-Die entstehenden Verwaltungs‑ und Kontrollstrukturen sind kein Nebeneffekt, sondern das direkte Resultat einer Logik, in der Entscheidungen ohne Risiko getroffen werden und deshalb eigene Kompensationsmechanismen hervorbringen.
+Fazit: Die Staatslogik koppelt Existenz an Arbeit und entkoppelt Entscheidungen von Haftung.
+Dadurch entstehen Drift, Bürokratie und Kostenstrukturen, die sich unten konzentrieren.
+Und weil diese Strukturen selbst finanziert werden müssen, wird die Belastung unten weiter erhöht — die Kompensationsmechanismen der Haftungslosigkeit erzeugen zusätzliche Kosten, die erneut auf jene übertragen werden, die bereits die Hauptlast tragen.
