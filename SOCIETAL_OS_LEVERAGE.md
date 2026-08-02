@@ -75,9 +75,8 @@ Societal OS löst den Streit mechanisch auf:
 Linke, Rechte, Grüne, Liberale bekommen alle, was sie wollen – nicht durch Kompromiss, sondern weil der Zielkonflikt selbst verschwindet.
 
 Das Ziel
-Nicht Wachstum um des Wachstums willen.  
-
-**Zeit.**  
+Nicht Wachstum um des Wachstums willen, sondern Zeit.
+  
 Die Rückgewinnung menschlicher Lebenszeit bei bedingungsloser materieller Sicherheit.
 
 Jede Innovation, jede Automatisierung, jede KI wird an einem einzigen Maßstab gemessen:  
