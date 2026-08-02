@@ -109,7 +109,7 @@ Seine Grundlogik lautet:
 
 Infrastruktur = öffentliches Kapitalgut mit Renditen
 Gesellschaft = Kapitalgeber
-Staat = treuhänderischer Verwalter des Gemeinschaftskapitals
+Staat = Eigentümer
 Bürger und Unternehmen = Nutzer und Nutznießer des Kapitalguts
 Nutzung = Ertrag
 Ertrag = Kapitalbildung
