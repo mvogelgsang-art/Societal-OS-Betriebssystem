@@ -103,6 +103,8 @@ Die LKW-Maut ist damit kein Beweis für den gesamten Strukturkonflikt, verdeutli
 
 Die Lösung: Gemeinschaftskapitalismus
 
+Die Lösung beginnt mit einem einzigen Buchführungshebel: Ein Teil der Steuer wird zur renditefähigen Abgabe. Sie wird nicht mehr konsumtiv verbucht, sondern investiv in reale Infrastruktur transformiert – wodurch aus einem Kostenblock ein renditefähiges Gemeinschaftsasset wird.
+
 Der vorgeschlagene Gemeinschaftskapitalismus verfolgt das Ziel, Finanzierung, Eigentum und Kapitalbildung wieder stärker miteinander zu verbinden.
 
 Seine Grundlogik lautet:
