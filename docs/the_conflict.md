@@ -15,7 +15,7 @@ Mechanisch bedeutet das:
 - Infrastruktur gilt nicht als Kapitalgut, sondern als Ausgabe
 
 Diese Logik ist die klassische Haushaltslogik des Staates.
-Sie ist kulturell tief verankert, aber mechanisch falsch, weil sie Infrastruktur als Verbrauchsgut statt als Kapitalgut behandelt.
+Sie ist kulturell tief verankert, aber für langlebige Infrastruktur mechanisch unvollständig, weil sie Infrastruktur als Verbrauchsgut statt als Kapitalgut behandelt.
 
 2. Die Oberschicht: kapitalistische Marktlogik
 Über dieser Basisschicht operiert die Wirtschaft in einer völlig anderen Logik: Infrastruktur ist ein Kapitalgut, ein Asset, das Wert erzeugt und trägt.
