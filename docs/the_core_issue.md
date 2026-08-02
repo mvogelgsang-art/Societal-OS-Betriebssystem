@@ -19,4 +19,5 @@ Sie erzeugen:
 Bürokratie ist dabei nicht Verwaltung, sondern der Versuch, diese beiden inkompatiblen Logiken künstlich zu synchronisieren.
 
 Kern in einem Satz
+
 Der historische Fehler ist die gleichzeitige Anwendung einer Haushaltslogik und einer Kapitalstocklogik auf dieselbe Infrastruktur — ein mechanisch unmögliches Doppelmodell, das Drift und Bürokratie unvermeidlich macht.
