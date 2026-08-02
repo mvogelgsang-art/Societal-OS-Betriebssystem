@@ -1,5 +1,7 @@
 Der Kernfehler
+
 Moderne Staaten finanzieren Infrastruktur nach Haushaltslogik, aber nutzen sie nach Kapitalstocklogik.
+
 Zwei Buchführungen im selben System → Drift, Bürokratie, Preisverzerrung.
 
 Mechanisch bedeutet das:
@@ -20,4 +22,4 @@ Bürokratie ist dabei nicht Verwaltung, sondern der Versuch, diese beiden inkomp
 
 Kern in einem Satz
 
-Der historische Fehler ist die gleichzeitige Anwendung einer Haushaltslogik und einer Kapitalstocklogik auf dieselbe Infrastruktur — ein mechanisch unmögliches Doppelmodell, das Drift und Bürokratie unvermeidlich macht.
+Der historische Fehler ist die gleichzeitige Anwendung einer Haushaltslogik und einer Kapitalstocklogik auf dieselbe Infrastruktur — ein mechanisch unmögliches Doppelmodell, das Drift und Bürokratie erzeugt und den Staat als künstlichen Synchronisationslayer notwendig erscheinen lässt, obwohl eine korrekte Kopplung seine Rolle auf das essentielle und tatsächlich notwendige Maß reduzieren würde.
