@@ -87,5 +87,3 @@ Existentielle Sicherheit → Teilhabe → Zeit
 
 Und der unaufhaltsame Endmove lautet:  
 Zeit → Dankbarkeit → Verewigung (Teilhabe) → Existenz → zurück zu Zeit.  
-
-Alles ist ein Kreislauf. Respect it. Keep it real.
