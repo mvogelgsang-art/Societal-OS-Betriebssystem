@@ -95,7 +95,9 @@ Das Beispiel zeigt:
 
 Die Nutzung der Infrastruktur erfolgt über Marktpreise.
 Die Finanzierung erfolgt überwiegend über öffentliche Haushaltsmechanismen.
-Infrastrukturkosten werden dadurch teilweise an Endverbraucher weitergegeben.
+Infrastrukturkosten werden dadurch teilweise oder vollständig an Endverbraucher weitergegeben.
+
+Da Infrastruktur kollektiv finanziert, aber marktförmig genutzt wird, zahlen Bürger und Unternehmen faktisch doppelt: zuerst über Steuern für den Aufbau der Infrastruktur und anschließend über höhere Preise für deren Nutzung – ohne dass daraus ein gesellschaftlicher Kapitalstock oder individuelle Renditen entstehen.
 
 Die LKW-Maut ist damit kein Beweis für den gesamten Strukturkonflikt, verdeutlicht jedoch die unterschiedliche Behandlung von Finanzierung und Nutzung innerhalb desselben Systems.
 
@@ -105,10 +107,10 @@ Der vorgeschlagene Gemeinschaftskapitalismus verfolgt das Ziel, Finanzierung, Ei
 
 Seine Grundlogik lautet:
 
-Infrastruktur = öffentliches Kapitalgut
+Infrastruktur = öffentliches Kapitalgut mit Renditen
 Gesellschaft = Kapitalgeber
 Staat = treuhänderischer Verwalter des Gemeinschaftskapitals
-Bürger und Unternehmen = Nutzer des Kapitalguts
+Bürger und Unternehmen = Nutzer und Nutznießer des Kapitalguts
 Nutzung = Ertrag
 Ertrag = Kapitalbildung
 Kapitalbildung = langfristige Existenzsicherung
