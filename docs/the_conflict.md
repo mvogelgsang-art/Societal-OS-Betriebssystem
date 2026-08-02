@@ -109,7 +109,7 @@ Seine Grundlogik lautet:
 
 Infrastruktur = öffentliches Kapitalgut mit Renditen
 Gesellschaft = Kapitalgeber
-Staat = Substanzgarant
+Staat = treuhänderischer Eigentümer der Substanz
 Bürger und Unternehmen = Nutzer und Nutznießer des Kapitalguts
 Nutzung = Ertrag
 Ertrag = Kapitalbildung
