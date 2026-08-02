@@ -76,6 +76,7 @@ Linke, Rechte, Grüne, Liberale bekommen alle, was sie wollen – nicht durch Ko
 
 Das Ziel
 Nicht Wachstum um des Wachstums willen.  
+
 **Zeit.**  
 Die Rückgewinnung menschlicher Lebenszeit bei bedingungsloser materieller Sicherheit.
 
