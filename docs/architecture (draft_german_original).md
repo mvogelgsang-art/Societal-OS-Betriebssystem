@@ -1,7 +1,9 @@
 Societal OS – Architekturtext (Skizze) – Version 2.0
 
 Gemeinschaftskapitalismus und die Macht der Teilhabe
+
 Von Matthias Vogelgsang
+
 Manchmal verändert sich ein System nicht durch große Reformen, sondern durch einen einzigen, präzisen Hebel. Dieser Hebel öffnet Märkte, die heute nicht existieren können. Wie der Flügelschlag eines Schmetterlings, der eine Kette von Ereignissen auslöst, genügt eine minimale Kopplungsänderung, um ein komplexes System neu zu ordnen. In dieser Architektur ist es die Umwandlung eines kleinen Teils der Steuer in eine renditefähige Abgabe für Infrastruktur – die Lebensader jeder Gesellschaft. Ein winziger Eingriff, und die Dynamik beginnt sich zu verschieben: Infrastruktur wird zunehmend selbsttragend, Regionen gewinnen an Attraktivität, Teilhabe wächst, Existenzsicherung entsteht als Output, und das System stabilisiert sich durch seine inhärente Struktur. Nicht durch regulatorische Restriktionen, sondern durch strukturelle Anreizkompatibilität.
 Die Abgabenlast bleibt gleich – sie wird nur anders verbucht. Und im Laufe der Zeit sinkt sie sogar, weil das System sich selbst trägt.
 Der Kern des Societal OS besteht darin, Infrastruktur von einem öffentlichen Kostenfaktor in ein gemeinschaftliches Kapitalgut mit rückgekoppelten Erträgen zu transformieren.
@@ -2441,7 +2443,7 @@ Frühere Fassungen enthielten Formulierungen, die missverständlich oder zu hart
 Der Entwurf steht zur kritischen Diskussion, Weiterentwicklung und auch zum Widerspruch offen. Nutzung, Interpretation und Weiterentwicklung erfolgen auf eigene Verantwortung.
 _________________________________________________________
 Societal OS - VALUE PROPULSION
-Architecture Text & System Design | Version 1.2 (2026)
+Architecture Text & System Design | Version 2.0 (2026)
 Concept by Matthias Vogelgsang
 This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0).
 📄 Read the full documentation and contribute on GitHub
