@@ -508,6 +508,7 @@ Wenn ein Krankheitsausfall nicht mehr als finanzieller Schaden, sondern als Freq
 Mechanische Schlussfolgerung
 Ein System, das starre Einzelpositionen erzwingt, bricht bei jedem Ausfall. Ein System, das Rollen rotieren lässt, absorbiert biologische Schwankungen automatisch.
 Unternehmen werden zu resilienten Produktionssystemen, weil GARS biologische Variabilität kapitalmechanisch integriert.
+14.9 Ergänzende Härtefall-Klausel: Der GARS-Regelkreis steuert hocheffizient das makroökonomische Aggregat des Massengeschäfts, ersetzt jedoch nicht die Schutzfunktion des Staates. In individuellen Extremfällen – etwa bei chronischen, pflegeintensiven Erkrankungen oder unverschuldeten Schicksalsschlägen, bei denen die reguläre Existenzsicherung biologisch nicht ausreicht – greift eine schlanke, staatliche Instanz ein, um zielgerichtete Sonderbedarfe unbürokratisch zu decken. Das Societal OS ist kein Modell zur Staatsabschaffung, sondern ein Werkzeug zur Befreiung des Staates von administrativer Massenverwaltung, um Ressourcen für echte, menschliche Einzelfallfürsorge freizusetzen.
 
 15. Eigentumslogik und Risikopufferung
 - Substanz: Der Staat bleibt dauerhafter Eigentümer kritischer Lebensgrundlagen (Schienen, Straßen, Energienetze).
