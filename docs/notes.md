@@ -1,6 +1,6 @@
 Persönlicher Hinweis und Präambel
 
-Ich schätze Rechtsstaatlichkeit und Demokratie sehr.
+Ich schätze Rechtsstaatlichkeit und Demokratie zutiefst. Einige in diesem Entwurf dargestellten Mechaniken berühren theoretisch Bereiche, die im heutigen Verfassungsrahmen anders geregelt sind. Ob und inwiefern solche theoretischen Modelle mit der bestehenden Verfassung vereinbar wären, liegt ausschließlich in der Zuständigkeit der Judikative, deren Unabhängigkeit und Kompetenz ich ausdrücklich respektiere und wertschätze. Dieser Entwurf formuliert keine Forderung nach einer Verfassungsänderung und erhebt keinerlei politischen Anspruch.
 
 Dieses Dokument ist ein sich entwickelnder Architekturentwurf und kein fertiges politisches Programm. Es beschreibt potenzielle strukturelle Mechanismen und erhebt keinen Anspruch auf Vollständigkeit oder finale rechtliche Präzision. Frühere Fassungen enthielten Formulierungen, die missverständlich waren; diese wurden und werden kontinuierlich überarbeitet. Der Entwurf steht zur kritischen Diskussion, Weiterentwicklung und ausdrücklich auch zum Widerspruch offen. Nutzung, Interpretation und Weiterentwicklung erfolgen auf eigene Verantwortung.
 
