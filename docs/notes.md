@@ -8,3 +8,7 @@ Diese Architektur arbeitet mit mechanischen Systemmodellen. Die Sprache dient hi
 
 Persönlicher Nachtrag:
 Als Übersetzer, dessen Berufsfeld direkt von der rasanten Entwicklung der Künstlichen Intelligenz verdrängt wurde, ist diese Arbeit für mich streckenweise hochemotional. Da die Systemanalyse strukturell sehr tief ging, hat mich der existenzielle Ernst der Thematik beim Schreiben mitgerissen. Dies führte in früheren Entwurfsstadien stellenweise zu einer unglücklichen oder scharfen Wortwahl. Ich bitte darum, diese sprachlichen Spitzen nicht als persönlichen Vorwurf oder politische Anklage zu verstehen — wir alle bewegen uns in den Sachzwängen derselben Architektur, die es hier rein funktional zu optimieren gilt.
+_____________________________________
+Urheberschaft & LizenzSocietal OS — VALUE PROPULSION ArchitectureText & System Design | Version 2.0 (2026) |
+
+Concept by Matthias VogelgsangDie textliche und systemarchitektonische Spezifikation des Societal OS wird unter der Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0) bereitgestellt.
