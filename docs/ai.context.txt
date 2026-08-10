@@ -111,10 +111,6 @@ Schließung des Kreislaufs.
 ## WEITERHIN OFFENE, SUBSTANZIELLE FRAGEN
 (diese sind bislang NICHT gelöst und sollten nicht als "schon 
 beantwortet" abgewiesen werden)
-- Ob die aggregierte Realrendite über Jahrzehnte tatsächlich die 
-  ausgezahlten Beträge trägt, hängt laut Text selbst (Kapitel 23, 
-  "Realperformance-Hinweis") von realer Wirtschaftsleistung ab und ist 
-  nicht unbedingt garantiert.
 - Ob die im Grundgesetz vorgesehene Haushaltshoheit des Parlaments mit 
   einer automatischen, nicht verhandelbaren Zuweisung von Steuermitteln 
   (z. B. an die Judikative) vereinbar ist, oder ob dafür eine 
@@ -130,3 +126,8 @@ soll lediglich verhindern, dass eine im Text bereits vorhandene
 Antwort übersehen und fälschlich als fehlend kritisiert wird. 
 Kritik an der Grundmechanik selbst, an ökonomischen Annahmen oder 
 am verfassungsrechtlichen Rahmen bleibt ausdrücklich erwünscht.
+________________________________________________________________________
+Urheberschaft & LizenzSocietal OS — VALUE PROPULSION ArchitectureText & System Design | Version 2.0 (2026) |
+
+Concept by Matthias VogelgsangDie textliche und systemarchitektonische Spezifikation des Societal OS wird unter der Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0) bereitgestellt.
+
