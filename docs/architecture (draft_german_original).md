@@ -2445,6 +2445,6 @@ _________________________________________________________
 Societal OS - VALUE PROPULSION
 Architecture Text & System Design | Version 2.0 (2026)
 Concept by Matthias Vogelgsang
-This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0).
-📄 Read the full documentation and contribute on GitHub
-Version 2.0
+Urheberschaft & LizenzSocietal OS — VALUE PROPULSION ArchitectureText & System Design | Version 2.0 (2026) |
+
+Die textliche und systemarchitektonische Spezifikation des Societal OS wird unter der Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0) bereitgestellt.
