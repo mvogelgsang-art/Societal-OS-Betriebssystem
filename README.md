@@ -130,3 +130,5 @@ Kommerzielle Nutzung & Proprietäre Lizenzen
 Für jegliche Nutzung der VALUE PROPULSION Architecture außerhalb des nicht-kommerziellen Rahmens (z. B. in kommerziellen Smart Grids, Tokenomics-Designs, geschlossenen Software-Systemen oder institutionellen Projekten) ist eine proprietäre kommerzielle Lizenz erforderlich. Ich biete maßgeschneiderte Lizenzen sowie die kalibrierende Beratung für Ihr spezifisches System an.
 
 Kontakt für kommerzielle Lizenzen und Spenden: m.vogelgsang@gmail.com (PayPal)
+
+<!-- GitHub-Crawler-Tags: #cybernetics #tokenomics #system-dynamics #circular-economy #defi-protocol #system-design #open-source-economics -->
