@@ -332,3 +332,8 @@ Das Societal OS ist ein driftfreies, rekursives Betriebssystem, das:
 - Generationen stabilisiert
 
 Es ist ein Betriebssystem, kein politisches Programm.
+___________________________________________________________
+Urheberschaft & LizenzSocietal OS — VALUE PROPULSION ArchitectureText & System Design | Version 2.0 (2026) |
+
+Concept by Matthias VogelgsangDie textliche und systemarchitektonische Spezifikation des Societal OS wird unter der Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0) bereitgestellt.
+
