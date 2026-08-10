@@ -1,53 +1,21 @@
-Urheberschaft & Lizenz
-Societal OS — VALUE PROPULSION Architecture  
-Text & System Design | Version 2.0 (2026)
-Concept by Matthias Vogelgsang
+Urheberschaft & LizenzSocietal OS — VALUE PROPULSION ArchitectureText & System Design | Version 2.0 (2026) | 
 
-This work is licensed under the Creative Commons Attribution‑ShareAlike 4.0 International License (CC BY‑SA 4.0).
-You are free to:
+Concept by Matthias VogelgsangDie textliche und systemarchitektonische Spezifikation des Societal OS wird unter der Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0) bereitgestellt.
 
-use
+Das bedeutet für die freie Nutzung: Teilen & Nutzen: Sie dürfen das Material in jedem Format kopieren und weiterverbreiten.
 
-copy
+Adaptieren: Sie dürfen das Material mischen, transformieren und darauf aufbauen.
 
-modify
+Unter folgenden Bedingungen:
 
-redistribute (including commercially)
+Attribution (Namensnennung): Sie müssen den Urheber angemessen nennen und Änderungen angeben.
 
-under the conditions:
+NonCommercial (Nicht-kommerziell): Sie dürfen das Material NICHT für kommerzielle Zwecke nutzen.
 
-Attribution
+ShareAlike (Weitergabe unter gleichen Bedingungen): Modifikationen müssen unter derselben Lizenz veröffentlicht werden.
 
-ShareAlike
+Kommerzielle Nutzung & Proprietäre Lizenzen
 
-License link
+Für jegliche Nutzung der VALUE PROPULSION Architecture außerhalb des nicht-kommerziellen Rahmens (z. B. in kommerziellen Smart Grids, Tokenomics-Designs, geschlossenen Software-Systemen oder institutionellen Projekten) ist eine proprietäre kommerzielle Lizenz erforderlich. Ich biete maßgeschneiderte Lizenzen sowie die kalibrierende Beratung für Ihr spezifisches System an.
 
-Kommerzielle Nutzung und Consulting
-Die Implementierung des Societal OS in realen Testumgebungen (Pilotregionen, Smart Grids, dezentrale Asset‑Netzwerke) erfordert präzise Kalibrierung der Regelschleifen.
-
-Ich biete professionelle Unterstützung für Unternehmen, Think Tanks und Institutionen:
-
-System‑Audits: Driftfreiheit bestehender Tokenomics‑ oder Infrastrukturmodelle
-
-Architektur‑Consulting: Anpassung des Societal OS an regionale oder sektorale Gegebenheiten
-
-Dual‑Licensing: Kommerzielle Lizenzen für proprietäre Integrationen außerhalb der CC BY‑SA 4.0
-
-Kontakt: m.vogelgsang@gmail.com
-
-Unterstützung und Spenden
-Das Societal OS wird als freie Architektur unter der CC BY‑SA 4.0 bereitgestellt.
-Die Entwicklung, Dokumentation und Modellierung wurden über mehrere Monate vollständig eigenfinanziert.
-
-Wenn du die Arbeit unterstützen möchtest, kannst du freiwillig beitragen:
-
-Open‑Source‑Spende (zur Deckung laufender Entwicklungszeit)
-
-Projektförderung (für Simulationen, Pilotregionen, Modellierung)
-
-Institutionelle Unterstützung (Think Tanks, Forschung, Universitäten)
-
-PayPal: m.vogelgsang@gmail.com
-Kontakt: m.vogelgsang@gmail.com
-
-Unterstützung ist freiwillig und hilft, die Architektur weiter auszubauen.
+Kontakt für kommerzielle Lizenzen und Spenden: m.vogelgsang@gmail.com (PayPal)
