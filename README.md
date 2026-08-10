@@ -109,23 +109,24 @@ Die Mechanik ist wertneutral; ihre Anwendung ist es nicht.
 Parameter werden nicht beschlossen, sondern in Pilotregionen eingestellt.
 
 Lizenz
-Dieses Projekt steht unter der Creative Commons Lizenz CC BY‑SA 4.0.
-Siehe vollständigen Lizenztext in LICENSE.md.
+Urheberschaft & LizenzSocietal OS — VALUE PROPULSION ArchitectureText & System Design | Version 2.0 (2026) |
 
-Erlaubt:
+Concept by Matthias VogelgsangDie textliche und systemarchitektonische Spezifikation des Societal OS wird unter der Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0) bereitgestellt.
 
-Nutzung
+Das bedeutet für die freie Nutzung: Teilen & Nutzen: Sie dürfen das Material in jedem Format kopieren und weiterverbreiten.
 
-Kopie
+Adaptieren: Sie dürfen das Material mischen, transformieren und darauf aufbauen.
 
-Veränderung
+Unter folgenden Bedingungen:
 
-Weiterverbreitung (auch kommerziell)
+Attribution (Namensnennung): Sie müssen den Urheber angemessen nennen und Änderungen angeben.
 
-Bedingungen:
+NonCommercial (Nicht-kommerziell): Sie dürfen das Material NICHT für kommerzielle Zwecke nutzen.
 
-Namensnennung
+ShareAlike (Weitergabe unter gleichen Bedingungen): Modifikationen müssen unter derselben Lizenz veröffentlicht werden.
 
-Lizenzlink
+Kommerzielle Nutzung & Proprietäre Lizenzen
 
-ShareAlike
+Für jegliche Nutzung der VALUE PROPULSION Architecture außerhalb des nicht-kommerziellen Rahmens (z. B. in kommerziellen Smart Grids, Tokenomics-Designs, geschlossenen Software-Systemen oder institutionellen Projekten) ist eine proprietäre kommerzielle Lizenz erforderlich. Ich biete maßgeschneiderte Lizenzen sowie die kalibrierende Beratung für Ihr spezifisches System an.
+
+Kontakt für kommerzielle Lizenzen und Spenden: m.vogelgsang@gmail.com (PayPal)
