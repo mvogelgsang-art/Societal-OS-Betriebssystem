@@ -285,7 +285,7 @@ Abgabe → Infrastruktur → Nutzung → Ertrag → Rendite → Flat Tax → Exi
 Die neue Kopplung: Existenz ↔ Infrastruktur (nicht: Existenz ↔ Arbeit). 
 Warum Infrastruktur die richtige Kopplungsgröße ist, nicht Arbeit
 Die heutige Ordnung koppelt Existenz an Arbeit. Diese Kopplung erscheint selbstverständlich, ist aber kategorial falsch angesetzt.
-Infrastruktur und Existenz bedingen sich unmittelbar: Ohne Wasser-, Energie-, Mobilitäts- und Kommunikationsnetze ist menschliche Existenzsicherung heute nicht mehr herstellbar. Umgekehrt braucht Infrastruktur fortlaufend existierende Menschen, die sie bauen, warten und weiterentwickeln – auch diese Bedingtheit ist real, wenn auch vermittelt: nicht Infrastruktur selbst existiert, sondern die Arbeitskraft, die sie erhält, setzt gesicherte menschliche Existenz voraus. Infrastruktur und Existenz stehen damit in einem wechselseitigen, sich selbst tragenden Verhältnis.
+Infrastruktur und Existenz bedingen sich unmittelbar: Ohne Wasser-, Energie-, Mobilitäts- und Kommunikationsnetze ist menschliche Existenzsicherung heute nicht mehr herstellbar. Umgekehrt braucht Infrastruktur fortlaufend existierende Menschen, die sie a) nutzen und b) bauen, warten und weiterentwickeln – auch diese Bedingtheit ist real, wenn auch vermittelt: nicht Infrastruktur selbst existiert, sondern die Bürger und Unternehmen, die sie nutzen, die Arbeitskraft, die sie erhält, setzt gesicherte menschliche Existenz voraus. Infrastruktur und Existenz stehen damit in einem wechselseitigen, sich selbst tragenden Verhältnis.
 Arbeit dagegen ist kein Ursprung, sondern ein Derivat. Nahezu jede moderne Erwerbstätigkeit setzt bereits funktionierende Infrastruktur voraus: Straßen, um den Arbeitsort zu erreichen, Energie, um Maschinen und Werkzeuge zu betreiben, Datennetze, um überhaupt arbeitsfähig zu sein. Arbeit im heutigen Sinn baut auf Infrastruktur auf – sie ist ihr nachgelagert, nicht gleichrangig, und schon gar nicht ihre Grundlage.
 Wer Existenz an Arbeit koppelt, koppelt sie also an ein Derivat statt an die Basis, von der dieses Derivat selbst abhängt. Das erklärt, warum die heutige Kopplung nicht nur fragil ist – weil Erwerbsarbeit von externer Nachfrage, Konjunktur und der Bereitschaft Dritter abhängt, wie in Kapitel 3 beschrieben – sondern strukturell falsch angesetzt: Sie bindet den Menschen an das Nachgelagerte, statt an das, was sowohl seine Existenz als auch die Möglichkeit von Arbeit selbst allererst trägt.
 Das Societal OS zieht daraus die Konsequenz, die Kapitel 10 bereits benennt: Existenz wird nicht mehr an Arbeit gekoppelt, sondern an Infrastruktur – an die Größe, die tatsächlich die Basis ist, nicht an die, die selbst schon von ihr abhängt.
@@ -733,7 +733,7 @@ Erbschaften werden nicht über Substanzbesteuerung erfasst, sondern über eine s
 - Erbschaften über zukünftige Vorteile
 Entsteht kein Vorteil, entsteht keine Abgabe. Eine Bewertungsbürokratie entfällt vollständig.
 
-21. Die Plattform als Rückkopplungsmodul und Governance
+21. Die Plattform als Rückkopplungsmodul und Governance (mehr zur Plattform in der Architekturskizze)
 Die Plattform ist das mechanische Rückkopplungsmodul, das Infrastruktur, Nutzung, Kapitalflüsse und biologische Frequenzen (GARS) in Echtzeit sichtbar macht. Sie bildet ausschließlich physische Realität ab: Nutzung, Kosten, Verschleiß, Erträge, Ausfallraten, Prioritäten und Kapitalströme.
 Governance (Wer kontrolliert die Plattform?)
 Die Plattform gehört fünf gleichberechtigten Eigentümergruppen zu je 20 %:
@@ -887,10 +887,3 @@ Persönlicher Nachtrag: Als Übersetzer, dessen Berufsfeld direkt von der rasant
 Societal OS – Das Betriebssystem für driftfreie Staaten.
 Version 2.0 
 Von Matthias Vogelgsang
-
-_______________________________________________________
-Urheberschaft & LizenzSocietal OS — VALUE PROPULSION ArchitectureText & System Design | Version 2.0 (2026) |
-
-Concept by Matthias Vogelgsang
-Die textliche und systemarchitektonische Spezifikation des Societal OS wird unter der Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0) bereitgestellt.
-
