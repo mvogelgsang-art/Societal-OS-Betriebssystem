@@ -1,6 +1,6 @@
 {
   "graph_name": "Societal OS Architektur",
-  "version": "1.2",
+  "version": "2.0",
   "description": "Kybernetisches Modell eines selbststabilisierenden sozioökonomischen Betriebssystems, basierend auf realem Ressourcenverbrauch, ehrlichen Preisen und automatisierten Rückkopplungsschleifen. Vollständige Abbildung der drei Kreisläufe (Mensch, Staat, Ökonomie), der Frequenzschicht (GARS) und der Trennung von Substanz und Vorteil.",
   "status": "Interpretationssicher – enthält Invarianten, Reaktionskaskaden, Meta-Knoten und Textverweise. K6 korrigiert: Allokation statt Zertifizierung.",
   "knoten": [
@@ -68,13 +68,13 @@
       "details": "Im Societal OS wird Arbeit von Pflicht zu Kür."
     },
     {
-      "id": "K8",
-      "label": "Ehrliche Netzgebühr (Motor 1)",
-      "typ": "Rückkopplungs_Motor",
-      "funktion": "Direkte Abrechnung des physischen Infrastruktur-Verschleißes. Primäre Infrastruktur-Rendite.",
-      "invariante": "Der Preis = Betriebskosten + Rücklagen + Marge. Sinkt die Nutzung, sinken die Betriebskosten proportional (doppelseitige Kopplung). Die Marge bleibt konstant. Die Rendite ist keine Spekulation, sondern eine strukturelle Rechengröße.",
-      "textstelle": "Kapitel 11 – Infrastruktur als Abo-Modelle, Kapitel 7.9.1 – doppelseitige Kopplung",
-      "details": "Netz statt Segment. Nutzung statt Besitz. Abnutzung statt Pauschale. Preiswahrheit statt Steuer."
+ "id": "K8",
+ "label": "Ehrliche Netzgebühr (Motor 1 - Aktualisiert)",
+ "typ": "Rückkopplungs_Motor",
+ "funktion": "Abrechnung von Verschleiß + integrierter Flat Tax",
+ "invariante": "Preis = Betriebskosten + Rücklagen + Marge + Nutzungs-Flat-Tax. Die Steuer wird am Punkt des physischen Verbrauchs erhoben und speist direkt den Existenzsockel.",
+ "textstelle": "Kapitel 11 - Aktualisierung Nutzungspreis"
+  "details": "Netz statt Segment. Nutzung statt Besitz. Abnutzung statt Pauschale. Preiswahrheit statt Steuer."
     },
     {
       "id": "K9",
