@@ -25,6 +25,14 @@ Die Konsequenz: Preise werden realwirtschaftlich, Bürokratie wird zum großen T
 Die gesellschaftliche Debatte kreist meist um Verteilungsfragen. Dabei wird eine grundlegendere Frage selten gestellt: Was soll ein gesellschaftliches System für den Menschen leisten?
 Ohne einen gemeinsamen menschlichen Nenner geraten Systeme in Drift. Ein System, das seine Mitglieder nicht trägt, wird von ihnen nicht getragen.
 Die heutige Ordnung ist nicht vollständig an den biologischen Lebensrhythmus angepasst: Geburt → Halt → Wirken → Übergang → Hinterlassen. Sie funktioniert nur unter der Bedingung kontinuierlichen Wachstums und macht Erwerbsarbeit zur Voraussetzung für Teilhabe – obwohl Automatisierung diese Voraussetzung zunehmend entwertet.
+Lebenszyklus-Isomorphie des rekursiven Kapitalflusses
+•	Abgabe → Geburt
+•	Investition → Halt
+•	Nutzung → Wirken
+•	Einnahmen → Übergang
+•	Rendite + Flat Tax (Existenzsicherung) → Hinterlassen
+•	Abgaben (aus Rendite und Existenzsicherung) → Geburt(en)
+Diese Struktur bildet den biologischen Lebenszyklus mechanisch ab und schließt den Kapitalfluss anthropologisch: Rendite und Existenzsicherung entsprechen funktional dem menschlichen Hinterlassen – Erbe und Weitergabe an die nächste Generation. Die daraus entstehenden Abgaben erzeugen neue „Geburten“ im System und schließen den rekursiven Loop driftfrei.
 Die Ursache liegt tiefer: Die zentralen gesellschaftlichen Logiken sind inkompatibel.
 - Die Marktlogik optimiert Profit und Nachfrage.
 - Die Haushaltslogik optimiert Sicherheit und Zeit.
