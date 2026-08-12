@@ -28,6 +28,12 @@ Körper → Geist → Seele → Körper
 Existenzsicherung → Teilhabe → Zeit → Mensch → Existenzsicherung
 Körper → Geist → Seele → Körper – das ist der Kreislauf von Existenzsicherung, Teilhabe, Zeit und Mensch. Das Societal OS macht diesen Kreislauf mechanisch und driftfrei.
 
+Zustand → Aktivierung → Ruhe → Zustand  
+Dies ist die funktionale Grundlogik des Menschen.
+Zustand beschreibt die körperliche Basis, Aktivierung die geistige und emotionale Teilhabe, Ruhe die zeitliche Regeneration.
+Drift ist jede Verzerrung dieser Sequenz.
+Das Societal OS koppelt diese drei Phasen mechanisch und verhindert Drift durch klare infrastrukturelle Führung.
+
 Die gesellschaftliche Debatte kreist meist um Verteilungsfragen. Dabei wird eine grundlegendere Frage selten gestellt: Was soll ein gesellschaftliches System für den Menschen leisten?
 Ohne einen gemeinsamen menschlichen Nenner geraten Systeme in Drift. Ein System, das seine Mitglieder nicht trägt, wird von ihnen nicht getragen.
 Die heutige Ordnung ist nicht vollständig an den biologischen Lebensrhythmus angepasst: Geburt → Halt → Wirken → Übergang → Hinterlassen. Sie funktioniert nur unter der Bedingung kontinuierlichen Wachstums und macht Erwerbsarbeit zur Voraussetzung für Teilhabe – obwohl Automatisierung diese Voraussetzung zunehmend entwertet.
