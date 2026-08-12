@@ -29,6 +29,8 @@ Der Nutzungspreis besteht fortan nur aus:
 •	Nutzungs Flat Tax
 Die Marge fließt als Rendite an die Bürger und Unternehmen zurück, die die investive Abgabe geleistet haben.
 
+Hinweis: Societal OS unterscheidet sich fundamental von einem bedingungslosen Grundeinkommen (BGE): Ein BGE bleibt ein politisch gewährter Transfer – abhängig vom Wohlwollen der jeweiligen Regierung, kürzbar, entziehbar, ohne Anspruchsgrundlage aus eigenem Beitrag. Der Nießbrauchertrag ist dagegen ein verbrieftes, aus der eigenen Kapitaleinlage abgeleitetes Recht – vergleichbar der Dividende eines Anteilseigners, nicht der Zahlung eines Sozialamts. Der Bürger ist nicht Bittsteller eines Transfers, sondern Inhaber eines Anspruchs.
+
 Der geschlossene Regelkreis
 Die korrekte Buchung erzeugt einen rekursiven Kapitalfluss:
 Abgabe → Infrastruktur → Nutzung → Preis → Einnahmen + Nutzungs Flat Tax (Existenzsicherung) → Rendite + Abgabe → Flat Tax (Existenzsicherung) → Existenzsicherung → neue Abgabe
