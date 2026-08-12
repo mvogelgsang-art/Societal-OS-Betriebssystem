@@ -23,7 +23,11 @@ Die Konsequenz: Preise werden realwirtschaftlich, Bürokratie wird zum großen T
 
 2. Der fehlende gemeinsame Nenner
 Hinweis: Die folgenden Begriffe (Körper, Geist, Seele) sind keine metaphysischen Kategorien, sondern funktionale Versorgungsdimensionen des Menschen: Sicherheit, Teilhabe und Zeit. 
-Funktionale Zuordnung: Körper = Mensch = Existenzsicherung, Geist = Kapital = Teilhabe, Seele = Natur/Infra = Zeit. Die gesellschaftliche Debatte kreist meist um Verteilungsfragen. Dabei wird eine grundlegendere Frage selten gestellt: Was soll ein gesellschaftliches System für den Menschen leisten?
+Funktionale Zuordnung: Körper = Mensch = Existenzsicherung, Geist = Kapital = Teilhabe, Seele = Natur/Infra = Zeit.
+Körper → Geist → Seele → Körper  
+Existenzsicherung → Teilhabe → Zeit → Mensch → Existenzsicherung
+
+Die gesellschaftliche Debatte kreist meist um Verteilungsfragen. Dabei wird eine grundlegendere Frage selten gestellt: Was soll ein gesellschaftliches System für den Menschen leisten?
 Ohne einen gemeinsamen menschlichen Nenner geraten Systeme in Drift. Ein System, das seine Mitglieder nicht trägt, wird von ihnen nicht getragen.
 Die heutige Ordnung ist nicht vollständig an den biologischen Lebensrhythmus angepasst: Geburt → Halt → Wirken → Übergang → Hinterlassen. Sie funktioniert nur unter der Bedingung kontinuierlichen Wachstums und macht Erwerbsarbeit zur Voraussetzung für Teilhabe – obwohl Automatisierung diese Voraussetzung zunehmend entwertet.
 Lebenszyklus-Isomorphie des rekursiven Kapitalflusses
