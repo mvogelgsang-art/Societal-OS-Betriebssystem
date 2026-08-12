@@ -139,6 +139,10 @@ Nießbrauch 				        Nutzungsrecht an der Substanz ohne Eigentumstitel
 
 5.1 Der zentrale Hebel – Steuer vs. Nießbrauch
 Steuer ist eine Abgabe ohne Eigentumstitel. Nießbrauch ist eine Abgabe mit Eigentumstitel am Nutzungsertrag der Infrastruktur. Die Abgabe baut die Substanz (Aktivtausch), die Flat Tax auf die Nutzung/Rendite sichert den Staat und den Sockel (Exitenzsicherung).
+
+Judikative‑Abkopplung der Flat Tax
+Um institutionelle Drift, Machtkonzentration und politische Budgetverzerrungen mechanisch zu verhindern, erhält die Judikative einen festen, abgekoppelten Anteil der Flat Tax (z. B. 5 %). Dieser Anteil ist nicht verhandelbar und nicht politisch beeinflussbar.
+
 Die verdeckte Kategorienverwechslung
 Der Begriff „Steuer" wird im geltenden Recht einheitlich auf zwei kategorial verschiedene Vorgänge angewendet, die eine unterschiedliche buchhalterische Behandlung verlangen würden, sobald man sie unterscheidet:
 Konsumtive Staatsausgaben – Polizei, Gerichte, Verwaltung, Verteidigung, Bildungspersonal. Hier entsteht kein Vermögenswert, der verbucht werden könnte; die Zahlung verschwindet im laufenden Betrieb. Dass § 3 Abgabenordnung diese Zahlungen als „ohne Gegenleistung" definiert, ist hier sachlich korrekt, weil es nichts gibt, das als Gegenposition entstehen könnte.
