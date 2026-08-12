@@ -85,6 +85,19 @@ Im Societal OS kehrt sich dieses Verhältnis um. Wer über Jahre die renditefäh
 
 Der Unterschied ist nicht graduell. Ein Bittsteller hängt vom Wohlwollen und den Regeln einer Instanz ab, die ihm gegenübersteht. Ein Kapitaleigner hängt von der Substanz ab, die ihm selbst gehört. Die erste Beziehung erzeugt Erpressbarkeit; die zweite erzeugt Sicherheit. Genau diese Verschiebung – von der Prüfung des Menschen zur Auszahlung seines Anteils – ist der eigentliche Kern der biologischen Driftbremse (siehe Axiom 0) und der humanen Konsequenz des Systembeitrags (siehe Kap. 26).
 
+Persona economicus existentia tuta – Der neue Bürgerstatus im Societal OS
+Im Societal OS entsteht eine neue juristische und ökonomische Bürgerrolle: die Persona economicus existentia tuta. Sie beschreibt den Bürger als:
+•	Rechtssubjekt (persona)
+•	Ertragssubjekt (economicus)
+•	existenzgesichertes Subjekt (existentia tuta)
+Der Bürger ist nicht länger ein Bittsteller, dessen Existenz von Erwerbsarbeit oder Verwaltungsentscheidungen abhängt. Er ist ein Kapitaleigner, der über die renditefähige Abgabe einen dokumentierten Anteil am Nutzungsertrag der Infrastruktur hält. Die Existenzsicherung ist damit keine Gewährung, sondern eine Ertragsausschüttung auf einen Kapitalstock, der ihm selbst gehört.
+Aus dieser neuen Bürgerrolle folgt eine zentrale Konsequenz für die Steuerarchitektur: Es gibt keinen systemischen Grund mehr für unterschiedliche Steuersätze.
+Da die Steuer im Societal OS ausschließlich konsumtive Staatsausgaben finanziert und nicht mehr als Umverteilungsinstrument dient, wird sie zu einem einheitlichen Preis für staatliche Dienstleistungen. Die Höhe der Steuer orientiert sich allein daran, ob eine Person das existenzielle Minimum erreicht.
+Sobald dieses Minimum gesichert ist, wird jede weitere wirtschaftliche Aktivität gleichversteuert, da sie nicht mehr zur Existenzsicherung beiträgt, sondern zur Renditebildung und Systemstabilität.
+Optionale Komfortprogression bis zum doppelten Existenzminimum
+Um die menschliche Lebensrealität abzubilden, kann eine moderate, mechanisch begrenzte Komfortprogression bis zum doppelten Existenzminimum vorgesehen werden. Sie glättet den Übergang in die Flat Tax, erhöht die Lebensqualität und stärkt die soziale Resonanz des Systems — ohne Drift zu erzeugen.
+Die Persona economicus existentia tuta ist damit die juristische Grundlage für eine einheitliche, driftfreie Steuerlogik, die ohne klassische Progression, Ausnahmen oder Sonderregeln auskommt, aber einen menschlichen Komfortkorridor zulässt.
+
 Diese Fehlkopplung wird durch einen wachsenden bürokratischen Apparat stabilisiert. Bürokratie verwaltet die Abhängigkeiten, statt sie zu lösen. Ihr Wachstum ist ein Symptom der Drift: der Entkopplung von Finanzierung und Nutzung, von Existenz und Arbeit, von Würde und Teilhabe.
 Ein zentraler Effekt dieser Drift ist die systematische Verschiebung von Verantwortung. Politik verweist auf den Markt, Unternehmen auf den Wettbewerb, Bürger auf Ohnmacht. Risiken werden nach unten delegiert – auf Arbeitnehmer, Selbstständige, Familien – und schließlich auf Menschen, die noch nicht geboren sind. Die langfristigen Kosten der heutigen Ordnung werden in die Zukunft verlagert.
 
