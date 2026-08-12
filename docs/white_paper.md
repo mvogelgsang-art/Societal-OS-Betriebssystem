@@ -84,6 +84,7 @@ Der Unterschied ist nicht graduell. Ein Bittsteller hängt vom Wohlwollen und de
 
 Diese Fehlkopplung wird durch einen wachsenden bürokratischen Apparat stabilisiert. Bürokratie verwaltet die Abhängigkeiten, statt sie zu lösen. Ihr Wachstum ist ein Symptom der Drift: der Entkopplung von Finanzierung und Nutzung, von Existenz und Arbeit, von Würde und Teilhabe.
 Ein zentraler Effekt dieser Drift ist die systematische Verschiebung von Verantwortung. Politik verweist auf den Markt, Unternehmen auf den Wettbewerb, Bürger auf Ohnmacht. Risiken werden nach unten delegiert – auf Arbeitnehmer, Selbstständige, Familien – und schließlich auf Menschen, die noch nicht geboren sind. Die langfristigen Kosten der heutigen Ordnung werden in die Zukunft verlagert.
+
 Diese Mechanik erzeugt:
 - Wachsende Bürokratie
 - Stagnierende Investitionen
