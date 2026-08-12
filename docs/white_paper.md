@@ -26,6 +26,7 @@ Hinweis: Die folgenden Begriffe (Körper, Geist, Seele) sind keine metaphysische
 Funktionale Zuordnung: Körper = Mensch = Existenzsicherung, Geist = Kapital = Teilhabe, Seele = Natur/Infra = Zeit.
 Körper → Geist → Seele → Körper  
 Existenzsicherung → Teilhabe → Zeit → Mensch → Existenzsicherung
+Körper → Geist → Seele → Körper – das ist der Kreislauf von Existenzsicherung, Teilhabe, Zeit und Mensch. Das Societal OS macht diesen Kreislauf mechanisch und driftfrei.
 
 Die gesellschaftliche Debatte kreist meist um Verteilungsfragen. Dabei wird eine grundlegendere Frage selten gestellt: Was soll ein gesellschaftliches System für den Menschen leisten?
 Ohne einen gemeinsamen menschlichen Nenner geraten Systeme in Drift. Ein System, das seine Mitglieder nicht trägt, wird von ihnen nicht getragen.
