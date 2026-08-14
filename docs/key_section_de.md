@@ -32,7 +32,7 @@ Obwohl Bürger und Unternehmen die Infrastruktur über Steuern und Abgaben finan
 
 Damit entsteht ein struktureller Widerspruch:
 
-Die Gemeinschaft trägt die Substanz, aber der Nutzen fließt an Dritte.
+Die Gemeinschaft trägt die Substanz, aber der Nutzen fließt an Dritte, für deren Renditen sie wieder selbst bezahlt oder deren Kosten erneut auf sie abgewälzt werden (siehe LKW‑Maut und Preissteigerungen). Dazu kommen noch Verwaltungskosten.
 
 Diese Entkopplung ist keine politische Entscheidung, sondern die direkte Folge der falschen buchhalterischen Typisierung.
 
