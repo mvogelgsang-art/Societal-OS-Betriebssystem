@@ -1,6 +1,14 @@
 Societal OS - White Paper 2.0
 Architektur eines driftfreien, mehrkanaligen Betriebssystems
 
+Das Problem-Statement
+
+In der heutigen Ordnung ist das Fundament faktisch sozialistisch – die Gemeinschaft trägt die Substanz – während die Erträge über die Substanz kapitalistisch extrahiert werden. Diese vertikale Fehlkopplung ist der strukturelle Kern des Systems.
+
+Moderne Staaten operieren mit zwei inkompatiblen Logiken: Haushaltslogik in der Finanzierung (Steuern = konsumtiver Aufwand) und Marktlogik in der Nutzung (Mauten/Entgelte = kapitalistische Extraktion). Diese Trennung von Investitionslast und Ertragsallokation erzeugt eine permanente systemische Drift, chronische Preisverzerrungen und eine exponentiell wachsende Bürokratie, die diesen Widerspruch krampfhaft verwalten muss.
+
+Das Societal OS korrigiert diesen buchhalterischen Kategorienfehler an der Wurzel. Es transformiert den investiven Staatsaufwand in einen Aktivtausch: Wer die Infrastruktur finanziert, erhält das unentziehbare, vererbbare Nießbrauchrecht an ihren Erträgen. Die Existenzsicherung wird von der Volatilität des Arbeitsmarktes entkoppelt und zu einer organischen Dividende der kollektiven Systemeffizienz.
+
 Vorwort: Der blinde Fleck der modernen Gesellschaft
 Die gesellschaftliche Debatte über Wirtschafts- und Sozialpolitik bewegt sich seit Jahrzehnten in einem scheinbar unüberwindbaren Gegensatz: Hier die Befürworter eines starken Staates, der Umverteilung und soziale Sicherheit gewährleistet. Dort die Verfechter des freien Marktes, der durch Wettbewerb und Eigentum Effizienz und Wohlstand schafft.
 Beide Lager übersehen dabei eine grundlegende strukturelle Gemeinsamkeit: In allen bestehenden Systemen tragen Bürger und Unternehmen die Lasten, ohne an den Erträgen der von ihnen finanzierten Infrastruktur beteiligt zu werden.
