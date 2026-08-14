@@ -85,7 +85,7 @@ Bevor Sie dieses White Paper lesen, legen Sie bitte alle gewohnten Vorstellungen
 Der Investor ist nicht der Betreiber.
 Der Investor (Nießbraucher) hat die Baukosten bereits vor Jahrzehnten über die renditefähige Abgabe finanziert. Er sieht nie wieder eine Rechnung dafür. Der Betreiber (Unternehmen) trägt ausschließlich die laufenden Betriebskosten und wird von den Investoren gewählt – nicht vom Staat.
 Die Abgabe ist keine Ausgabe, sondern eine Umwandlung.
-Geld wird zu Beton, Schienen, Kupfer, Netzen und Energie. Die Baukosten sind für den Preis dauerhaft irrelevant (sunk). Der Preis besteht ausschließlich aus Betriebskosten + Instandhaltungsrücklage + einer definierten Marge + Nutzungs-Flat-Tax. Nicht mehr aus politischer Haushaltslogik.
+Geld wird zu Beton, Schienen, Kupfer, Netzen und Energie. Die Baukosten sind für den Preis dauerhaft irrelevant (sunk). Der Preis besteht ausschließlich aus Betriebskosten + Instandhaltungsrücklage + einer definierten Marge + Nutzungs-Flat-Tax. Nicht mehr aus politischer Haushaltslogik. Baukosten sind sunk, weil Substanz entsteht, die Nutzen schafft. Nutzen ist der Wert, nicht die Substanz.
 Rückbau ist eine Ernte, keine Insolvenz.
 Die laufende Abgabe der Wirtschaft finanziert den Rückbau. Die Materialerlöse sind eine Schlussdividende für die Investoren – kein Verlusttopf für den Staat. Infrastruktur verliert keine Substanz, sie transformiert sie.
 Anthropologische Kopplung – Körper, Geist und Seele im rekursiven Kapitalfluss
