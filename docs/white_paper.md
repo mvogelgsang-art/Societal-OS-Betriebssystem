@@ -91,7 +91,6 @@ Damit kehrt der Kapitalfluss an seinen Ausgangspunkt zurück:
 Mensch → Kapital → Infrastruktur → Nutzungsgeld → Rendite → Existenzsicherung → Mensch.
 Der Dreiklang von Körper, Geist und Seele wird nicht symbolisch, sondern funktional hergestellt: Er ist die anthropologische Rückkopplungsschleife, die das System mechanisch schließt.
 
-
 3. Einleitung: Die Fehlkopplung der bestehenden Ordnung
 Die Kopplung zwischen Existenz und Erwerbsarbeit ist kein Naturgesetz, sondern eine historische Konstruktion. Sie war funktional in einer Epoche, in der menschliche Arbeit der zentrale Produktionsfaktor war. Heute, in einer infrastrukturbasierten Ökonomie, ist sie nicht nur überholt – sie ist eine strukturelle Falle.
 Erwerbsarbeit ist kein stabiler Parameter. Sie entsteht nur dort, wo externe Nachfrage nach Leistung besteht. Die Sicherung der eigenen Existenz hängt damit strukturell davon ab, dass Dritte bereit sind, Nutzen aus der eigenen Person zu ziehen – als Arbeitnehmer, Dienstleister oder Unternehmer.
@@ -125,7 +124,8 @@ Menschen werden nicht am Nutzen beteiligt. Obwohl Bürger und Unternehmen die In
 
 Damit entsteht ein struktureller Widerspruch:
 
-Die Gemeinschaft trägt die Substanz, aber der Nutzen fließt an Dritte, für deren Renditen sie wieder selbst bezahlt oder deren Kosten wieder auf sie abgewälzt werden (siehe LKW‑Maut und Preissteigerungen).
+Die Gemeinschaft trägt die Substanz, aber der Nutzen fließt an Dritte, für deren Renditen sie wieder selbst bezahlt oder deren Kosten erneut auf sie abgewälzt werden (siehe LKW‑Maut und Preissteigerungen). Dazu kommen noch Verwaltungskosten.
+
 Diese Entkopplung ist keine politische Entscheidung, sondern die direkte Folge der falschen buchhalterischen Typisierung.
 
 Back to the Roots 2.0 – Die Wiederherstellung der natürlichen Kopplung Das Societal OS korrigiert diese doppelte Entkopplung mechanisch:
