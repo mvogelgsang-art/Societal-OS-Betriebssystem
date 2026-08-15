@@ -28,7 +28,7 @@ Diese drei Punkte wären die primären Prüfkomplexe.
 B. Verfassungsrechtliche Tiefenkonflikte
 (Hypothesen zur Prüfung)
 
-Art. 14 GG – Eigentum — Es könnte untersucht werden, ob aus der langfristigen Finanzierung öffentlicher Infrastruktur durch Bürger eine vermögenswerte Rechtsposition entsteht, die verfassungsrechtlich relevant wäre.
+Art. 14 GG – Eigentum — Es könnte untersucht werden, ob aus der langfristigen Finanzierung öffentlicher Infrastruktur durch Bürger und Unternehmen eine vermögenswerte Rechtsposition entsteht, die verfassungsrechtlich relevant wäre.
 
 Art. 3 GG – Gleichheit — Es könnte geprüft werden, ob die unterschiedliche Behandlung identischer wirtschaftlicher Vorgänge (Kapitalhingabe im Privatrecht vs. Steuerzahlung im öffentlichen Recht) eine Ungleichbehandlung darstellt.
 
@@ -41,7 +41,7 @@ C. Institutionelle und prozessuale Konflikte
 
 Haushaltswahrheit — Es könnte geprüft werden, ob die Gleichbehandlung von konsumtiven und investiven Ausgaben die Transparenz des Haushalts beeinträchtigt.
 
-Rechtsweggarantie — Es könnte untersucht werden, ob Bürger durch die fehlende Zweckbindung ihrer Zahlungen faktisch keine Klagebefugnis besitzen.
+Rechtsweggarantie — Es könnte untersucht werden, ob Bürger und Unternehmen durch die fehlende Zweckbindung ihrer Zahlungen faktisch keine Klagebefugnis besitzen.
 
 Diese beiden Punkte wären die verwaltungsrechtlichen Prüfkomplexe.
 
@@ -66,7 +66,7 @@ Diese beiden Punkte wären die makroökonomischen Prüfkomplexe.
 F. Metasystemischer Konflikt: Simulation von Eigentum
 (Hypothese zur Prüfung)
 
-Simulationsparadox — Es könnte geprüft werden, ob der Staat eine Eigentümerrolle simuliert, obwohl die Finanzierung der Substanz durch Bürger erfolgt, ohne dass diese eine entsprechende Rechtsposition erhalten.
+Simulationsparadox — Es könnte geprüft werden, ob der Staat eine Eigentümerrolle simuliert, obwohl die Finanzierung der Substanz durch Bürger und Unternehmen erfolgt, ohne dass diese eine entsprechende Rechtsposition erhalten.
 
 Dies wäre der metasystemische Prüfkomplex.
 
