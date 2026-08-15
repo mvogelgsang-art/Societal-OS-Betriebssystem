@@ -30,7 +30,10 @@ Das System ist kein fragiles Konstrukt, sondern ein mehrmotoriges Rückkopplungs
 Die Konsequenz: Preise werden realwirtschaftlich, Bürokratie wird zum großen Teil mechanisch überflüssig, und die Existenzsicherung, die über die Flat Tax finanziert wird, wird zu einem Kapitalfluss – nicht zu einem staatlichen Transfer.
 
 2. Der fehlende gemeinsame Nenner
-Hinweis: Die folgenden Begriffe (Körper, Geist, Seele) sind keine metaphysischen Kategorien, sondern funktionale Versorgungsdimensionen des Menschen: Sicherheit, Teilhabe und Zeit. 
+
+Methodischer Hinweis zur Genese (Optionaler Leseabschnitt)Der folgende Abschnitt beschreibt den ursprünglichen, anthropologischen Gedankengang, aus dem heraus die mathematische und buchhalterische Architektur des Societal OS entwickelt wurde. Er dient dem Verständnis der philosophischen Prämissen. Für das Verständnis der harten juristischen, verfassungsrechtlichen und ökonomischen Funktionsweise der Systemarchitektur ist dieser Teil nicht zwingend erforderlich und kann von rein technisch oder juristisch interessierten Lesern übersprungen werden.
+
+Die folgenden Begriffe (Körper, Geist, Seele) sind keine metaphysischen Kategorien, sondern funktionale Versorgungsdimensionen des Menschen: Sicherheit, Teilhabe und Zeit. 
 Funktionale Zuordnung: Körper = Mensch = Existenzsicherung, Geist = Kapital = Teilhabe, Seele = Natur/Infra = Zeit.
 Körper → Geist → Seele → Körper  
 Existenzsicherung → Teilhabe → Zeit → Mensch → Existenzsicherung
