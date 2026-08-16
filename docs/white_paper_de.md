@@ -110,7 +110,7 @@ Parallel dazu begrenzen Staaten den Zugang zu natürlichen Ressourcen wie Land, 
 Selbstständigkeit bietet keinen Ausweg. Sie bleibt in dieselben Mechaniken eingebettet: hohe Sozialabgaben, regulatorische Abhängigkeit, Wettbewerbsdruck. Produkte und Dienstleistungen bleiben wertlos, solange der Staat ihre Vermarktung nicht erlaubt. Der Markt ist kein freier Raum, sondern ein reglementierter Korridor.
 Auch Vorsorge wird ambivalent behandelt. Wer spart, muss im Bedarfsfall erst sein Vermögen aufbrauchen, bevor Unterstützung gewährt wird. Wer keine Rücklagen hat, erhält schneller Hilfe. Partnerschaften werden zu ökonomischen Abhängigkeiten, weil Einkommen angerechnet wird.
 
-Die anthropologische Entkopplung: Menschen und Gruppen (Unternehmen) wissen, was sie bauen müssen – der Kategorienfehler nimmt ihnen dieses Recht
+3.1 Die anthropologische Entkopplung: Menschen und Gruppen (Unternehmen) wissen, was sie bauen müssen – der Kategorienfehler nimmt ihnen dieses Recht
 
 Über den größten Teil der Menschheitsgeschichte war die Kopplung zwischen Gemeinschaft, Substanz und Nutzung unmittelbar. Menschen wussten selbst, welche Infrastruktur sie brauchten, und sie bauten diese Infrastruktur gemeinschaftlich: Wege, Brunnen, Schutzräume, Feuerstellen, Lagerplätze, Vorratssysteme. Die Entscheidung darüber, was gebaut wird, wie gebaut wird und wo gebaut wird, lag vollständig bei denjenigen, die die Substanz später nutzten.
 
@@ -139,7 +139,7 @@ Die Gemeinschaft trägt die Substanz, aber der Nutzen fließt an Dritte, für de
 
 Diese Entkopplung ist keine politische Entscheidung, sondern die direkte Folge der falschen buchhalterischen Typisierung.
 
-Infrastruktur als Rückkehr der natürlichen Ordnung
+3.2 Infrastruktur als Rückkehr der natürlichen Ordnung
 
 Über den größten Teil der Menschheitsgeschichte war Zugang kein verwalteter Vorgang, sondern ein unmittelbarer Vollzug: Wasser, Nahrung, Energie, Raum und Schutz entstanden aus Handlung, nicht aus Erlaubnis. Die Natur koppelte den Menschen direkt an die Ressourcen seiner Umgebung – ohne dritte Instanz, ohne Genehmigung, ohne fiktive Rechte.
 
@@ -156,7 +156,7 @@ Damit wird der Zugang zur neuen Natur – zur technischen Lebensader – erneut 
 
 Infrastruktur ist damit nicht ein modernes Verwaltungssystem, sondern die Rückkehr der natürlichen Ordnung in technischer Form – sofern sie korrekt kategorisiert wird. Wird sie falsch kategorisiert, reproduziert sie dieselben künstlichen Klassen und Blockaden, die die Natur nie vorgesehen hat.
 
-Back to the Roots 2.0 – Die Wiederherstellung der natürlichen Kopplung Das Societal OS korrigiert diese doppelte Entkopplung mechanisch:
+3.3 Back to the Roots 2.0 – Die Wiederherstellung der natürlichen Kopplung Das Societal OS korrigiert diese doppelte Entkopplung mechanisch:
 
 Die investive Abgabe wird als Kapitaleinlage verbucht.
 
@@ -177,7 +177,57 @@ Synthese: Die Rückkehr der natürlichen Infrastrukturmechanik. Der Kategorienfe
 Das Societal OS stellt beide Rechte mechanisch wieder her.
 Damit schließt sich der Kreis zwischen der anthropologischen Urlogik der Menschheit und einer modernen, rekursiven, driftfreien Kapitalflussarchitektur.
 
-Vom Bittsteller zum Anspruchsberechtigten
+3.4 Erbschaft und Bürgerfonds
+
+Das Societal OS erfasst Erbschaften nicht über eine pauschale Substanzbesteuerung, sondern über eine strukturelle Vorteilsabgabe. Besteuert wird ausschließlich der laufende Vorteil, der aus der gesellschaftlichen Einbettung eines Vermögens entsteht – nicht die Substanz selbst.
+
+Vorteilslogik:  
+Immobilien koppeln über erzieltes Einkommen zurück; Unternehmen über realen Gewinn; Kapitalwerte über Rendite; Boden über typisierte Knappheit; Finanzvermögen über laufende Erträge; Erbschaften über die zukünftigen Vorteile des übernommenen Vermögens.
+
+Entsteht kein Vorteil, entsteht keine Abgabe. Bewertungsbürokratie entfällt vollständig.
+
+Objektbezogene Haftung:  
+Die Vorteilsabgabe haftet am Objekt, nicht an der Person. Beim Verkauf übernimmt der Käufer die laufende Abgabe; der Verkäufer erhält den vollen Erlös. Eigentumswechsel bleiben frei von Lock‑in‑Effekten.
+
+Systemische Wirkung:  
+Das System reguliert sich selbst:
+
+• geringe Vorteile → geringe oder keine Abgabe
+• große Vorteile → höhere Abgabe
+• Substanz bleibt unberührt
+
+Die Vorteilsabgabe ist damit ein driftfreier, bewertungsfreier Rückkopplungsmechanismus, der Vermögen nicht bestraft, sondern seine gesellschaftliche Einbettung sichtbar macht.
+
+3.4.1 Optionaler Übergang bei fehlenden Erben (Infrastruktur bzw. Abgabenkonto:  
+Der Kapitalstock bleibt unverkäuflich, unverpfändbar und vererbbar. Wenn keine Erben vorhanden sind, kann der Nießbraucher den Kapitalstock freiwillig dem Bürgerfonds übertragen und erhält im Gegenzug eine erhöhte Rendite. Die Substanz bleibt geschützt; angepasst wird ausschließlich der Ertragsfluss.
+
+3.4.2 Bodenentzugsabgabe und flächenbasierte Bodenbewertung:  
+Unbebauter, erschlossener Baugrund profitiert von gesellschaftlicher Infrastruktur, ohne selbst etwas beizutragen. Die Bodenentzugsabgabe erfasst ungenutzte Grundstücke ab zwei Jahren Nichtnutzung und endet automatisch bei tatsächlicher Nutzung.
+
+Die Bemessung erfolgt über ein objektives, flächenbasiertes Modell: Wohnfläche, Grundstücksfläche, Gebäudetypisierung und eine dreistufige Knappheitslogik (Bundesland, Region, Gemeinde). Marktwerte, Gutachten und Neubewertungen entfallen vollständig.
+
+Die Grundsteuer wird nicht eingeführt; sie wird vollständig durch die Vorteilsabgabe ersetzt.
+
+3.4.3 Der Bürgerfonds als Generationenvermögen:  
+Die Vorteilsabgabe fließt in einen investiven Bürgerfonds, der als generationenübergreifendes Gemeinschaftsvermögen wirkt. Der Fonds finanziert primär sozialen Wohnungsbau und kann – abhängig von Bedarf und Marktsättigung – ebenso in Unternehmen, Forschung und neue wirtschaftliche Räume investieren.
+
+Die Erträge werden reinvestiert, bis eine stabile Fondsdimension erreicht ist. Danach speisen sie die kapitalgedeckte Altersversorgung oberhalb der Grundversorgung. Besteuert wird nicht die Substanz eines Erbes, sondern ausschließlich der laufende Vorteil aus gesellschaftlicher Einbettung.
+
+3.4.4 Mietpreisbremse 2.0:  
+Der Bürgerfonds ist der größte Bauträger des Systems. Da die Baukosten nach der Investition sunk sind, kann der Fonds Wohnraum unabhängig vom Baupreis vermieten – als Kostenmiete, Unterkostenmiete oder moderate Renditemiete. Jede neue Einheit erhöht das Angebot und senkt strukturell die Mietpreise der gesamten Region.
+
+Wird eine Einheit verkauft, fließt der Erlös inklusive moderater Rendite zurück in den Bürgerfonds und finanziert neue Bauprojekte. Spekulation ist möglich, aber zeitlich begrenzt: Spätestens beim Generationsübergang wird der Vorteil über die Erbschaftsabgabe erfasst und in den kollektiven Kreislauf zurückgeführt.
+
+Strukturelle Kapitalumschichtung:  
+Sinkt der Infrastrukturbedarf dauerhaft, wird überschüssige Infrastruktur nicht künstlich erhalten. Rückbau ist eine Ernte: Er verwandelt Substanz in frei werdende Ressourcen (Material, Fläche, Energie), die über die Plattform in Kapitalwerte transformiert und im Bürgerfonds oder Reservefonds gespeichert werden.
+
+3.4.5 Reservefonds:  
+Von jeder Vorteilsabgabe fließen 10–20 % in den Reservefonds. Er stabilisiert alle Eigentümerfonds, federt Schwankungen ab und eliminiert die Notwendigkeit separater Stabilitätsfonds.
+
+Fazit:  
+Die Vorteilsabgabe ist keine Belastung, sondern eine Rückkopplung. Wer strukturell profitiert, trägt strukturell bei. Der Bürgerfonds verwandelt diese Rückkopplung in generationenübergreifendes Kapital – driftfrei, bewertungsfrei, mechanisch stabil.
+
+3.5 Vom Bittsteller zum Anspruchsberechtigten
 Wer heute ohne Erwerbsarbeit dasteht, tritt dem Staat nicht als Gegenüber auf gleicher Augenhöhe entgegen, sondern als Bittsteller. Er muss Bedürftigkeit nachweisen, Vermögen offenlegen, Anträge stellen, Fristen einhalten, sich prüfen und kontrollieren lassen. Die Leistung, die er am Ende erhält, ist keine Erfüllung eines Anspruchs, sondern eine Gewährung – widerruflich, bedingt, an Mitwirkungspflichten geknüpft.
 
 Diese Behandlung ist kein Zufall und keine bürokratische Unfreundlichkeit einzelner Sachbearbeiter. Sie ist die zwingende Folge davon, dass die betroffene Person in der bestehenden Ordnung strukturell nichts besitzt, das ihr diesen Anspruch verschaffen würde. Wo kein Eigentumstitel existiert, bleibt nur das Ermessen der Verwaltung – und Ermessen erzeugt Abhängigkeit, nicht Würde.
@@ -186,7 +236,7 @@ Im Societal OS kehrt sich dieses Verhältnis um. Wer über Jahre die renditefäh
 
 Der Unterschied ist nicht graduell. Ein Bittsteller hängt vom Wohlwollen und den Regeln einer Instanz ab, die ihm gegenübersteht. Ein Kapitaleigner hängt von der Substanz ab, die ihm selbst gehört. Die erste Beziehung erzeugt Erpressbarkeit; die zweite erzeugt Sicherheit. Genau diese Verschiebung – von der Prüfung des Menschen zur Auszahlung seines Anteils – ist der eigentliche Kern der biologischen Driftbremse (siehe Axiom 0) und der humanen Konsequenz des Systembeitrags (siehe Kap. 26).
 
-Persona economicus existentia tuta – Der neue Bürgerstatus im Societal OS
+3.6 Persona economicus existentia tuta – Der neue Bürgerstatus im Societal OS
 Im Societal OS entsteht eine neue juristische und ökonomische Bürgerrolle: die Persona economicus existentia tuta. Sie beschreibt den Bürger als:
 •	Rechtssubjekt (persona)
 •	Ertragssubjekt (economicus)
