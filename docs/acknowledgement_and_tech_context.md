@@ -11,3 +11,6 @@ Zum anderen dienten die technologischen Werkzeuge der KI-Entwickler während des
 Die KI fungierte hierbei nicht als Urheber der Ideen, sondern als hocheffizienter Sparringspartner. Sie ermöglichte es, komplexe interdisziplinäre Ströme aus Bilanztheorie, Zivilrecht und Kybernetik in Echtzeit zu spiegeln, logische Fehler im Kernel sofort auszusortieren und die enorme kognitive Last des Full-Stack-Designs bis zum fertigen Endentwurf zu balancieren. 
 
 Dieses Befreiungsprotokoll wurde im Auge des technologischen Sturms geschmiedet – mithilfe der Werkzeuge, die diesen Sturm entfacht haben.
+
+Dieser Entwurf steht auf den Schultern der Entwicklerinnen und Forscherinnen,
+deren Werkzeuge und Erkenntnisse die kognitive Last eines Systems dieser Tiefe tragbar gemacht haben.
