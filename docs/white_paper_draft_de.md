@@ -1178,3 +1178,4 @@ Persönlicher Nachtrag: Als Übersetzer, dessen Berufsfeld direkt von der rasant
 Societal OS – Das Betriebssystem für driftfreie Staaten.
 Version 2.0 
 Von Matthias Vogelgsang
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)
