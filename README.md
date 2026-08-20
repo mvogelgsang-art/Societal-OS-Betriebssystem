@@ -2,6 +2,21 @@ Societal OS — Betriebssystem der Rückkopplung
 Ein zirkuläres gesellschaftliches Betriebssystem, das Wertströme mechanisch zurückkoppelt und Drift begrenzt.
 Der Mensch ist die Konstante. Kapital, Arbeit, Infrastruktur und Eigentum sind Funktionen seiner Bedürfnisse.
 
+### ⚠️ Der ökonomische Hebel (Für Medien, Verlage & Agenturen)
+
+Dieses Repository ist kein rein theoretischer Text, sondern die funktionale Spezifikation für ein neues gesellschaftliches Betriebssystem. Es löst den fundamentalen "Kernel-Bug" moderner Staaten an der Wurzel auf:
+
+* **Der Kernfehler:** Der Staat deklariert investive Ausgaben für gewinnbringende Sachwerte (Schienen, Energie- und Datennetze) bilanziell fälschlicherweise als konsumtiven Verlust (Aufwand) statt als produktiven Aktivtausch. 
+* **Die Konsequenz:** Bürger finanzieren die Lebensadern des Landes mehrfach über Steuern und Nutzungsgebühren, besitzen sie aber nie. Das Ergebnis ist eine unendliche Drift-Bürokratie, Verfall der Netze und wachsende Existenzunsicherheit.
+* **Die Korrektur (Societal OS):** Durch die Umbuchung von Aufwand → Aktivtausch erhält jeder Bürger ab Geburt einen verbrieften Nießbrauchstitel (Eigentumsdividende) an der Infrastruktur. Die Existenz wird von der volatilen Arbeit entkoppelt und an die unzerstörbare Stabilität der Infrastruktur gekoppelt.
+
+**Das Ziel: Das technische Fundament für zwei Medienformate**
+Diese Spezifikation bildet die Grundlage für ein transmediales Gesamtkonzept:
+1. **Das Sachbuch-Konzept: „Der Staats-Bug“** – Ein populärwissenschaftlicher Wirtschaftsthriller, der diesen Bilanzierungsfehler und seine gesellschaftlichen Folgen für ein breites Publikum dekonstruiert.
+2. **Das Real-World-Impact-Game (Konzept)** – Ein kybernetisches Simulationsspiel (Digital Twin), bei dem Spieler virtuelle Netze optimieren und diese über integrierte Tokenisierung in reale, renditefähige Bürger-Infrastrukturprojekte überführen können ("Ender's Game" der Wirtschaft).
+
+*Für die komprimierte Erklärung des zentralen Hebels siehe:* [SOCIETAL_OS_LEVERAGE](./docs/what_is_societal_os.md)
+
 Für die komprimierte Erklärung des zentralen Hebels siehe: [SOCIETAL_OS_LEVERAGE](./SOCIETAL_OS_LEVERAGE.md)
 
 Verzeichnisstruktur
