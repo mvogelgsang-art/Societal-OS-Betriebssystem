@@ -480,6 +480,18 @@ Beispiel Energienetze
 Der Bürger finanziert die Strom- und Gasleitungen einmalig über seine Steuern. Anschließend finanziert er erneut – ebenfalls über Steuern – die staatlichen Verwaltungs- und Regulierungsstrukturen, die notwendig werden, weil die Energienetze als Kostenblock geführt werden. Zusätzlich zahlt der Bürger über Netzentgelte und Energiepreise die Renditen der Betreiber, obwohl die zugrunde liegende Infrastruktur bereits von ihm selbst gebaut wurde. In diesem Kreislauf erhält der Bürger keinen einzigen Cent zurück, obwohl er der ursprüngliche Investor der gesamten Energieinfrastruktur ist.
 Zusatz: 
 Während Großverbraucher und Logistikriesen die Netze am stärksten belasten, subventioniert das System diese Nutzung oft (z. B. indem PKW-Fahrer keine Maut zahlen oder Industriekonzerne von Netzentgelten befreit werden). Der Bürger trägt die Last, während der Profit ohne Rückkopplung abfließt.
+
+Beispiel Flughafen  
+Bürger und Unternehmen finanzieren Bau, Erweiterung und Anbindung von Flughäfen über Steuern, Energiepreise, Netzentgelte und kommunale Abgaben. Die fertige Substanz wird anschließend kapitalistisch bewirtschaftet: Airlines, Einzelhandelskonzessionäre, Parkhausbetreiber und weitere Nutznießer erzielen laufende Erträge auf eben jener Infrastruktur.
+
+Parallel dazu zahlen Passagiere und die Allgemeinheit erneut – über Flughafenentgelte, die in Ticketpreise eingepreist werden, über Sicherheitsgebühren, Parkgebühren und weitere nutzungsabhängige Abgaben.
+
+Die ursprünglichen Financiers der Substanz erhalten keinen Residualanspruch an den Erträgen, die auf dem von ihnen mitfinanzierten Kapitalgut entstehen.
+
+Damit wiederholt sich die bekannte Struktur: Die Gemeinschaft trägt die Last der Substanzbildung und -erhaltung, während die Erträge selektiv zufließen und die Financiers gleichzeitig weiter für die Nutzung zahlen. Die Infrastruktur wird konsumiert und bewirtschaftet, aber nicht kapitalisiert zugunsten derjenigen, die sie ermöglicht haben.
+
+Im Societal OS wird dieser Kategorienfehler korrigiert: Die investive Abgabe wird als Kapitaleinlage verbucht, die Gemeinschaft erhält den Nießbrauchstitel am Nutzungsertrag, und die Infrastruktur wird zu einem gemeinschaftlichen Kapitalgut. Der Nutzungsertrag fließt an diejenigen zurück, die die Substanz finanziert haben.
+
 9.1 Die Spielplatzanalogie
 100 Nachbarn zahlen ihre Abgabe in einen gemeinsamen Topf. Mit diesem Geld wird ein Spielplatz gebaut. Der Staat stellt den Boden kostenlos bereit. Die 10.000 € Baukosten sind buchhalterisch ausgegeben – aber die Substanz existiert: der Spielplatz ist da.
 Die 100 Nachbarn bauen den Spielplatz, weil sie ihn selbst brauchen. Sie nutzen ihn, zahlen Nutzungspreise und erhalten gleichzeitig Rendite aus der Nutzung durch andere.
