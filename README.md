@@ -2,7 +2,7 @@ Societal OS — Betriebssystem der Rückkopplung
 Ein zirkuläres gesellschaftliches Betriebssystem, das Wertströme mechanisch zurückkoppelt und Drift begrenzt.
 Der Mensch ist die Konstante. Kapital, Arbeit, Infrastruktur und Eigentum sind Funktionen seiner Bedürfnisse.
 
-### ⚠️ Der ökonomische Hebel (Für Medien, Verlage & Agenturen)
+### Der ökonomische Hebel (Für Medien, Verlage & Agenturen)
 
 Dieses Repository ist kein rein theoretischer Text, sondern die funktionale Spezifikation für ein neues gesellschaftliches Betriebssystem. Es löst den fundamentalen "Kernel-Bug" moderner Staaten an der Wurzel auf:
 
