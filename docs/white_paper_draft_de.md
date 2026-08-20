@@ -156,6 +156,35 @@ Damit wird der Zugang zur neuen Natur – zur technischen Lebensader – erneut 
 
 Infrastruktur ist damit nicht ein modernes Verwaltungssystem, sondern die Rückkehr der natürlichen Ordnung in technischer Form – sofern sie korrekt kategorisiert wird. Wird sie falsch kategorisiert, reproduziert sie dieselben künstlichen Klassen und Blockaden, die die Natur nie vorgesehen hat.
 
+Axiom der Dreifachkopplung: Existenz, Infrastruktur und Kapital als driftfreier Regelkreis
+Das Societal OS stabilisiert die moderne Gesellschaft durch eine dreifache Kopplung, die drei zentrale Systemgrößen untrennbar miteinander verbindet: Existenz, Infrastruktur und Kapital. Jede dieser Größen stabilisiert die beiden anderen. Dadurch entsteht ein geschlossener, selbstreferenzieller Regelkreis, der Drift mechanisch verhindert.
+
+1. Existenz gekoppelt an Infrastruktur
+In der bestehenden Ordnung ist die Existenz des Menschen an Arbeit gebunden. Arbeit ist volatil, technologisch ersetzbar und abhängig von externer Nachfrage. Diese Kopplung erzeugt Unsicherheit.
+
+Im Societal OS wird die Existenz an Infrastruktur gekoppelt. Infrastruktur ist nicht volatil. Sie ist die physische Voraussetzung dafür, dass Leben und Wirtschaft stattfinden können. Solange eine Gesellschaft existiert, wird ihre Infrastruktur genutzt. Existenz wird damit auf eine stabile, nicht ersetzbare Größe gestützt.
+
+2. Infrastruktur gekoppelt an Kapital
+Kapital driftet heute häufig von der realen Wirtschaft ab und wird spekulativ. Es verliert den Bezug zur produktiven Substanz.
+
+Im Societal OS wird Kapital vollständig an die Infrastruktur gebunden. Kapital entsteht durch reale Sachwerte – Straßen, Netze, Energie, Logistik – und durch deren Nutzung. Jede Nutzung erzeugt reale Einnahmen. Kapital repräsentiert damit produktive Substanz und realen Cashflow.
+
+3. Kapital gekoppelt an Existenz
+Der normale Bürger besitzt im Status quo kein Kapital. Er besitzt nur seine Arbeitskraft. Er startet bei null und bleibt abhängig.
+
+Im Societal OS wandelt sich die investive Abgabe des Bürgers in eine Kapitaleinlage. Er erhält einen verbrieften Nießbrauchstitel, der ihm einen Anteil am Nutzungsertrag sichert. Seine Existenz wird durch die Rendite seines eigenen Kapitals stabilisiert. Das ist ökonomische Souveränität.
+
+Der geschlossene Regelkreis
+Diese dreifache Kopplung erzeugt einen selbsttragenden Kreislauf:
+
+Die Existenz der Menschen erzeugt Nutzung der Infrastruktur.
+
+Die Nutzung der Infrastruktur erzeugt Ertrag für das Kapital.
+
+Der Ertrag des Kapitals sichert die Existenz der Menschen.
+
+Der Kreislauf schließt sich exakt dort, wo er entsteht: bei der Gemeinschaft der Bürger. Es gibt keinen strukturellen Abfluss nach oben. Das System ist driftfrei.
+
 3.3 Back to the Roots 2.0 – Die Wiederherstellung der natürlichen Kopplung Das Societal OS korrigiert diese doppelte Entkopplung mechanisch:
 
 Die investive Abgabe wird als Kapitaleinlage verbucht.
