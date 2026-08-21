@@ -10,6 +10,15 @@ Diese Fehlkopplung führt zu einer strukturellen Mehrfachbelastung:
 •	Verwaltungskosten der Fehlkopplung – Die Drift erzeugt eine eigene Bürokratie, die Steuern, Nutzungspreise, Umlagen, Förderprogramme und Ausgleichsmechanismen verwaltet.
 Die Bevölkerung trägt somit mehrfach dieselbe Substanz, während die Erträge einmal an Betreiber und institutionelle Verwender fließen. Diese Mehrfachbelastung ist keine politische Entscheidung, sondern die direkte Folge eines Kategorienfehlers.
 
+Ergänzend ist festzuhalten, dass der Staat selbst als akteursgleicher Nutznießer dieser Fehltypisierung auftritt:
+
+Nutzungsentgelte wie die LKW-Maut fließen nicht an die Kapitalgeber der Substanz zurück, sondern in den allgemeinen Bundeshaushalt.  
+Der Staat vereinnahmt damit Erträge aus einem Kapitalgut, das er nicht selbst finanziert hat, und verwendet diese Erträge zur Deckung konsumtiver Ausgaben.
+
+Diese institutionelle Ertragsallokation ist keine politische Entscheidung, sondern die direkte Folge der steuerlichen Gleichbehandlung von Aufwand und Aktivtausch. Sie macht sichtbar, dass der Staat nicht nur Verwalter, sondern struktureller Profiteur des Kategorienfehlers ist.
+
+Die Klarstellung ändert nichts am Kern der Argumentation, präzisiert jedoch die institutionelle Wirkung der Fehltypisierung.
+
 Die verdeckte Kategorienverwechslung: der eigentliche Kernfehler
 Der Begriff Steuer wird im geltenden Recht einheitlich auf zwei völlig unterschiedliche Vorgänge angewendet:
 •	konsumtive Staatsausgaben (Polizei, Justiz, Verwaltung): kein Vermögenswert
