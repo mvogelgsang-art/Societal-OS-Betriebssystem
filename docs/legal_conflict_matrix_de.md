@@ -68,6 +68,8 @@ F. Metasystemischer Konflikt: Simulation von Eigentum
 
 Simulationsparadox — Es könnte geprüft werden, ob der Staat eine Eigentümerrolle simuliert, obwohl die Finanzierung der Substanz durch Bürger und Unternehmen erfolgt, ohne dass diese eine entsprechende Rechtsposition erhalten.
 
+G. Es könnte geprüft werden, ob der Gesetzgeber durch die Selbstdefinition der Steuer als 'Leistung ohne Gegenleistung' (§ 3 AO) eine materielle Bindung vermeidet, die ihn bei wirtschaftlich identischem Verhalten (Kapitaleinlage gegen Sachwert mit Ertragspotenzial) im Zivilrecht träfe. Da der Staat sowohl Gesetzgeber der Kategorie als auch Nutznießer der daraus folgenden Pflichtbefreiung ist, könnte dies unter dem Gesichtspunkt der Selbstbegünstigung durch Definitionsmacht und im Lichte von Art. 3 GG geprüft werden (siehe A2).
+
 Dies wäre der metasystemische Prüfkomplex.
 
 Rechtlicher Hinweis und methodischer Rahmen
