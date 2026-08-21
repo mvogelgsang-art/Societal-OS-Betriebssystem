@@ -19,6 +19,15 @@ People pay for the same infrastructure multiple times:
 
 This is not a political decision — it is the consequence of a category error.
 
+It should also be noted that the state itself acts as a beneficiary of this misclassification:
+
+User charges, such as the HGV toll, do not flow back to the providers of the capital invested in the asset but instead into the general federal budget.
+The state thus collects revenue from a capital asset it did not finance itself and uses that revenue to cover consumption-related expenditures.
+
+This institutional allocation of revenue is not a political decision but the direct consequence of the equal tax treatment of expenses and asset exchanges. It reveals that the state is not merely an administrator but a structural beneficiary of this categorical error.
+
+This clarification does not alter the core of the argument but does specify the institutional impact of the misclassification.
+
 The Hidden Category Error
 The term tax is used for two fundamentally different processes:
 - consumptive public spending (police, courts, administration) → no asset
