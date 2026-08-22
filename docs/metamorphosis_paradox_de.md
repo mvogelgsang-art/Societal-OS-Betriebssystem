@@ -19,7 +19,7 @@ Er nutzt die physischen Lebensadern, das Zivilrecht und die Bilanzwahrheit, die 
 Doch in dem Moment, in dem dieser eine Hebel umgelegt wird, hebt das System ab.
 Der Flügelschlag zerlegt die Logik des Bodens vollständig.
 
-Das schikanöse Prüfamt, die künstlichen Preise, die existenzielle Abhängigkeit von volatiler Arbeit – sie werden nicht mühsam bekämpft.
+Das Prüfamt, die künstlichen Preise, die existenzielle Abhängigkeit von volatiler Arbeit – sie werden nicht mühsam bekämpft.
 Sie werden flugunfähig und verharren als Relikte einer alten Welt auf der Erde.
 
 Der Schmetterling fliegt nicht, weil er die Raupe optimiert hat.
