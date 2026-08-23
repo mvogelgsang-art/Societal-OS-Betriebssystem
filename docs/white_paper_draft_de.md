@@ -101,6 +101,13 @@ Damit kehrt der Kapitalfluss an seinen Ausgangspunkt zurück:
 Mensch → Kapital → Infrastruktur → Nutzungsgeld → Rendite → Existenzsicherung → Mensch.
 Der Dreiklang von Körper, Geist und Seele wird nicht symbolisch, sondern funktional hergestellt: Er ist die anthropologische Rückkopplungsschleife, die das System mechanisch schließt.
 
+Familienlogik zeigt die Funktionsweise des Societal OS im Kleinen:
+Wenn eine Generation etwas schafft – ein Haus, ein Betrieb, ein Vermögenswert – sinkt der Existenzdruck der nächsten Generation.
+Infrastruktur erzeugt Kapital, Kapital erzeugt Zeit.
+Genau dieselbe Mechanik skaliert das Societal OS auf Gesellschaftsebene.
+Was im Kleinen funktioniert, funktioniert im Großen:
+Infrastruktur ersetzt Arbeit als Existenzquelle.
+
 3. Einleitung: Die Fehlkopplung der bestehenden Ordnung
 Die Kopplung zwischen Existenz und Erwerbsarbeit ist kein Naturgesetz, sondern eine historische Konstruktion. Sie war funktional in einer Epoche, in der menschliche Arbeit der zentrale Produktionsfaktor war. Heute, in einer infrastrukturbasierten Ökonomie, ist sie nicht nur überholt – sie ist eine strukturelle Falle.
 Erwerbsarbeit ist kein stabiler Parameter. Sie entsteht nur dort, wo externe Nachfrage nach Leistung besteht. Die Sicherung der eigenen Existenz hängt damit strukturell davon ab, dass Dritte bereit sind, Nutzen aus der eigenen Person zu ziehen – als Arbeitnehmer, Dienstleister oder Unternehmer.
