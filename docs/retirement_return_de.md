@@ -1,18 +1,27 @@
-Nach 35 Jahren kontinuierlicher Infrastrukturinvestition verfügt der Bürger über einen Kapitalstock von rund 708.000 €. 
-Dieser Kapitalstock besteht vollständig aus den über Jahrzehnte erhaltenen Renditen; die ursprünglichen monatlichen Einzahlungen von 400 € sind vollständig in Infrastruktur geflossen und gehören nicht zum Vermögen des Bürgers. 
-Der Kapitalstock ist damit kein verzinsliches Finanzvermögen, sondern ein Anspruchskonto, das die historisch erhaltenen Erträge dokumentiert.
-Die Infrastruktur selbst erwirtschaftet weiterhin eine stabile Jahresrendite von 7 %, die dem Bürger entsprechend seinem Anteil am System zugewiesen wird. 
-Für den Kapitalstock von 708.000 € ergibt sich daraus eine jährliche Ausschüttung von 49.560 €, was einer monatlichen Zahlung von 4.130 € entspricht.
-Im Ruhestand wird diese monatliche Rendite in drei Teile aufgeteilt. 
-10 % werden erneut als renditefähige Abgabe investiert und finanzieren neue Infrastruktur. Weitere z. B. 10 % fließen als Flat Tax an den Staat. 
-Die verbleibenden 80 % stehen dem Bürger als Netto‑Rente zur Verfügung. 
-Aus der monatlichen Ausschüttung von 4.130 € ergeben sich somit 413 € renditefähige Abgabe, 413 € Flat Tax und 3.304 € Netto‑Rente.
-Da der Kapitalstock selbst keine Rendite erzeugt, sondern lediglich die erhaltenen Erträge dokumentiert, wächst er ausschließlich durch die Reinvestition der monatlichen Abgabe. 
-Die jährliche Reinvestition beträgt 4.956 €. Dadurch erhöht sich der Kapitalstock im ersten Jahr des Ruhestands auf 712.956 €. 
-Dieser Effekt setzt sich jedes Jahr fort: Nach zehn Jahren liegt der Kapitalstock bei rund 760.000 €, nach zwanzig Jahren bei etwa 807.000 €, und nach dreißig Jahren erreicht er rund 873.000 €.
-Die monatliche Rendite steigt entsprechend moderat, da sie weiterhin aus der Infrastruktur stammt und proportional zum Anspruch des Bürgers zugewiesen wird. 
-Nach dreißig Jahren Ruhestand erhält der Bürger eine monatliche Rendite von rund 5.100 €, wovon etwa 4.080 € als Netto‑Rente verbleiben.
-Dieses Beispiel zeigt die korrekte Mechanik der Architektur: Die Infrastruktur erzeugt die Rendite, ein Teil dieser Rendite wird wieder zur renditefähigen Abgabe und finanziert neue Infrastruktur, die wiederum neue Erträge erzeugt. 
-Der Kapitalstock wächst weiter, obwohl der Bürger entnimmt, jedoch ausschließlich durch die Reinvestition der Abgabe. 
+Nach 35 Jahren kontinuierlicher Infrastrukturabgabe von beispielsweise 400 EUR/Monat verfügt der Bürger über einen Kapitalstock von rund 540.000 €.
+Dieser Kapitalstock besteht ausschließlich aus den über Jahrzehnte erhaltenen und reinvestierten Renditen.
+Die monatlichen Abgaben von 400 € (insgesamt 168.000 €) sind vollständig in die Infrastruktur geflossen und gehören nicht zum Vermögen des Bürgers.
+
+Der Kapitalstock ist damit kein verzinsliches Finanzvermögen, sondern ein Anspruchskonto, das die historisch erwirtschafteten Erträge dokumentiert.
+Die Infrastruktur selbst erwirtschaftet beispielsweise weiterhin eine stabile Jahresrendite von 7 %, die dem Bürger proportional zu seinem Anspruch zugewiesen wird.
+
+Für den Kapitalstock von rund 540.000 € ergibt sich eine jährliche Ausschüttung von 37.800 € (7 %), was einer monatlichen Zahlung von 3.150 € entspricht.
+
+Im Ruhestand wird diese monatliche Rendite wie folgt aufgeteilt:
+– 10 % (315 €) als renditefähige Abgabe zur Finanzierung neuer Infrastruktur
+– 10 % (315 €) als Flat Tax
+– 80 % (2.520 €) als Netto‑Rente
+
+Da der Kapitalstock selbst keine Rendite erzeugt, sondern lediglich die erbrachten Systemanteile dokumentiert, wächst er im Ruhestand ausschließlich durch die Reinvestition der Abgabe.
+Die jährliche Reinvestition beträgt 3.780 €. Dadurch erhöht sich der Kapitalstock im ersten Jahr des Ruhestands auf rund 543.780 €.
+
+Dieser Effekt setzt sich jedes Jahr fort: Nach zehn Jahren liegt der Kapitalstock bei rund 580.000 €, nach zwanzig Jahren bei rund 620.000 €, und nach dreißig Jahren bei rund 665.000 €.
+
+Die monatliche Rendite steigt entsprechend moderat, da sie weiterhin aus der Infrastruktur stammt und proportional zum Anspruch des Bürgers zugewiesen wird.
+Nach dreißig Jahren Ruhestand erhält der Bürger eine monatliche Rendite von rund 3.880 €, wovon etwa 3.100 € als Netto‑Rente verbleiben.
+
+Dieses Beispiel zeigt die korrekte Mechanik der Architektur: Die Infrastruktur erzeugt die Rendite, ein Teil dieser Rendite wird wieder zur renditefähigen Abgabe und finanziert neue Infrastruktur, die wiederum neue Erträge erzeugt.
+Der Kapitalstock wächst weiter, obwohl der Bürger entnimmt, jedoch ausschließlich durch die Reinvestition der Abgabe.
+
 Dadurch entsteht ein stabiler, selbsttragender Wertkreislauf, der im Alter eine verlässliche und moderat steigende Netto‑Rente ermöglicht, ohne den Kapitalstock zu verbrauchen oder künstlich aufzublähen.
-Am Ende geht der Kapitalstock auf die nächste Generation über.
+Am Ende geht der Kapitalstock vollständig auf die nächste Generation über.
