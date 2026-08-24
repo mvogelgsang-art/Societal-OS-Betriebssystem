@@ -205,6 +205,45 @@ Diese Entkopplung ist keine politische Entscheidung, sondern die direkte Folge d
 
 Über den größten Teil der Menschheitsgeschichte war Zugang kein verwalteter Vorgang, sondern ein unmittelbarer Vollzug: Wasser, Nahrung, Energie, Raum und Schutz entstanden aus Handlung, nicht aus Erlaubnis. Die Natur koppelte den Menschen direkt an die Ressourcen seiner Umgebung – ohne dritte Instanz, ohne Genehmigung, ohne fiktive Rechte.
 
+Der erste Driftpunkt – Externalisierung des Schutzes
+1. Ursprüngliche Ordnung: Schutz als Gruppenfunktion
+Schutz entstand aus der Gruppe selbst. Stärke war Verantwortung, nicht Verwertungsrecht.
+Die Kopplung Mensch–Natur war driftfrei, weil Sicherheit eine interne Funktion war und keine externe Instanz notwendig war.
+
+2. Der Driftpunkt: Schutz wird externalisiert
+Mit der Externalisierung von Schutz konnte Stärke erstmals monetarisiert werden.
+Schutz entstand nicht mehr durch Zugehörigkeit, sondern durch Abhängigkeit.
+Damit entstand die erste asymmetrische Kopplung zwischen Mensch und Gruppe.
+
+3. Die strukturelle Folge: Abgabe → Steuer → Macht → System
+Die Externalisierung erzeugte eine Abgabe.
+Die Abgabe wurde institutionalisiert.
+Institutionalisierung wurde zur Steuer.
+Steuer wurde zur Machtquelle.
+Machtquelle wurde zur Ordnung.
+Ordnung wurde zur Bürokratie.
+Bürokratie wurde zur Abhängigkeit.
+Abhängigkeit wurde zur Arbeitspflicht.
+Arbeitspflicht wurde zur Existenzlogik.
+Existenzlogik wurde zur Marktlogik.
+Marktlogik wurde zum Kapitalismus.
+Kapitalismus machte Boden unbezahlbar.
+
+4. Die anthropologische Konsequenz
+Der Mensch wurde erstmals abhängig von einer externen Instanz für Sicherheit.
+Damit wurde die natürliche Kopplung Mensch–Natur gebrochen.
+Aus dieser Asymmetrie entstand die moderne Ordnung.
+
+5. Die heutige Absurdität
+Schutz ist heute nicht nur externalisiert, sondern überlagert von Bürokratie, Eigentumstiteln, Lizenzlogik und Arbeitspflicht.
+Land, das nie bezahlt wurde, wurde zu einem Kapitalgut.
+Existenz hängt nicht mehr an Natur/Infra, sondern an Arbeit und Nachfrage.
+
+6. Societal OS als Korrektur
+Das Societal OS stellt die ursprüngliche Kopplung mechanisch wieder her:
+Existenz ↔ Infrastruktur ↔ Kapital ↔ Existenz  
+Drift verschwindet, weil Schutz wieder eine systemische Funktion wird — nicht ein externer Kostenfaktor.
+
 Die natürliche Kopplung: Natur war immer kostenlos
 Natur war über die gesamte Menschheitsgeschichte die driftfreie Grundlage der Existenz.  
 Wasser, Nahrung, Energie, Raum und Schutz entstanden aus unmittelbarer Nutzung, nicht aus Genehmigung, Arbeitspflicht oder externer Nachfrage.
