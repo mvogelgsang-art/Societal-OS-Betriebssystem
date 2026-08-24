@@ -29,7 +29,11 @@ Der entscheidende buchhalterische Hebel: Die Baukosten sind nach der Investition
 Das System ist kein fragiles Konstrukt, sondern ein mehrmotoriges Rückkopplungsnetz. Fällt ein Motor aus, tragen die anderen fünf. Sinkt die Nutzung, wird Infrastruktur nicht zum Verlust, sondern zur Ernte – sie wird rückgebaut, die Materialien werden verwertet, und der Erlös fließt als Schlussrendite zurück.
 Die Konsequenz: Preise werden realwirtschaftlich, Bürokratie wird zum großen Teil mechanisch überflüssig, und die Existenzsicherung, die über die Flat Tax finanziert wird, wird zu einem Kapitalfluss – nicht zu einem staatlichen Transfer.
 
-2. Der fehlende gemeinsame Nenner
+1a. Die anthropologische Vorbedingung: Stärke als Kategorie
+Bevor Schutz externalisiert werden konnte, musste eine soziale Asymmetrie entstehen.
+Der Mensch teilte sich erstmals in „Stark“ und „Schwach“ ein. Stärke wurde nicht mehr als Verantwortung verstanden, sondern als Kategorie. Damit entstand die Möglichkeit, Schutz nicht mehr als interne Gruppenfunktion, sondern als externe Leistung zu definieren. Diese Einteilung ist der anthropologische Ursprung der späteren Externalisierung.
+
+3. Der fehlende gemeinsame Nenner
 
 Methodischer Hinweis zur Genese (Optionaler Leseabschnitt)Der folgende Abschnitt beschreibt den ursprünglichen, anthropologischen Gedankengang, aus dem heraus die mathematische und buchhalterische Architektur des Societal OS entwickelt wurde. Er dient dem Verständnis der philosophischen Prämissen. Für das Verständnis der harten juristischen, verfassungsrechtlichen und ökonomischen Funktionsweise der Systemarchitektur ist dieser Teil nicht zwingend erforderlich und kann von rein technisch oder juristisch interessierten Lesern übersprungen werden.
 
