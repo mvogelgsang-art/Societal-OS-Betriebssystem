@@ -33,7 +33,21 @@ Die Konsequenz: Preise werden realwirtschaftlich, Bürokratie wird zum großen T
 Bevor Schutz externalisiert werden konnte, musste eine soziale Asymmetrie entstehen.
 Der Mensch teilte sich erstmals in „Stark“ und „Schwach“ ein. Stärke wurde nicht mehr als Verantwortung verstanden, sondern als Kategorie. Damit entstand die Möglichkeit, Schutz nicht mehr als interne Gruppenfunktion, sondern als externe Leistung zu definieren. Diese Einteilung ist der anthropologische Ursprung der späteren Externalisierung.
 
-3. Der fehlende gemeinsame Nenner
+Der anthropologische Trieb – Stärke als Kategorie
+Der Mensch handelt seit Jahrtausenden aus einem archaischen Stabilitätstrieb.  
+Dieser Trieb entstand in Kleingruppen und basiert auf einer einfachen Mechanik:
+Sicherheit entsteht durch Dominanz, Risiko entsteht durch Schwäche.  
+Aus dieser Logik heraus teilte sich der Mensch erstmals in „Stark“ und „Schwach“ ein.
+Diese Einteilung war keine moralische Bewertung, sondern eine funktionale Strategie zur Stabilisierung kleiner Gruppen.
+
+Mit der Entstehung größerer Gemeinschaften blieb der Trieb bestehen, obwohl die ursprünglichen Bedingungen verschwanden. Stärke wurde nicht mehr als Verantwortung verstanden, sondern als Kategorie. Damit entstand die Möglichkeit, Schutz nicht mehr als interne Gruppenfunktion, sondern als externe Leistung zu definieren.
+
+Dieser anthropologische Trieb ist der erste Driftpunkt der menschlichen Ordnung.  
+Er bildet die Grundlage für alle späteren Kopplungsfehler:
+Stärke wird zu Verwertungsrecht, Schwäche zu Abhängigkeit.
+Aus dieser Asymmetrie entsteht die Externalisierung von Schutz – und damit die gesamte Driftspur, die sich über Jahrtausende verstärkt hat.
+
+2. Der fehlende gemeinsame Nenner
 
 Methodischer Hinweis zur Genese (Optionaler Leseabschnitt)Der folgende Abschnitt beschreibt den ursprünglichen, anthropologischen Gedankengang, aus dem heraus die mathematische und buchhalterische Architektur des Societal OS entwickelt wurde. Er dient dem Verständnis der philosophischen Prämissen. Für das Verständnis der harten juristischen, verfassungsrechtlichen und ökonomischen Funktionsweise der Systemarchitektur ist dieser Teil nicht zwingend erforderlich und kann von rein technisch oder juristisch interessierten Lesern übersprungen werden.
 
