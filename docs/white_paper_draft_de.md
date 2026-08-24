@@ -38,6 +38,13 @@ Funktionale Zuordnung: Körper = Mensch = Existenzsicherung, Geist = Infra/Natur
 Existenzsicherung → Teilhabe → Zeit → Mensch → Existenzsicherung
 Körper → Geist → Seele → Körper – das ist der Kreislauf von Existenzsicherung, Teilhabe, Zeit und Mensch. Das Societal OS macht diesen Kreislauf mechanisch und driftfrei.
 
+Historische Kopplung und Theorieverschiebung
+In früheren Gesellschaften war die Kopplung zwischen Arbeit und Existenz mechanisch korrekt. Arbeit war persönlich, direkt und nicht von externer Nachfrage abhängig. Sie erzeugte Ressourcen unmittelbar: Nahrung, Schutz, Werkzeuge, Vorräte. Arbeit war kein Markt, sondern Wirksamkeit. Damit war die Gleichung Arbeit → Existenz funktional stabil.
+
+In der modernen Ordnung ist Arbeit extern, volatil und technologisch substituierbar. Sie entsteht nur dort, wo Nachfrage besteht, und wird aus Effizienzgründen systematisch reduziert. Arbeit ist nicht mehr die Quelle der Existenz, sondern eine Form der Teilhabe. Die Kopplung Arbeit → Existenz ist damit mechanisch falsch. Sie basiert auf einer historischen Logik, die in der heutigen Infrastrukturökonomie nicht mehr trägt.
+
+Das Societal OS korrigiert diese Theorieverschiebung, indem es Existenz an Infrastruktur koppelt – eine stabile, nicht substituierbare Größe – und Arbeit in den Bereich der Teilhabe verschiebt. Arbeit wird wieder das, was sie anthropologisch immer war: Wirksamkeit, nicht Überleben.
+
 Physikalische Grundgleichung des Societal OS
 Der Wert im Leben ist die Existenz selbst.
 Existenz erzeugt Bewegung.
