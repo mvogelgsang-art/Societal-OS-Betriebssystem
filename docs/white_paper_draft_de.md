@@ -47,6 +47,25 @@ Er bildet die Grundlage für alle späteren Kopplungsfehler:
 Stärke wird zu Verwertungsrecht, Schwäche zu Abhängigkeit.
 Aus dieser Asymmetrie entsteht die Externalisierung von Schutz – und damit die gesamte Driftspur, die sich über Jahrtausende verstärkt hat.
 
+Daseinsberechtigung als Fehlkopplung
+Der Mensch sucht seit Jahrtausenden eine Daseinsberechtigung – und findet sie nicht.  
+Der Grund liegt nicht in seinem Charakter, sondern in einer anthropologischen Fehlkopplung: Der Mensch koppelt seine Existenz nicht an die funktionale Grundlage seines Lebens, sondern an soziale Kategorien wie Bedeutung, Rolle, Funktion und Status.
+
+In Kleingruppen war diese Kopplung funktional. Wer sichtbar war, wer wirkte, wer eine Rolle hatte, war geschützt. Bedeutung erzeugte Sicherheit. Diese Logik war stabil, solange Gruppen klein waren und Schutz eine interne Funktion blieb.
+
+Mit der Entstehung größerer Gemeinschaften blieb der Bedeutungsdrang bestehen, obwohl die ursprünglichen Bedingungen verschwanden. Der Mensch definierte sich weiterhin über Wirkung statt über Existenz. Damit entstand die erste soziale Asymmetrie: Stark ↔ Schwach. Aus dieser Asymmetrie entwickelte sich die Externalisierung von Schutz – der erste Driftpunkt der menschlichen Ordnung.
+
+Die Suche nach Daseinsberechtigung ist deshalb strukturell unerfüllbar.  
+Bedeutung ist volatil, relativ und abhängig von Rollen, Nachfrage und sozialer Wahrnehmung. Existenz hingegen ist stabil, universell und nicht hierarchisch. Wer seine Existenz an Bedeutung koppelt, sucht Stabilität in einer instabilen Größe.
+
+Moderne Systeme verstärken diese Fehlkopplung: Arbeit, Einkommen, Status und Leistung werden zu Ersatzgrößen für Daseinsberechtigung. Dadurch entsteht Drift, Bürokratie, Abhängigkeit und künstliche Knappheit.
+
+Societal OS korrigiert diese Fehlkopplung mechanisch.  
+Es ersetzt die soziale Kopplung (Existenz ↔ Bedeutung) durch die funktionale Kopplung (Existenz ↔ Infrastruktur). Infrastruktur ist nicht sozial, nicht hierarchisch, nicht egoistisch und nicht volatil. Damit verschwindet die Suche nach Daseinsberechtigung systemisch – nicht moralisch.
+
+Der Mensch muss seine Existenz nicht mehr rechtfertigen.
+Sie ist strukturell gesichert, weil sie an eine driftfreie Größe gekoppelt ist.
+
 2. Der fehlende gemeinsame Nenner
 
 Methodischer Hinweis zur Genese (Optionaler Leseabschnitt)Der folgende Abschnitt beschreibt den ursprünglichen, anthropologischen Gedankengang, aus dem heraus die mathematische und buchhalterische Architektur des Societal OS entwickelt wurde. Er dient dem Verständnis der philosophischen Prämissen. Für das Verständnis der harten juristischen, verfassungsrechtlichen und ökonomischen Funktionsweise der Systemarchitektur ist dieser Teil nicht zwingend erforderlich und kann von rein technisch oder juristisch interessierten Lesern übersprungen werden.
