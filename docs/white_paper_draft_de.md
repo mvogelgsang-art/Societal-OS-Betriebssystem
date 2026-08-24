@@ -66,6 +66,16 @@ Es ersetzt die soziale Kopplung (Existenz ↔ Bedeutung) durch die funktionale K
 Der Mensch muss seine Existenz nicht mehr rechtfertigen.
 Sie ist strukturell gesichert, weil sie an eine driftfreie Größe gekoppelt ist.
 
+Der permanente Druck des Selbsterhalts
+Selbsterhalt erzeugt nicht nur keine Bedeutung – er erzeugt permanenten Druck.  
+Da Selbsterhalt ein geschlossener Regelkreis ist, muss er ständig aktiv gehalten werden. Moderne Systeme koppeln Existenz an Arbeit, Einkommen, Leistung und Status. Dadurch entsteht ein dauerhafter Zustand von Selbstkontrolle: Man muss sich beweisen, rechtfertigen, stabilisieren und absichern.
+
+Diese Struktur erzeugt chronische Belastung. Burnout ist kein psychologisches Phänomen, sondern ein systemischer Effekt einer Kopplung, die den Menschen zwingt, seine Existenz über volatile, externe Größen zu stabilisieren. Selbst der Reichste kann nicht „chillen“, weil Bedeutung, Status und Sicherheit in diesem System niemals endgültig sind. Die Kopplung ist instabil – und deshalb bleibt auch der Mensch instabil.
+
+Ein System, das Selbsterhalt erzwingt, erzeugt zwangsläufig Druck. Nicht, weil Menschen schwach sind, sondern weil die Kopplung falsch ist.
+
+Societal OS löst diese Struktur mechanisch auf: Existenz ↔ Infrastruktur statt Existenz ↔ Bedeutung. Wenn Existenz strukturell gesichert ist, verschwindet der Druck. Selbstkontrolle wird überflüssig. Burnout verliert seine Ursache. Und erst dann entsteht Raum für Wirkung – und damit für Bedeutung.
+
 2. Der fehlende gemeinsame Nenner
 
 Methodischer Hinweis zur Genese (Optionaler Leseabschnitt)Der folgende Abschnitt beschreibt den ursprünglichen, anthropologischen Gedankengang, aus dem heraus die mathematische und buchhalterische Architektur des Societal OS entwickelt wurde. Er dient dem Verständnis der philosophischen Prämissen. Für das Verständnis der harten juristischen, verfassungsrechtlichen und ökonomischen Funktionsweise der Systemarchitektur ist dieser Teil nicht zwingend erforderlich und kann von rein technisch oder juristisch interessierten Lesern übersprungen werden.
