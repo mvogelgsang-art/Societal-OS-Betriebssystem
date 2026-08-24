@@ -38,6 +38,42 @@ Funktionale Zuordnung: Körper = Mensch = Existenzsicherung, Geist = Infra/Natur
 Existenzsicherung → Teilhabe → Zeit → Mensch → Existenzsicherung
 Körper → Geist → Seele → Körper – das ist der Kreislauf von Existenzsicherung, Teilhabe, Zeit und Mensch. Das Societal OS macht diesen Kreislauf mechanisch und driftfrei.
 
+Physikalische Grundgleichung des Societal OS
+Der Wert im Leben ist die Existenz selbst.
+Existenz erzeugt Bewegung.
+Bewegung ist Energie.
+Energie ist Wert.
+Existenz ist Energie.
+Das Societal OS macht diese Grundgleichung mechanisch und driftfrei.
+
+Diese Gleichung beschreibt die physikalische Basis des Systems.
+Sie zeigt, dass Existenz nicht das Ergebnis eines externen Faktors (Arbeit, Einkommen, Nachfrage) ist, sondern die Quelle aller gesellschaftlichen Energieflüsse.
+
+Existenz erzeugt Bewegung.  
+Erst gesicherte Existenz ermöglicht Handlungsspielraum. Das Dokument formuliert:
+„Erst wenn die biologische Existenz angstfrei garantiert ist, liefert der Mensch korrekte Nutzungssignale.“
+
+Bewegung ist Energie.  
+Mobilität, Logistik, Kommunikation und Datenverkehr sind Energieflüsse, die Infrastruktur aktivieren.
+
+Energie ist Wert.  
+Das Dokument sagt:
+„Nutzung erzeugt Erträge“  
+und
+„Erträge erzeugen Rendite“.
+Wert entsteht aus Energiefluss, nicht aus Arbeit.
+
+Existenz ist Energie.  
+Wert aus Nutzung stabilisiert die Existenz über Rendite und Flat Tax.
+Das Dokument formuliert:
+„Der Ertrag des Kapitals sichert die Existenz der Menschen.“
+
+Damit schließt sich der Loop exakt dort, wo er entsteht:
+Existenz → Bewegung → Nutzung → Energie → Wert → Existenz.
+
+Dieser Regelkreis ist die physikalische Grundgleichung des Societal OS.
+Er macht sichtbar, dass das System nicht linear, sondern rekursiv ist — und dass Drift mechanisch ausgeschlossen wird.
+
 Zustand → Aktivierung → Ruhe → Zustand  
 Dies ist die funktionale Grundlogik des Menschen.
 Zustand beschreibt die körperliche Basis, Aktivierung die geistige und emotionale Teilhabe, Ruhe die zeitliche Regeneration.
