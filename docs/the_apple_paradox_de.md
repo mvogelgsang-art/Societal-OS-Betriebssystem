@@ -13,12 +13,11 @@ Der Apfelbaum des Status Quo
 Im heutigen System setzen Bürger und Unternehmen den Samen – doch der Apfelbaum gehört ihnen nicht.  
 Über Steuern finanzieren sie den Aufbau der Infrastruktur, also den gesamten Wachstumsprozess. Doch sobald der Baum steht, geht er vollständig in staatliches oder betreiberseitiges Eigentum über. Die Nutzungserträge – die „Äpfel“ – werden von Staat oder Betreiber gepflückt, ohne dass die ursprünglichen Finanziers einen Anspruch auf die Ernte haben.
 
-Und dann kommt die Ohrfeige:  
-Für das Pflücken wird zusätzlich eine Gebühr erhoben – Entgelte, Tarife, Nutzungsgebühren.
+Noch absurder: Für das Pflücken wird zusätzlich eine Gebühr erhoben – Entgelte, Tarife, Nutzungsgebühren.
 
-Das heißt mechanisch:
+Mechanisch bedeutet das:
 
-Bürger setzen den Samen → Staat besitzt den Baum → Betreiber pflückt die Äpfel → Bürger zahlen dafür, dass jemand anders ihre Äpfel pflückt.
+Bürger setzen den Samen → Staat besitzt den Baum → Betreiber pflückt die Äpfel → Bürger zahlen fürs Pflücken → Bürger kaufen die Äpfel an der Kasse zum doppelten Preis (wie durch LKW‑Maut).
 
 Und genau diesen Vorgang nennt man heute „Gemeinwohl“, weil ein Apfelbaum entstanden ist – obwohl die Gemeinschaft weder Eigentum noch Ernte erhält.
 
