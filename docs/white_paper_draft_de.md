@@ -34,7 +34,7 @@ Die Konsequenz: Preise werden realwirtschaftlich, Bürokratie wird zum großen T
 Methodischer Hinweis zur Genese (Optionaler Leseabschnitt)Der folgende Abschnitt beschreibt den ursprünglichen, anthropologischen Gedankengang, aus dem heraus die mathematische und buchhalterische Architektur des Societal OS entwickelt wurde. Er dient dem Verständnis der philosophischen Prämissen. Für das Verständnis der harten juristischen, verfassungsrechtlichen und ökonomischen Funktionsweise der Systemarchitektur ist dieser Teil nicht zwingend erforderlich und kann von rein technisch oder juristisch interessierten Lesern übersprungen werden.
 
 Die folgenden Begriffe (Körper, Geist, Seele) sind keine metaphysischen Kategorien, sondern funktionale Versorgungsdimensionen des Menschen: Sicherheit, Teilhabe und Zeit. 
-Funktionale Zuordnung: Körper = Mensch = Existenzsicherung/Infrastruktur/Natur, Geist = Arbeit/Freundschaften etc. = Teilhabe, Seele = Kapital = Zeit. Körper → Geist → Seele → Körper
+Funktionale Zuordnung: Körper = Mensch = Existenzsicherung/Infrastruktur (Natur 2.0), Geist = Arbeit/Freundschaften etc. = Teilhabe, Seele = Kapital = Zeit. Körper → Geist → Seele → Körper
 Existenzsicherung → Teilhabe → Zeit → Mensch → Existenzsicherung
 Körper → Geist → Seele → Körper – das ist der Kreislauf von Existenzsicherung, Teilhabe, Zeit und Mensch. Das Societal OS macht diesen Kreislauf mechanisch und driftfrei.
 
