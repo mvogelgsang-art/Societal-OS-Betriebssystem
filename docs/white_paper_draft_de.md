@@ -248,6 +248,16 @@ Die Gemeinschaft trägt die Substanz, aber der Nutzen fließt an Dritte, für de
 
 Diese Entkopplung ist keine politische Entscheidung, sondern die direkte Folge der falschen buchhalterischen Typisierung.
 
+3.1.1 Der Doppelextraktionseffekt
+
+Der zentrale strukturelle Fehler der heutigen Ordnung lässt sich als Doppelextraktionseffekt beschreiben. Arbeit und Infrastruktur folgen derselben asymmetrischen Logik: Beide werden von der Gemeinschaft getragen, beide erzeugen Wert, doch die Erträge fließen systematisch an Dritte.
+
+Arbeit entsteht nur dort, wo externe Nachfrage besteht — also dort, wo andere Nutzen aus der Person des Arbeitenden ziehen. Infrastruktur wird nur dort gebaut, wo externe Akteure Nutzen extrahieren können — Logistik, Energie, Daten, Transport. In beiden Fällen trägt die Gemeinschaft die Last: die körperliche Last der Arbeit und die finanzielle Last der Infrastruktur. Die Erträge jedoch entstehen oberhalb dieser Ebene und werden nicht an jene zurückgeführt, die die Substanz geschaffen haben.
+
+Damit entsteht eine doppelte Drift: Arbeit driftet vom Menschen weg, weil sie nicht mehr der Existenz dient, sondern der Marge anderer. Infrastruktur driftet von der Gemeinschaft weg, weil sie nicht mehr als Kapitalgut geführt wird, sondern als Kostenstelle, deren Nutzungserträge nicht zurückfließen. Die Belastung steigt, die Erträge entkoppeln sich, und das System kippt in eine chronische Unterdeckung derjenigen, die es tragen.
+
+Das Societal OS schließt diese doppelte Drift, indem es Arbeit und Infrastruktur neu koppelt: Arbeit wird entlastet, Infrastruktur wird kapitalisiert, und die Erträge fließen an jene zurück, die die Substanz finanzieren. Der Doppelextraktionseffekt wird mechanisch aufgehoben — nicht durch Umverteilung, sondern durch korrekte Verbuchung.
+
 3.2 Infrastruktur als Rückkehr der natürlichen Ordnung
 
 Über den größten Teil der Menschheitsgeschichte war Zugang kein verwalteter Vorgang, sondern ein unmittelbarer Vollzug: Wasser, Nahrung, Energie, Raum und Schutz entstanden aus Handlung, nicht aus Erlaubnis. Die Natur koppelte den Menschen direkt an die Ressourcen seiner Umgebung – ohne dritte Instanz, ohne Genehmigung, ohne fiktive Rechte.
