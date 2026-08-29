@@ -23,3 +23,11 @@ Kapital trägt Existenz
 Existenz erzeugt Kapital
 
 Das Ergebnis ist ein driftfreier Kreislauf, in dem Wert durch Nutzung entsteht — nicht durch Belastung.
+
+Existenz ist ein Systemfaktor
+
+Infrastruktur ist ein Primärfaktor
+
+Kapital ist ein Verstärker
+
+Nutzung ist ein Wertgenerator
