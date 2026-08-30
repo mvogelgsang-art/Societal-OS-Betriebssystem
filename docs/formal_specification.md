@@ -9,7 +9,7 @@ Setzt man die Kopplung korrekt, entsteht eine technisch stabile Struktur:
 
 Existenz ↔ Infrastruktur ↔ Kapital ↔ Existenz
 
-Eine bidirektionale, verzweigte, driftfreie Rekursion.
+Eine bidirektionale, verzweigte, driftfreie, zyklische und permutierbare Rekursion mit operatorischer Äquivalenz.
 
 Jede Verbindung wirkt vorwärts und rückwärts:
 
