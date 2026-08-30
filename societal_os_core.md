@@ -126,6 +126,26 @@ Der Nutzungsertrag fließt an Bürger und Unternehmen zurück.
 
 Die Infrastruktur ist bereits vorhanden — es fehlt nur die korrekte Buchung, um das System zu aktivieren.
 
+Die Umbuchung von Aufwand zu Aktivtausch ist keine politische Entscheidung, sondern die logische Korrektur eines Kategorienfehlers.  
+Wenn Bürger und Unternehmen Kapital für die Errichtung ertragsfähiger Infrastruktur leisten, entsteht ein ökonomischer Zusammenhang:
+Ein finanziertes Kapitalgut erzeugt Nutzung und damit Ertrag.
+
+Die heutige Buchung — Aufwand statt Aktivtausch — führt dazu, dass:
+- der Wert des Kapitalguts buchhalterisch verschwindet
+- der Nutzungsertrag nicht zu den Einzahlern zurückfließt
+- die Substanz öffentlich finanziert, aber privat vereinnahmt wird
+
+Systemisch entsteht dadurch Drift:
+Finanzierung und Ertrag sind entkoppelt.
+
+Der Aktivtausch stellt diese Kopplung wieder her.  
+Er ordnet den investiven Anteil der Abgabe als Einlage zu, aus der ein Ertragsrecht (Nießbrauch) folgt.
+Damit wird Infrastruktur als das behandelt, was sie realwirtschaftlich ist: ein Kapitalgut mit Nutzungsertrag.
+
+Diese Korrektur ist keine juristische Interpretation, sondern die logische Folgerung aus der Struktur der Rekursion:
+
+Wer Infrastruktur finanziert, steht im Kapitalfluss der Infrastruktur.
+
 4. Nutzungspreise als sichtbare Output‑Größe
 Sobald die investive Abgabe korrekt als Aktivtausch verbucht wird, entstehen reale Nutzungspreise für Infrastruktur — etwa für Schienen, Netze, Straßen, Energie oder Mobilität.
 
