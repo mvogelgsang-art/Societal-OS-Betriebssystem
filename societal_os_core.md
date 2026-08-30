@@ -103,6 +103,27 @@ Seele = Kapital
 
 Minimalistisch, weil die Triade auf drei Operatoren reduziert ist.
 
+Historische Rekursion  
+Vor der technischen Moderne lautete die gesellschaftliche Grundschleife:
+
+Existenz ↔ Natur ↔ Werkzeug ↔ Existenz
+
+Menschen nutzten Natur, erzeugten Werkzeuge, steigerten Nutzung und stärkten ihre Existenz.
+Diese Schleife war die archaische Form derselben Strukturklasse.
+
+Mit der technischen Zivilisation hat sich die Rekursion transformiert:
+
+Natur wurde zu Infrastruktur
+
+Werkzeug wurde zu Kapital
+
+Damit lautet die moderne Form:
+
+Existenz ↔ Infrastruktur ↔ Kapital ↔ Existenz
+
+Die Struktur ist identisch — nur die Operatoren sind evolviert.
+Societal OS formalisiert diese uralte Rekursion erstmals vollständig.
+
 Existenzoperator
 Der Operator, der Tragfähigkeit, Lebensfunktionen, Zeit, Sicherheit und Unerpressbarkeit beschreibt.
 Er ist der Systemfaktor — ohne ihn existiert kein Kreislauf.
