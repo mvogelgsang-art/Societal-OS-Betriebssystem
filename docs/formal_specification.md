@@ -1,3 +1,9 @@
+Vorwort: Ich möchte ausdrücklich klarstellen, dass diese Arbeit das Ziel hat, einen möglichen Systemfehler sichtbar zu machen. Ich schätze unsere Rechtsstaatlichkeit und unsere Demokratie sehr; einige aktuelle Entwicklungen haben mich lediglich dazu veranlasst, bestimmte strukturelle Mechaniken genauer zu untersuchen.
+
+Die Analyse solcher Mechaniken kann leicht den Eindruck von „Systemkritik“ erwecken, da funktionale Zusammenhänge oft Bereiche berühren, die im heutigen Verfassungsrahmen anders geregelt sind. Sollte an einzelnen Stellen eine Formulierung zugespitzt wirken, möchte ich betonen, dass dies nicht als Vorwurf oder politische Anklage zu verstehen ist. Wir alle bewegen uns innerhalb derselben Architektur und sitzen am Ende im gleichen Boot.
+
+Diese Arbeit ist ein theoretischer Architekturentwurf, kein politisches Programm. Sie erhebt keinen Anspruch auf normative Bewertung, keine Forderung nach Veränderung bestehender Institutionen und keine Kritik an handelnden Personen. Sie dient ausschließlich der funktionalen Darstellung von Kopplungen, Rückkopplungen und Driftmechaniken, um strukturelle Zusammenhänge sichtbar zu machen.
+
 Societal OS – Kernstruktur
 
 1. Die bidirektionale Rekursion der Gesellschaft
