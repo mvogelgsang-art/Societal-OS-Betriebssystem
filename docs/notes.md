@@ -9,7 +9,7 @@ Diese Architektur arbeitet mit mechanischen Systemmodellen. Die Sprache dient hi
 Persönlicher Nachtrag:  
 Als Übersetzer, dessen Berufsfeld direkt von der rasanten Entwicklung der Künstlichen Intelligenz verdrängt wurde, ist diese Arbeit für mich streckenweise hochemotional. Da die Systemanalyse strukturell sehr tief ging, hat mich der existenzielle Ernst der Thematik beim Schreiben mitgerissen. Dies führte in früheren Entwurfsstadien stellenweise zu einer unglücklichen oder scharfen Wortwahl. Ich bitte darum, diese sprachlichen Spitzen nicht als persönlichen Vorwurf oder politische Anklage zu verstehen — wir alle bewegen uns in den Sachzwängen derselben Architektur, die es hier rein funktional zu optimieren gilt.
 
-⭐ Rücksicht auf die Menschen in den Systemen
+Rücksicht auf die Menschen in den Systemen
 Appell: Die Menschen in den bestehenden Systemen schützen
 
 Die gegenwärtige Überlastung betrifft nicht nur Bürger, sondern ebenso die Menschen, die innerhalb der heutigen Architektur Verantwortung tragen. Verwaltung, Politik und öffentliche Institutionen stehen unter einer Last, die aus der Struktur selbst entsteht: hohe Komplexität, begrenzte Ressourcen, steigende Erwartungen und die Pflicht, Stabilität zu sichern.
