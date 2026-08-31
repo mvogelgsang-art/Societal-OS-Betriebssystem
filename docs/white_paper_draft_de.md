@@ -30,7 +30,7 @@ Der entscheidende buchhalterische Hebel: Die Baukosten sind nach der Investition
 Baukosten sind sunk, weil sie in ein dauerhaftes Asset überführt werden.
 Dieses Asset erzeugt Nutzung, Nutzung erzeugt Wert, Wert erzeugt Ertrag.
 Der Ertrag ist die Dividende der Bevölkerung.
-Damit endet die feudalmechanische Ertragsrichtung.
+Damit endet die einseitige Ertragsrichtung.
 Infrastruktur ist die Lebensader der Gesellschaft, Kosten sind irrelevant.
 
 Das System ist kein fragiles Konstrukt, sondern ein mehrmotoriges Rückkopplungsnetz. Fällt ein Motor aus, tragen die anderen fünf. Sinkt die Nutzung, wird Infrastruktur nicht zum Verlust, sondern zur Ernte – sie wird rückgebaut, die Materialien werden verwertet, und der Erlös fließt als Schlussrendite zurück.
