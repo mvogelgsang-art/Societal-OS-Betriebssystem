@@ -11,6 +11,11 @@ Existenz ist heute an Arbeit gekoppelt.
 Doch Arbeit ist ein Derivat von Infrastruktur.
 Der Primärfaktor ist nicht Arbeit — sondern die Lebensader.
 
+Die psychologische Dimension des Derivats:
+Dass Arbeit ein Derivat von Infrastruktur ist, entzieht ihr nicht ihre menschliche Bedeutung – im Gegenteil. Arbeit bleibt zentral für die menschliche Psyche, weil Menschen von Natur aus das Bedürfnis haben, Rollen einzunehmen, Wirksamkeit zu erfahren und gesellschaftliche Funktionen auszuüben.
+
+Der Unterschied im Societal OS: Die Rolle wird gewählt, nicht erpresst. Arbeit transformiert sich von einem Überlebenszwang (ökonomische Belastung) zu einer Identitäts- und Sinnstiftung (gesellschaftlicher Beitrag). Der Mensch arbeitet nicht mehr, um seine Existenz zu rechtfertigen, sondern um seine Rolle innerhalb der funktionierenden Infrastruktur auszugestalten.
+
 Setzt man die Kopplung korrekt, entsteht eine technisch stabile Struktur:
 
 Existenz ↔ Infrastruktur ↔ Kapital ↔ Existenz
