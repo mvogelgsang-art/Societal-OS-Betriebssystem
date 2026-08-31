@@ -211,6 +211,12 @@ Arbeit ist ein Derivat von Nutzung (kognitiv oder körperlich).
 Kapital ist ein Verstärker von Nutzung.
 Existenz hängt von Nutzung ab.
 
+FAZIT:
+Strukturklasse der rekursiven Primärfaktor‑Kopplung bezeichnet eine universelle Systemform, in der drei Operatoren — Existenz, Infrastruktur und Kapital — in einer bidirektionalen, verzweigten und driftfreien Rekursion miteinander gekoppelt sind.
+Jeder Operator wirkt sowohl vorwärts als auch rückwärts, ist operatorisch äquivalent, kapitalfähig, bilanzierbar und permutierbar.
+Die Struktur ist historisch stabil, da sie aus der archaischen Rekursion (Existenz ↔ Natur ↔ Werkzeug ↔ Existenz) evolviert.
+Diese Kopplungsform bildet eine eigene Strukturklasse, weil sie unabhängig vom Inhalt funktioniert und eine geschlossene, selbsttragende Wertschöpfungsschleife erzeugt.
+
 __________________________________________________________________________________________
 Urheberschaft & LizenzSocietal OS — VALUE PROPULSION ArchitectureText & System Design | Version 2.0 (2026) |
 
