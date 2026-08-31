@@ -127,3 +127,6 @@ spielerische Gegner, nicht existenzielle. Wer das Spiel liebt, kommmt mit Nieder
 Fazit:
 Der Sieg findet nicht mehr im Spiel statt, sondern hinter dem Spiel.
 Und wenn der Sieg hinter dem Spiel ausgetragen wird, verliert das Spiel seinen Sinn.
+
+Das Spiel ist nicht mehr der Ort, an dem der Sieg entsteht.
+Der Sieg entsteht im Kapital — und das Spiel bildet ihn nur noch ab.
