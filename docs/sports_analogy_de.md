@@ -123,3 +123,7 @@ Spiel verschwindet
 
 Die Sportanalogie macht sichtbar, was im System fehlt:
 spielerische Gegner, nicht existenzielle. Wer das Spiel liebt, kommmt mit Niederlagen zurecht, lernt davon und wird besser. 
+
+Fazit:
+Der Sieg findet nicht mehr im Spiel statt, sondern hinter dem Spiel.
+Und wenn der Sieg hinter dem Spiel ausgetragen wird, verliert das Spiel seinen Sinn.
