@@ -6,7 +6,7 @@ keinen Eigentumstitel und keine Rendite.
 Damit entsteht ein systemischer Widerspruch: 
 - Bürger und Unternehmen finanzieren die Substanz, besitzen sie aber nicht bzw. profitieren nicht von 
 ihr. 
-- Betreiber und Staat nutzen die Substanz, obwohl sie sie nicht finanziert haben. 
+- Betreiber und institutionelle Verwender ziehen den Nutzungsertrag, obwohl sie die Substanz nicht finanziert haben.
 - Investitionslast und Ertragsallokation sind entkoppelt. 
 - Kapitalistisch ist das widersprüchlich 
 Das erzeugt Drift, Bürokratie, Preisverzerrungen und chronische Instabilität. 
