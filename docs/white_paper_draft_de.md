@@ -500,8 +500,9 @@ Ein System, das diese drei Nenner garantiert, trägt den Menschen und wird von i
 
 4. Methodik und Allokation
 Die Architektur basiert auf Systemkopplung, Driftanalyse, Kapitaltheorie, Infrastrukturökonomie und rekursiven Rückkopplungsnetzwerken. Die Methodik ist mechanisch, nicht politisch.
-- Allokationsimpuls: Die Zuweisung von Kapital für neue Projekte erfolgt dezentral und prozessdatengesteuert über die Plattform. Der Staat agiert nicht als Planer oder politischer Lenker, sondern exekutiert rein als Zertifizierungs- und Zulassungsinstanz.
+- Allokationsimpuls: Die Zuweisung von Kapital für neue Projekte erfolgt dezentral und prozessdatengesteuert über die Plattform. Der Staat agiert nicht als Planer oder politischer Lenker, sondern exekutiert rein als Zertifizierungs- und Zulassungsinstanz. Dieser Allokationsmechanismus wird durch reale Nutzungspreise angetrieben: Wo bestehende Infrastruktur teuer oder ineffizient ist, entsteht ein systemischer Anreiz für Alternativen.
 - Initiale Projektierung: Neue, prozessdatenfreie Infrastrukturprojekte werden über zeitlich begrenzte Risikokapitaltranchen des Bürgerfonds oder direkte digitale Nutzer-Priorisierung angeschoben, bis die ersten realen Prozessdaten den rekursiven Regelkreis übernehmen.
+
 Subventionshebel – Die industrielle Verwertungskaskade 
 Während der primäre Subventionshebel auf die Bereitstellung von gemeinschaftlichen Asset-Netzwerken abzielt, steuert der Hebel die beschleunigte Transformation strategischer Industrie- und Staatsziele (z. B. den flächendeckenden Umstieg auf E-Mobilität oder dezentrale Energiespeicher).
 Dieser Mechanismus wandelt die investive Abgabe des Herstellers in einen dreistufigen, geschlossenen Verwertungskreislauf um, der staatliche Subventionszahlungen (Kaufprämien) vollständig eliminiert:
