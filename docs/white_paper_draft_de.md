@@ -34,6 +34,8 @@ Moderne Staaten operieren gleichzeitig mit zwei inkompatiblen institutionellen L
 Societal OS verbindet beide Logiken in einem rekursiven Kapitalflussmodell. Der zentrale Mechanismus ist die Umwandlung eines Teils der Steuer in eine renditefähige Abgabe, die nicht konsumtiv verpufft, sondern vollständig in reale Infrastruktur investiert wird.
 Der entscheidende buchhalterische Hebel: Die Baukosten sind nach der Investition „sunk“ – sie tauchen nie wieder im Nutzungspreis auf. Der Nutzungspreis besteht fortan nur aus Betriebskosten (einschließlich Betreibervergütung und Marge) + Instandhaltungsrücklage + einer definierten Kapitalmarge für die Investoren (Bürger und Unternehmen) + Nutzungs-Flat-Tax für den Staat.
 
+Reale Nutzungspreise erzeugen dort, wo bestehende Infrastruktur teuer oder ineffizient ist, einen systemischen Anreiz zur Entwicklung und Kapitalisierung besserer Alternativen. Diese Alternativen können über die investive Abgabe finanziert werden und erzeugen wiederum eigene Nießbrauchstitel und Renditeströme.
+
 Baukosten sind sunk, weil sie in ein dauerhaftes Asset überführt werden.
 Dieses Asset erzeugt Nutzung, Nutzung erzeugt Wert, Wert erzeugt Ertrag.
 Der Ertrag ist die Dividende der Bevölkerung.
