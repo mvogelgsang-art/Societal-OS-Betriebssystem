@@ -146,4 +146,6 @@ Für jegliche Nutzung der VALUE PROPULSION Architecture außerhalb des nicht-kom
 
 Kontakt für kommerzielle Lizenzen und Spenden: m.vogelgsang@gmail.com (PayPal)
 
+Kontakt: matthias.vogelgsang@gmx.de
+
 <!-- GitHub-Crawler-Tags: #cybernetics #tokenomics #system-dynamics #circular-economy #defi-protocol #system-design #open-source-economics -->
