@@ -7,9 +7,15 @@ Diese Arbeit ist ein theoretischer Architekturentwurf, kein politisches Programm
 Societal OS – Kernstruktur
 
 1. Die bidirektionale Rekursion der Gesellschaft
+
 Existenz ist heute an Arbeit gekoppelt.
 Doch Arbeit ist ein Derivat von Infrastruktur.
-Der Primärfaktor ist nicht Arbeit — sondern die Lebensader.
+Der Primärfaktor ist nicht Arbeit — sondern die Infrastruktur, die Lebensader, die nicht ersetzbar ist.
+
+Infrastruktur und Arbeit bedingen sich gegenseitig: 
+Ohne Infrastruktur entsteht im 21. Jahrhundert kaum noch Arbeit; 
+ohne Arbeit und Nutzung erzeugt die Infrastruktur keinen Ertrag. 
+Dennoch bleibt die Rangfolge klar: Infrastruktur ist der Primärfaktor, Arbeit ihr Derivat.
 
 Die psychologische Dimension des Derivats:
 Dass Arbeit ein Derivat von Infrastruktur ist, entzieht ihr nicht ihre menschliche Bedeutung – im Gegenteil. Arbeit bleibt zentral für die menschliche Psyche, weil Menschen von Natur aus das Bedürfnis haben, Rollen einzunehmen, Wirksamkeit zu erfahren und gesellschaftliche Funktionen auszuüben.
