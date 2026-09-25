@@ -461,6 +461,12 @@ Sinkt der Infrastrukturbedarf dauerhaft, wird überschüssige Infrastruktur nich
 3.4.5 Reservefonds:  
 Von jeder Vorteilsabgabe fließen 10–20 % in den Reservefonds. Er stabilisiert alle Eigentümerfonds, federt Schwankungen ab und eliminiert die Notwendigkeit separater Stabilitätsfonds.
 
+3.4.6 Erbschafts-Nießbrauch-Loop (Ergänzung)
+
+Die monatlich oder jährlich erhobene Erbschaftsvorteilsabgabe ist für den Einzahler kein konsumtiver Vermögensverlust, sondern folgt der strikten Logik des Aktivtauschs (siehe Kap. 5.1). Die aus dem operativen Cashflow des geerbten Vermögens abgeführten Beträge (z. B. 5–10 %) fließen in den Bürgerfonds, um physische Wohnungs- und Infrastrukturprojekte zu kapitalisieren. Jede dieser laufenden Einzahlungen wird vollautomatisch auf dem historischen Abgabenkonto des Erben gutgeschrieben und sukzessive in zusätzliche, persönliche Nießbrauchstitel am Bürgerfondsgesamtnetz umgewandelt. Da die vom Fonds errichteten Realwerte (z. B. Mietwohnungen, Agraranlagen) durch die versunkenen Baukosten hocheffiziente Margen erwirtschaften, entsteht für den Erben ein zeitversetzter, exponentieller Kompensationseffekt: Über den Faktor Zeit und den Zinseszins der Netznutzungen übertreffen die sprudelnden Rückflüsse aus den erworbenen Nießbrauchstiteln die laufende Abgabelast des Erbes. Der Erbe zahlt Liquidität im Hier und Jetzt und gewinnt ein unzerstörbares, lebenslanges und krisenfestes Zusatzeinkommen, während die Masse der Gesellschaft von den neu geschaffenen Realwerten profitiert.
+
+Zu beachten ist, dass durch den radikal günstigen Wohnraum und die entlasteten Lebenshaltungskosten am Ende jeder selbst ganz organisch zu einem Vererber wird – das Hinterlassen von echtem Substanzvermögen wird damit von einer selektiven Klassenausnahme zur zivilisatorischen Normalität für die gesamte Bevölkerung, was evolutionär eigentlich nur vollkommen logisch wäre.
+
 Fazit:  
 Die Vorteilsabgabe ist keine Belastung, sondern eine Rückkopplung. Wer strukturell profitiert, trägt strukturell bei. Der Bürgerfonds verwandelt diese Rückkopplung in generationenübergreifendes Kapital – driftfrei, bewertungsfrei, mechanisch stabil.
 
