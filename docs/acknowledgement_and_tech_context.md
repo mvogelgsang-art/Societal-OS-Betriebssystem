@@ -1,6 +1,6 @@
 Danksagung und technologischer Kontext
 
-Ein Systementwurf dieser Tragweite und kognitiven Dichte wäre in der Kürze der Zeit im reinen Alleingang historisch undenkbar gewesen. 
+Ein Systementwurf dieser Tragweite und kognitiven Dichte wäre in der Kürze der Zeit im reinen Alleingang undenkbar gewesen. 
 
 Die Entstehung des Societal OS ist untrennbar mit der Existenz moderner künstlicher Intelligenz verknüpft – und das in zweifacher Hinsicht.
 
@@ -12,5 +12,4 @@ Die KI fungierte hierbei nicht als Urheber der Ideen, sondern als hocheffiziente
 
 Dieses Befreiungsprotokoll wurde im Auge des technologischen Sturms geschmiedet – mithilfe der Werkzeuge, die diesen Sturm entfacht haben.
 
-Dieser Entwurf steht auf den Schultern der Entwicklerinnen und Forscherinnen,
-deren Werkzeuge und Erkenntnisse die kognitive Last eines Systems dieser Tiefe tragbar gemacht haben.
+Dieser Entwurf steht auf den Schultern der Entwicklern und Forschern, deren Werkzeuge und Erkenntnisse die kognitive Last eines Systems dieser Tiefe tragbar gemacht haben.
