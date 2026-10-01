@@ -22,4 +22,6 @@ Dieser Motor demokratisiert das zivilisatorische Erbe und sorgt dafür, dass Men
 Durch diese dreifache Existenzkopplung wird das Individuum wirtschaftlich unzerstörbar. 
 Fällt die Arbeit durch technologische Disruption oder persönliche Lebensumstände dauerhaft weg, fangen die Ströme aus Infrastruktur und Bürgerfonds den Menschen bedingungslos auf. 
 Da diese Quellen an die physische Realität des Landes gekoppelt sind, können sie weder durch Finanzkrisen weginflatiert noch durch Regierungen politisch gekürzt werden. 
-Der Mensch wechselt vom Status des enteigneten Frondienstleisters in die Position des rechtmäßigen, unerpressbaren Anteilseigners seiner eigenen Zivilisation. Und als vierter Strom Konsum, ein Teil der MwSt. fließt in den Bürgerfonds, der reinvestiert. Somit kommt Einkommen aus Infrastruktur, Arbeit, aus Erbschaft und Konsum.
+Der Mensch wechselt vom Status des enteigneten Frondienstleisters in die Position des rechtmäßigen, unerpressbaren Anteilseigners seiner eigenen Zivilisation. Der vierte Einkommensstrom ist der Konsumfluss.  
+Ein kleiner, klar definierter Anteil der Mehrwertschöpfung (MwSt‑Fluss) wird nicht als Steuer verbucht, sondern als Cashflow‑Operator, der direkt in den Bürgerfonds geleitet wird.
+Dieser Fonds reinvestiert den Fluss in Substanz (z. B. Wohnungsbau, POIs, Infrastruktur), wodurch der Konsum selbst zu einem rekursiven Motor der Existenzsicherung wird.
