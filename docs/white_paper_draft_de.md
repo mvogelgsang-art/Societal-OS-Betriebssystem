@@ -1256,7 +1256,7 @@ Um den Übergang vom kreditbasierten Fiat-Geldsystem in die zirkuläre Infrastru
 
 Der strukturelle Abwicklungsdeal
 
-Am Tag des Systemstarts wird das unlösbare Altschuldenparadoxon durch eine verfassungsrechtlich verankerte Restrukturierung pauschal um einen festen Prozentsatz (Richtwert: 50 %) reduziert. Für die verbleibende Altschuldensumme bietet die Plattform den Gläubigern und Banken zwei mathematische Kanäle zur vollständigen Realwert-Bedienung, die wahlweise rein oder als hybride Mischung konfiguriert werden können:
+Am Tag des Systemstarts könnte das unlösbare Altschuldenparadoxon durch eine verfassungsrechtlich verankerte Restrukturierung pauschal um einen festen Prozentsatz (Richtwert: 50 %) reduziert werden, im Tausch gegen Nießbrauchrechte. Für die verbleibende Altschuldensumme bietet die Plattform den Gläubigern und Banken zwei mathematische Kanäle zur vollständigen Realwert-Bedienung, die wahlweise rein oder als hybride Mischung konfiguriert werden können:
 
 Kanal A: Die Schuldentilgungsmaut (Preis-Ebene): Auf den ehrlichen Nutzungspfad (jede Maut, jedes Netzentgelt, jedes Datenbit) wird eine mathematisch exakte Tilgungsmarge aufgeschlagen. Das Geld für die Gläubiger wird nicht mehr über zerstörerische Steuern aus den Taschen der arbeitenden Menschen gepresst, sondern direkt aus dem realen, physikalischen Energie- und Datenfluss des Landes extrahiert.
 
