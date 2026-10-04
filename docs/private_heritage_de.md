@@ -1,3 +1,5 @@
+Artikel 14 Absatz 2 des Grundgesetzes: „Eigentum verpflichtet. Sein Gebrauch soll zugleich dem Wohle der Allgemeinheit dienen."
+
 Die Evolution des Generationenmotors: Privates Erbe im Societal OS
 Die Erbschaftsabgabe im Societal OS bricht radikal mit der destruktiven Substanzbesteuerung des alten Steuerstaates. 
 Anstatt das physische Lebenswerk einer Familie (Häuser, Betriebe, Depots) über bürokratische Gutachter künstlich zu bewerten und Erben durch liquide Bargeldforderungen zu Substanzzerstörungen oder Zwangsverkäufen zu zwingen, bleibt das Sachkapital zu 100 % unangetastet und geschützt. 
