@@ -68,7 +68,7 @@ F. Metasystemischer Konflikt: Simulation von Eigentum
 
 Simulationsparadox — Es könnte geprüft werden, ob der Staat eine Eigentümerrolle simuliert, obwohl die Finanzierung der Substanz durch Bürger und Unternehmen erfolgt, ohne dass diese eine entsprechende Rechtsposition erhalten.
 
-G. Es könnte geprüft werden, ob der Gesetzgeber durch die Selbstdefinition der Steuer als 'Leistung ohne Gegenleistung' (§ 3 AO) eine materielle Bindung vermeidet, die ihn bei wirtschaftlich identischem Verhalten (Kapitaleinlage gegen Sachwert mit Ertragspotenzial) im Zivilrecht träfe. Da der Staat sowohl Gesetzgeber der Kategorie als auch Nutznießer der daraus folgenden Pflichtbefreiung ist, könnte dies unter dem Gesichtspunkt der Selbstbegünstigung durch Definitionsmacht und im Lichte von Art. 3 GG geprüft werden (siehe A2).
+G. Es könnte geprüft werden, ob der Gesetzgeber durch die Selbstdefinition der Steuer als 'Leistung ohne Gegenleistung' (§ 3 AO) eine materielle Bindung vermeidet, die ihn bei wirtschaftlich identischem Verhalten (Kapitaleinlage gegen Sachwert mit Ertragspotenzial) im Zivilrecht träfe. Da der Staat sowohl Gesetzgeber der Kategorie als auch Nutznießer der daraus folgenden Pflichtbefreiung ist, könnte dies unter dem Gesichtspunkt der "Selbstbegünstigung durch Definitionsmacht" und im Lichte von Art. 3 GG geprüft werden (siehe A2).
 
 Dies wäre der metasystemische Prüfkomplex.
 
@@ -79,7 +79,7 @@ Das erklärte Ziel des Entwurfs ist es im Gegenteil, verfassungsrechtliche Kernw
 
 H. Die funktionale Lösungsarchitektur
 
-Das Öffentliche KapitalgemeingutUm die in den Komplexen A bis G aufgeworfenen systemischen und verfassungsrechtlichen Konflikte restlos zu heilen, bedarf es keiner Abschaffung des steuerlichen Rahmens, sondern einer evolutionären Ausdifferenzierung der Abgabenkategorien. Die Lösung liegt in der Etablierung einer investiven Pflichtabgabe für ein Öffentliches Kapitalgemeingut (Infrastruktur-Commons).
+Das Öffentliche KapitalgemeingutUm die in den Komplexen A bis G aufgeworfenen systemischen und verfassungsrechtlichen Konflikte "restlos zu heilen", bedarf es keiner Abschaffung des steuerlichen Rahmens, sondern einer evolutionären Ausdifferenzierung der Abgabenkategorien. Die Lösung liegt in der Etablierung einer investiven Pflichtabgabe für ein Öffentliches Kapitalgemeingut (Infrastruktur-Commons).
 
 Rechtliche Entkopplung von § 3 AO durch die Commons-Struktur: Da diese spezifische Pflichtabgabe zivilrechtlich untrennbar an eine materielle Gegenleistung – den namentlich verbrieften, unpfändbaren Nießbrauchstitel am physischen Infrastrukturzirkel (Kollektivasset) – gekoppelt ist, erfüllt sie die Definitionskriterien einer Steuer nach § 3 AO explizit nicht. Sie verbleibt als kapitalisierte Pflichteinlage vollständig im Raum des Eigentumsrechts (Art. 14 GG). Indem diese Einlage bzw. Abgabe begrifflich und materiell als Teil eines Öffentlichen Kapitalgemeinguts definiert wird, entsteht eine geschützte Eigentumsform jenseits des Dualismus von reinem Staats- und Privateigentum. Die physische Substanz ist damit der spekulativen Privatisierung entzogen und dauerhaft im kollektiven Besitz derer verankert, die sie finanzieren und nutzen.
 
