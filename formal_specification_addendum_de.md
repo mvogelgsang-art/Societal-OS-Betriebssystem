@@ -11,4 +11,4 @@ Mögliche Infrastrukturelle Revolution 2.0
 Existenz ↔ Energie ↔ KI ↔ Existenz
 
 Drift oder/und Stabilität: 
-Institution ↔ Rolle ↔ Existenz ↔ Institution (Selbsterhalt)
+Institution ↔ Rolle ↔ Existenz ↔ Institution (Selbsterhalt oder Lösung)
