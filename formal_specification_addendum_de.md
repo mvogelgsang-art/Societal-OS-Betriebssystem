@@ -9,6 +9,3 @@ Existenz ↔ Infrastruktur ↔ Kapital ↔ Existenz
 
 Mögliche Infrastrukturelle Revolution 2.0
 Existenz ↔ Energie ↔ KI ↔ Existenz
-
-Institutionen und Unternehmen: 
-Institution ↔ Rolle ↔ Existenz ↔ Institution (Selbsterhalt)
