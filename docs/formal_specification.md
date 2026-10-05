@@ -22,9 +22,14 @@ Dass Arbeit ein Derivat von Infrastruktur ist, entzieht ihr nicht ihre menschlic
 
 Der Unterschied im Societal OS: Die Rolle wird gewählt, nicht erpresst. Arbeit transformiert sich von einem Überlebenszwang (ökonomische Belastung) zu einer Identitäts- und Sinnstiftung (gesellschaftlicher Beitrag). Der Mensch arbeitet nicht mehr, um seine Existenz zu rechtfertigen, sondern um seine Rolle innerhalb der funktionierenden Infrastruktur auszugestalten.
 
+Die komplementäre Schleife: Infrastruktur ↔ Arbeit
+Obwohl Arbeit strukturell ein Derivat der Infrastruktur bleibt, bilden beide Größen eine in sich geschlossene, komplementäre Schleife innerhalb des Gesamtsystems:
+• Infrastruktur ermöglicht Arbeit: Sie stellt die physische und digitale Plattform (Energie, Netze, Räume) bereit, auf der menschliche Wertschöpfung im 21. Jahrhundert überhaupt erst operationsfähig wird.
+• Arbeit erhält Infrastruktur: Physische Netze unterliegen der unerbittlichen physikalischen Entropie (Verschleiß, Alterung). Arbeit – ob kognitiv oder körperlich – ist die gerichtete Energie, die diese Entropie abwehrt, das Netzniveau stabilisiert und Upgrades realisiert.
+
 Setzt man die Kopplung korrekt, entsteht eine technisch stabile Struktur:
 
-Existenz ↔ Infrastruktur ↔ Kapital ↔ Existenz
+Existenz ↔ Infrastruktur/Arbeit ↔ Kapital ↔ Existenz
 
 Eine bidirektionale, verzweigte, driftfreie, zyklische und permutierbare Rekursion mit operatorischer Äquivalenz.
 
@@ -123,7 +128,7 @@ Minimalistisch, weil die Triade auf drei Operatoren reduziert ist.
 Historische Rekursion  
 Vor der technischen Moderne lautete die gesellschaftliche Grundschleife:
 
-Existenz ↔ Natur ↔ Werkzeug ↔ Existenz
+Existenz ↔ Natur/Jagd ↔ Werkzeug ↔ Existenz
 
 Menschen nutzten Natur, erzeugten Werkzeuge, steigerten Nutzung und stärkten ihre Existenz.
 Diese Schleife war die archaische Form derselben Strukturklasse.
