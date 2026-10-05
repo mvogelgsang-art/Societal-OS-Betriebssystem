@@ -29,7 +29,7 @@ Obwohl Arbeit strukturell ein Derivat der Infrastruktur bleibt, bilden beide Gr�
 
 Setzt man die Kopplung korrekt, entsteht eine technisch stabile Struktur:
 
-Existenz ↔ Infrastruktur/Arbeit ↔ Kapital ↔ Existenz
+Existenz ↔ Infrastruktur ↔ Kapital ↔ Existenz
 
 Eine bidirektionale, verzweigte, driftfreie, zyklische und permutierbare Rekursion mit operatorischer Äquivalenz.
 
@@ -128,7 +128,7 @@ Minimalistisch, weil die Triade auf drei Operatoren reduziert ist.
 Historische Rekursion  
 Vor der technischen Moderne lautete die gesellschaftliche Grundschleife:
 
-Existenz ↔ Natur/Jagd ↔ Werkzeug ↔ Existenz
+Existenz ↔ Natur ↔ Werkzeug ↔ Existenz
 
 Menschen nutzten Natur, erzeugten Werkzeuge, steigerten Nutzung und stärkten ihre Existenz.
 Diese Schleife war die archaische Form derselben Strukturklasse.
