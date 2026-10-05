@@ -27,7 +27,7 @@ Das Societal OS legt über den zivilrechtlichen Hebel des Aktivtauschs und den E
 
 Warum die Masse zum größten Beschützer der Reichen wird
 
-Das ist der ultimative Clou: Weil jeder Mensch über seine unpfändbare Sachwertdividende direkt von den Früchten dieses kollektiven Infrastrukturfeldes isst, wird die gesamte Bevölkerung zum größten Beschützer des Eigentums der Reichen.
+Weil jeder Mensch über seine unpfändbare Sachwertdividende direkt von den Früchten dieses kollektiven Infrastrukturfeldes isst, wird die gesamte Bevölkerung zum größten Beschützer des Eigentums der Reichen.
 
 Niemand will mehr den Zaun des Milliardärs einreißen oder die Konzerne plündern. Die Menschen schauen auf ihr eigenes Konto und begreifen: Je erfolgreicher diese Unternehmen operieren, je mehr künstliche High-Tech-Inseln oder smarte Netze sie bauen, desto massiver fließen die Margen in unseren Bürgerfonds, desto höher steigt meine Dividende und desto billiger wird meine Miete. Ich schütze dieses Feld, weil es das Fundament ist, das mich und meine Kinder ernährt.
 
