@@ -6,3 +6,6 @@ Existenz ↔ Erwerbsarbeit ↔ Rollenkonformität ↔ Existenz
 
 Infrastrukturelle Revolution
 Existenz ↔ Infrastruktur ↔ Kapital ↔ Existenz
+
+Mögliche Infrastrukturelle Revolution 2.0
+Existenz ↔ Energie ↔ KI ↔ Existenz
