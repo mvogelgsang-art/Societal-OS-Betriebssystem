@@ -12,5 +12,5 @@ Die drei Dimensionen der Systemarchitektur
 
 3. Die Splittung von Substanz und Fluss (Das Ende des Klassenkampfes)
 
-• Die Mechanik: Das private Eigentum (das Feld) bleibt unangetastet geschützt. Erfasst wird ausschließlich der fließende Cashflow über die Vorteilsabgabe, z. B. über Gehalt, Gewinn, Dividende etc.
+• Die Mechanik: Das private Eigentum (das Feld) bleibt unangetastet geschützt. Erfasst wird ausschließlich der fließende Cashflow (die Früchte) über die Vorteilsabgabe, z. B. über Gehalt, Gewinn, Dividende etc.
 • Der Systemeffekt: Wer fleißig ist, wer erfindet, wer ein Imperium aufbaut, behält sein Lebenswerk und seinen Kapitalstock zu 100 % sicher. Und weil diese z. B. 10 % des fließenden Vorteils direkt und ungefiltert die Existenzsicherung bzw. der Bürgerfonds der Basis speisen, wird die Masse zum größten Beschützer des Erfolgs der Fleißigen. Neid und Enteignungsphantasien sterben mechanisch, weil der Sockel des Armen direkt mit dem Erfolg des Reichen atmet.
