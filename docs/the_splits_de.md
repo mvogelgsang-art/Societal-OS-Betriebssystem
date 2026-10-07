@@ -7,7 +7,7 @@ Die drei Dimensionen der Systemarchitektur
 
 2. Die Splittung von Eigentum und Ertrag (Die Natur 2.0 als ewiges Allmende-Asset)
 
-• Die Mechanik: Die physische Infrastruktur (die Hardware) bleibt als unveräußerliches Gemeingut beim Staat. Die Ertragsrechte (die Software) fließen als vererbbarer Nießbrauch direkt an die Bürger und mitinvestierenden Unternehmen.
+• Die Mechanik: Die physische Infrastruktur bleibt als unveräußerliches Gemeingut (hoheitliches Treuhandgut (Commons)) beim Staat. Die Ertragsrechte fließen als vererbbarer Nießbrauch direkt an die Bürger und mitinvestierenden Unternehmen.
 • Der Systemeffekt: Das löst das historische Dilemma zwischen Staatsmonopol und Privatisierung. Die Substanz ist absolut sicher vor spekulativer Zerstörung oder dem Verkauf an ausländische Investoren. Gleichzeitig werden Bürger und Unternehmen vom besitzlosen Kostenträger zum rechtmäßigen, generationenübergreifenden Kapitaleigner der Systemeffizienz. Es entsteht das Öffentliche Kapitalgemeingut.
 
 3. Die Splittung von Substanz und Fluss (Das Ende des Klassenkampfes)
