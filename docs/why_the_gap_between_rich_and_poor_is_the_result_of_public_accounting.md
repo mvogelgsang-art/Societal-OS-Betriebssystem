@@ -53,5 +53,9 @@ Das heutige System ist weder konsequent sozialistisch noch konsequent kapitalist
 
 Privatisierung und Vermögenskonzentration von unten nach oben sind deshalb keine Zufälle des Marktes, sondern die folgerichtige Konsequenz einer Ordnung, in der die Gesellschaft das Fundament bezahlt und trägt, während andere an ihm verdienen. Wer das ändern will, muss nicht den Mechanismus von Kapital und Rendite abschaffen, sondern entscheiden, wem das Kapital gehört.
 
+Des Weiteren agiert der Staat wie ein Kapitalist, aber mit fremdem Geld.
+
 Beweisführung:
 Die LKW-Maut ist der Beweis aus dem eigenen Handeln des Staates: Er erhebt ein Entgelt für die Nutzung der Straße und behandelt sie damit als Kapitalgut, das Erträge abwirft. Im Haushalt führt er dieselbe Straße als Kostenblock. Wer sie mit Steuern gebaut hat, wird nicht als Kapitalgeber behandelt, sondern zahlt Steuer, Erhalt und Maut. Faktisch wirkt das wie eine Enteignung des Kapitalgebers.
+
+
