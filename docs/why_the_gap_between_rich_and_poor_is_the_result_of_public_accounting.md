@@ -58,4 +58,6 @@ Des Weiteren agiert der Staat wie ein Kapitalist, aber mit fremdem Geld.
 Beweisführung:
 Die LKW-Maut ist der Beweis aus dem eigenen Handeln des Staates: Er erhebt ein Entgelt für die Nutzung der Straße und behandelt sie damit als Kapitalgut, das Erträge abwirft. Im Haushalt führt er dieselbe Straße als Kostenblock. Wer sie mit Steuern gebaut hat, wird nicht als Kapitalgeber behandelt, sondern zahlt Steuer, Erhalt und Maut. Faktisch wirkt das wie eine Enteignung des Kapitalgebers.
 
+Ein System, in dem die Masse die Zeche zahlt, oft noch zusätzlich die Nutzung direkt oder indirekt und eine Elite die Erträge einstreicht, ist mehr als unrechtgerecht – egal wie viele Gesetzesbücher und Fachbegriffe man darum herumbaut.
+
 
