@@ -16,3 +16,5 @@ Durch diese dreifache Zuleitung (Konsum + Nutzung + Rendite) wird der Reservefon
 1. Der Reservefonds übernimmt sofort die volle Last und stützt die atmende Existenzsicherung, damit kein biologischer Mensch in Unterfrequenz oder Existenzangst fällt.
 2. Da die Baukosten der Netze im Vorfeld sunk und neutralisiert sind, erzeugt der Wiederaufbau keine Schuldenberge, sondern wird direkt aus den Realwerten des Reservefonds barrierefrei vorfinanziert.
 3. Sobald die Krise abflaut und die Frequenz auf den Leitungen wieder ansteigt, lädt sich der Fonds über die dreifache Abzweigung in Rekordzeit von ganz alleine wieder auf.
+
+Auch bei Einkommen, Gehalt, Gewinne fließt neben der Flat Tax und investiver Angabe ein Teil in den Reservefonds. Der Reservefonds selber kann investieren, in kurzfristige Assets wie Gold, Silber etc. oder Unternehmmensanteile sowie Bargeldbestände in mehreren Währungen halten.
