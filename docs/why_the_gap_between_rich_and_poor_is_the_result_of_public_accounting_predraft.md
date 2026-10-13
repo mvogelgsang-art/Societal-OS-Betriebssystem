@@ -38,13 +38,13 @@ Würde der Staat einen Teil der Steuern für Infrastruktur als Kapitaleinlage de
 
 oder über Umwege.
 
-7. Die Pervertierung: Infrastruktur als Einnahmequelle
+7. Die Verkehrung: Infrastruktur als Einnahmequelle
 
 Der Staat (aus jeder Finanzgeber) weiß, dass die Bürger auf die Nutzung von Infrastruktur nicht verzichten können. Wer zur Arbeit muss, braucht die Straße. Wer wohnt, braucht Strom, Wasser und Wärme. Wer einkauft, hängt an Logistik und Netzen. Diese Nachfrage ist kaum ausweichbar, und genau das macht sie für Haushaltspolitik attraktiv: Fehlt Geld im Haushalt, wird an der Nutzung angesetzt, direkt oder über Umwege. Beispiele sind die KFZ-Steuer, CO2-Preise, Mauten, Netzentgelte und Gebühren aller Art.
 
 Damit kippt der Charakter der Infrastruktur. Sie ist kein öffentliches Gemeingut mehr, das der Gesellschaft dient, sondern wird zur Einnahmequelle des Staates selbst. Die Bürger haben das Fundament bezahlt, tragen den Erhalt und zahlen jetzt zusätzlich dafür, dass sie es überhaupt benutzen dürfen. Weil ein Verzicht praktisch unmöglich ist, wirken diese Abgaben wie eine Zwangsabgabe auf das tägliche Leben, nicht wie ein Preis, dem man ausweichen könnte. Das Prinzip „wer mehr nutzt, zahlt mehr“ verliert so seine Rechtfertigung als Verursachergerechtigkeit und wird zu einer Methode, Haushaltslöcher über Menschen zu stopfen, die keine Wahl haben.
 
-Das ist die "Pervertierung des Systems": Infrastruktur, die gebaut wurde, um der Gesellschaft zu dienen, wird zum Hebel, um ihr Geld zu entziehen. Ob das Geld bei privaten Eigentümern landet oder im Staatshaushalt, die Richtung bleibt dieselbe: Unten wird gezahlt, ohne ausweichen zu können.
+Das ist die "Verkehrung des Systems": Infrastruktur, die gebaut wurde, um der Gesellschaft zu dienen, wird zum Hebel, um ihr Geld zu entziehen. Ob das Geld bei privaten Eigentümern landet oder im Staatshaushalt, die Richtung bleibt dieselbe: Unten wird gezahlt, ohne ausweichen zu können.
 
 
 Fazit: Entscheide dich für eine Logik
