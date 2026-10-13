@@ -9,3 +9,6 @@ Existenz ↔ Infrastruktur ↔ Kapital ↔ Existenz
 
 Mögliche Infrastrukturelle Revolution 2.0
 Existenz ↔ Energie ↔ KI ↔ Existenz
+
+Die Moderne:
+Mensch ↔ Staat ↔ Markt ↔ Mensch
