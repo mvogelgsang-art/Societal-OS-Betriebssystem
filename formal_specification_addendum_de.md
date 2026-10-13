@@ -10,5 +10,8 @@ Existenz ↔ Infrastruktur ↔ Kapital ↔ Existenz
 Mögliche Infrastrukturelle Revolution 2.0
 Existenz ↔ Energie ↔ KI ↔ Existenz
 
-Die Moderne:
-Mensch ↔ Staat ↔ Markt ↔ Mensch
+Die makroökonomische Akteursebene: 
+Mensch ↔ Staat ↔ Markt ↔  Mensch
+
+Die biologisch-philosophische Ebene: 
+Körper ↔  Geist ↔  Seele ↔ Körper
