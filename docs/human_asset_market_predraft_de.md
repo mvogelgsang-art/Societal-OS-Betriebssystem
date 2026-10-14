@@ -45,3 +45,6 @@ Für den Konzern ist diese Schule die ultimative Talentschmiede. Die Scouts lauf
 Hinweis:
 Die zivilrechtliche Trennung von Namensrecht (Brand) und Kursrecht (Content) im Societal OS ermöglicht eine flexible und krisensichere Modularität im Bildungssektor. Durch die Entkopplung von äußerem Reputationsrecht und innerem Inhaltsrecht können Bildungseinrichtungen bei wirtschaftlichem Druck reibungslos agieren und Transaktionen automatisiert steuern. Der Staat könnte für das Namensrecht Fixpreis festlegen, für das Kursrecht auch einen Fixpreis (über investive Abgabe), des weiteren könnten auch Zeiträume verhandelt werden, sowohl für Namens- als auch Kursrecht.
 
+Zusatz:
+Der Bürger und andere Unternehmen oder KMUs könnten sagen, ok, mtl. von meiner investiven Abgabe fließt 50 EUR an Apple Design School, z. B. ein Jahr lang, von diesem Jahrgang erhält der Nießbrauch aus den Ablösen, ein wenig Casino darf sein.
+
