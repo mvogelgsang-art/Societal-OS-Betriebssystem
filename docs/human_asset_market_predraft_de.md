@@ -42,3 +42,6 @@ Für den Konzern ist diese Schule die ultimative Talentschmiede. Die Scouts lauf
 • Frühzeitige Talent-Identifikation: Fällt ein Kind durch außergewöhnliche Kreativität, algorithmisches Denken oder dreidimensionales Design auf, wird dieses Profil verschlüsselt auf der Plattform registriert, evlt. in Absprache mit den Eltern früh gefördert und gebunden.
 • Der barrierefreie Übergang in Phase 2: Nach Abschluss der zehnjährigen Grundausbildung hat Apple den „Franchise-Player“ von morgen bereits perfekt auf dem Schirm. Das Talent wechselt nahtlos und in absoluter Erpressbarkeitsfreiheit in die Apple Design Advanced School (Phase 2), unterschreibt seinen ersten zivilrechtlichen Nießbrauchsvertrag und kassiert später bei den großen Wechseln sein Handgeld bar auf die Hand.
 
+Hinweis:
+Die zivilrechtliche Trennung von Namensrecht (Brand) und Kursrecht (Content) im Societal OS ermöglicht eine flexible und krisensichere Modularität im Bildungssektor. Durch die Entkopplung von äußerem Reputationsrecht und innerem Inhaltsrecht können Bildungseinrichtungen bei wirtschaftlichem Druck reibungslos agieren und Transaktionen automatisiert steuern. Der Staat könnte für das Namensrecht Fixpreis festlegen, für das Kursrecht auch einen Fixpreis (über investive Abgabe), des weiteren könnten auch Zeiträume verhandelt werden, sowohl für Namens- als auch Kursrecht.
+
