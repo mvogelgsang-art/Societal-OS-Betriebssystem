@@ -3,6 +3,7 @@ Existenz ↔ Natur ↔ Werkzeug ↔ Existenz
 
 Industrielle Revolution
 Existenz ↔ Erwerbsarbeit ↔ Rollenkonformität ↔ Existenz
+Folge: Unnatürliche Kopplung, Existenz hängt an der Person, nicht an der Umgebung, austauschbar, ersetzbar, volatil. Entfremdung.
 
 Infrastrukturelle Revolution
 Existenz ↔ Infrastruktur ↔ Kapital ↔ Existenz
