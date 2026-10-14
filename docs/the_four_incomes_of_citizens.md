@@ -27,3 +27,16 @@ Strom 4: Der Konsumfluss (Die rekursive Asset-Bildung)
 • Buchhalterischer Charakter: Rekursiver Investitionskreislauf (Konsum ➔ Asset-Generierung). Ein vordefinierter, kleiner Anteil der Mehrwertsteuer (MwSt.-Fluss) wird nicht als konsumtiver Staatsaufwand verbucht, sondern fungiert als reiner Cashflow-Operator, der direkt in den Bürgerfonds geleitet wird.
 • Funktion für das Individuum: Der Schutzschirm. Der Bürgerfonds reinvestiert diesen kontinuierlichen Konsumstrom augenblicklich in harte Substanz (sozialen Wohnungsbau, POIs, regionale Lebensadern). Dadurch mutiert der alltägliche Konsum (ob Brötchenkauf oder Mobilitäts-Abo) selbst zu einem rekursiven Motor der Existenzsicherung. Je aktiver die Bevölkerung konsumiert, desto massiver baut das System die spottbillige materielle Lebensbasis für die Gegenwart und die nächste Generation auf. Je höher dieser Satz, desto stabiler die Existenzsicherung.
 
+
+Die Vierdimensionale Cashflow-Symmetrie
+
+1. Geld aus Arbeit (Die Kür — Strom 1):
+Der rein marktbasiert-kapitalistische Überbau. Weil das Fundament durch die anderen Ströme bedingungslos steht, verliert Arbeit ihren erpresserischen Charakter. Sie wird von der existenziellen Pflicht zur intrinsischen Selbstverwirklichung, zur Innovationskraft und zum Aufbau von privatem Luxusvermögen.
+2. Geld aus Infrastruktur (Das Fundament — Strom 2):
+Der unelastische Sachwertfluss. Da die Baukosten sofort sunk gebucht und neutralisiert sind, fällt die lähmende Zins- und Haushaltslast weg. Die Industrie, die KIs und die autonomen Systeme nutzen Strom, Schiene, Daten und Straße ununterbrochen und zahlen über die ehrliche Netzmarge die unpfändbare Nießbrauch-Dividende direkt auf das Konto des biologischen Menschen.
+3. Erbschaftsabgabe vom Fluss (Der Generationsausgleich — Strom 3):
+Das Ende der bürokratischen Substanzschätzung. Anstatt mühsam "tote Steine" zu bewerten, greift das System den realen, fließenden Vorteil im Moment des Cashflows ab (Vorteilsabgabe auf Gewinne, Mieten, Renditen). Dieses Geld flutet den Bürgerfonds, demokratisiert das zivilisatorische Erbe und sorgt dafür, dass jedes Neugeborene ab Tag 1 eine anwachsende Startlinie und Altersvorsorge besitzt – ohne erfolgreiche Familien zu enteignen.
+4. MwSt. als Ressourcen-Ausgleichszahlung (Der Schutzschirm — Strom 4):
+Die thermodynamische Realwert-Erdung. Wer die endliche Erde verbraucht, Logistikmeilen anhäuft oder Boden blockiert, zahlt an der Kasse die Ressourcenkompensationstaxe. Diese Taxe wird unerbittlich abgefangen: Sie schüttet eine direkte, absolute Pro-Kopf-Naturdividende an alle Bürger aus und zwingt den Bürgerfonds, im permanenten Kreislauf spottbilligen, sunk-cost Wohnraum zu betonieren.
+
+
