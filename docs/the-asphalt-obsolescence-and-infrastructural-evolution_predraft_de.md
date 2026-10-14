@@ -35,3 +35,5 @@ Zusatz:
 Maximale Kostensenkung, Brücken für Autos, LKWs, Buse, Straßen, E-Autos, Schienen, Züge, Fahrradwege (außer zur Freizeit) Relikte aus der "Steinzeit".
 
 Möglichkeit zur Ausweitung für Logistiker, Direktlieferung über Kapseln direkt vor die Haustür, jedes Gebäude, Extraspur für Lieferungen. Weitere Überlegungen, keine Supermärkte mehr, keine Geschäfte mehr, ein Klick auf die Website, und die Ware wird umgehend geliefert.
+
+Weitere Überlegung, gleich Rohre in die Schiene mitverlegen, die die Post durchschießt, haha, und jedes haus hat einen kleine Rohrpostbriefkasten. Abfallsystem intergrieren, Leitungen mitverlegen. Das ultimative Cluster-System bauen.
