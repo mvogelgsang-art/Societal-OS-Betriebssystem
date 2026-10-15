@@ -17,6 +17,9 @@ Durch diesen schlitzohrigen Konter saniert und entschuldet das Societal OS den W
 
 Die Kapseln können wiederum auch genutzt werden, um weitere Energie zu erzeugen, über Dynamos oder sonstige Technologien, die direkt wieder in die Schienen (Leitungen) zurückfließt. Bahnhöfe in der Staat könnten abgerissen und außerhalb der Staat im Zusammenhang mit Flughäfen neu gebaut werden, als Kollektivasset, der Staat hätte freie Fläche für den privaten Verkauf zur Verfügung, um die Schulden weiter bedienen zu können.
 
+Zur Klarstellung:
+Die Schienen für die Kapseln können direkt dort gebaut werden, wo die Straßen schon verlaufen, später können Straßen abgetragen werden und die Flächen begrünt.
+
 Zusatz:
 [ KONZERN-LIQUIDITÄT ]
        │
