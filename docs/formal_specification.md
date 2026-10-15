@@ -10,7 +10,7 @@ Societal OS – Kernstruktur
 
 Existenz ist heute an Arbeit gekoppelt.
 Doch Arbeit ist ein Derivat von Infrastruktur.
-Der Primärfaktor ist nicht Arbeit — sondern die Infrastruktur, die Lebensader, die nicht ersetzbar ist.
+Infrastruktur und Arbeit stehen in einer unlösbaren, wechselseitigen Interdependenz: Sie sind komplementäre Operatoren derselben Ebene. Infrastruktur stellt den Operationsraum für die Arbeit bereit; Arbeit ist die gerichtete Energie, die die Infrastruktur vor der physikalischen Entropie (Verschleiß) schützt. Keine Größe steht über der anderen – sie bedingen einander im geschlossenen Regelkreis.
 
 Infrastruktur und Arbeit bedingen sich gegenseitig: 
 Ohne Infrastruktur entsteht im 21. Jahrhundert kaum noch Arbeit; 
