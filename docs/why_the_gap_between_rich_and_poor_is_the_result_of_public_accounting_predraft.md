@@ -14,9 +14,9 @@ Da Infrastruktur altert und laufende Instandhaltung benötigt, wächst der Koste
 
 Um diesem Druck zu entkommen, bietet sich die Privatisierung als scheinbar logische Rettung an. Der Staat verkauft das Vermögen oder lagert es in Konzerne aus, die wie private Akteure agieren. Kurzfristig fließt frisches Geld in den Haushalt, und der vermeintliche Kostenblock ist weg. Übersehen wird, dass damit das kollektive Erbe der Generationen veräußert wurde. Dass der Staat Eigentümer ist, nicht bloß Financier, macht diesen Verkauf zu einer Veräußerung von Vermögen, das die Bürger bezahlt haben. Zwingend ist das nicht, es ist eine politische Entscheidung, aber das Anreizsystem schiebt in diese Richtung.
 
-3. Die Ausbeutungsschleife: Warum Kosten unten und Erträge oben landen
+3. Die extraktive Asymmetrie: Warum Kosten an der Basis und Erträge im Überbau konvergieren“
 
-Sobald das vom Bürger finanzierte Fundament bei privaten Investoren oder Monopolisten liegt, wird Infrastruktur von einer gesellschaftlichen Erleichterung zu einer Renditeabschöpfungsmaschine. Was für den Staat eine Last war, ist für den Finanzmarkt ein attraktives Asset.
+Sobald das vom Bürger finanzierte Fundament an institutionelle Verwender übertragen wird, mutiert die Infrastruktur von einer gesellschaftlichen Effizienzsteigerung zu einer einseitigen Liquiditäts-Extraktionsmaschine. Was für den Staat eine Last war, ist für den Finanzmarkt ein attraktives Asset.
 
 Zuerst werden Nutzungspreise erhoben: LKW-Mauten, Netzentgelte, Trassengebühren, Ticketpreise. Logistiker, Energieversorger und Produzenten schützen ihre Marge, indem sie diese Kosten in die Preise der Endprodukte einrechnen. Am Ende der Kette steht der Letztverbraucher, der sie an niemanden weitergeben kann. Der Bürger, der die Infrastruktur über Steuern gebaut hat, zahlt beim Einkaufen die Nutzungspreise ein zweites Mal. Fließt dieses Geld an private Eigentümer, verlässt es den Kreislauf der Gesellschaft und wird zur Rendite für Kapitaleigner. Doppelt belastet bleibt der Bürger auch bei öffentlichen Mauten, nur dass das Geld dort wenigstens in öffentlicher Hand bleibt, aber auch hier erhält der Bürger keinen Cent.
 
@@ -56,7 +56,7 @@ Privatisierung und Vermögenskonzentration von unten nach oben sind deshalb kein
 Des Weiteren agiert der Staat wie ein Kapitalist, aber mit fremdem Geld.
 
 Beweisführung:
-Die LKW-Maut ist der Beweis aus dem eigenen Handeln des Staates: Er erhebt ein Entgelt für die Nutzung der Straße und behandelt sie damit als Kapitalgut, das Erträge abwirft. Im Haushalt führt er dieselbe Straße als Kostenblock. Wer sie mit Steuern gebaut hat, wird nicht als Kapitalgeber behandelt, sondern zahlt Steuer, Erhalt, Verwaltung und Maut, indirekt noch KFZ-Steuer etc. Faktisch wirkt das wie eine "Enteignung" des Kapitalgebers.
+Die LKW-Maut ist der Beweis aus dem eigenen Handeln des Staates: Er erhebt ein Entgelt für die Nutzung der Straße und behandelt sie damit als Kapitalgut, das Erträge abwirft. Im Haushalt führt er dieselbe Straße als Kostenblock. Wer sie mit Steuern gebaut hat, wird nicht als Kapitalgeber behandelt, sondern zahlt Steuer, Erhalt, Verwaltung und Maut, indirekt noch KFZ-Steuer etc. Faktisch induziert diese Buchungslogik eine strukturelle Deprivation des ursprünglichen Kapitalgebers.
 
 Ein System, in dem die Masse die Zeche zahlt, oft noch zusätzlich die Nutzung direkt oder indirekt und eine Elite die Erträge einstreicht, ist mehr als unrechtgerecht – egal wie viele Gesetzesbücher und Fachbegriffe man darum herumbaut.
 
