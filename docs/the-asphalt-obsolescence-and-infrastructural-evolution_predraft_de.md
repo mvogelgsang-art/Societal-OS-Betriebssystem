@@ -45,6 +45,8 @@ Weitere Überlegung, gleich Rohre in die Schiene mitverlegen, die die Post durch
 [KAPSEL-SPUR]          [ROHRPOST]        [STOFFLEITUNGEN]       [ABFALLKANAL]
 (Personen/Möbel)     (Kleingut/Briefe)   (Wasser/Energie)       (Müllkapseln)
 
+Selbst in den neu verlegten Wasserleitungen könnte man Turbinen zur Stromgewinnung noch dazu einbauen.
+
 Somit wird der Bau günstiger, effizienter und umfangreich, kann man sich noch mehr mitdenken.
 
 Geopolitische Immunität: Die Deaktivierung des globalen Batterie-Monopols
