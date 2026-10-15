@@ -17,6 +17,11 @@ Ohne Infrastruktur entsteht im 21. Jahrhundert kaum noch Arbeit;
 ohne Arbeit und Nutzung erzeugt die Infrastruktur keinen Ertrag. 
 Dennoch bleibt die Rangfolge klar: Infrastruktur ist der Primärfaktor, Arbeit ihr Derivat.
 
+Unabhängig von der Organisationsform stehen Infrastruktur und Arbeit im 21. Jahrhundert in einer unlösbaren, wechselseitigen Interdependenz: Sie sind komplementäre Operatoren derselben systemischen Ebene.
+• Infrastruktur stellt den Operationsraum bereit: Sie ist der Primärfaktor – die technologische Fortsetzung der biologischen Natur (Natur 2.0). Ohne funktionierende Energie-, Logistik- und Datennetze kann im modernen Zeitalter keine produktive menschliche Wertschöpfung mehr operieren. Sie bildet das unelastische Fundament, das vorab existieren muss.
+• Arbeit ist die gerichtete Energie: Sie ist der zentrale, lebendige Operator, der die Verbindung zum Menschen herstellt. Physische Netze unterliegen der unerbittlichen physikalischen Entropie (Verschleiß, Alterung). Arbeit ist die gerichtete Energie, die diese Entropie abwehrt, das Netzniveau stabilisiert und qualitative Upgrades realisiert.
+Keine Größe kann isoliert existieren: Das Feld (die Infrastruktur) nutzt der Gesellschaft nichts, wenn niemand da ist, der es erhält; und der Mensch (die Arbeit) verhungert, wenn er kein Feld hat, auf dem er säen und wirken darf. Sie bedingen einander spiegelbildlich im geschlossenen Regelkreis.
+
 Die psychologische Dimension des Derivats:
 Dass Arbeit ein Derivat von Infrastruktur ist, entzieht ihr nicht ihre menschliche Bedeutung – im Gegenteil. Arbeit bleibt zentral für die menschliche Psyche, weil Menschen von Natur aus das Bedürfnis haben, Rollen einzunehmen, Wirksamkeit zu erfahren und gesellschaftliche Funktionen auszuüben.
 
