@@ -1,0 +1,6 @@
+Die zwei Hebel gegen den Frequenzeinbruch:
+
+Hebel 1: Die atmende Existenzsicherung (Der eingebaute Markt-Stabilisator):
+Wie in der Kernarchitektur bereits festgelegt hast, ist die Grundsicherung kein starrer, bedingungsloser Konsumbetrag, sondern an die pulsierende Realwirtschaft gekoppelt. Geht die gesamtgesellschaftliche Produktivität nach unten, weil vorübergehend weniger gearbeitet wird, atmet die Auszahlungssumme im System-Kernel vollautomatisch mit nach unten. Dadurch schaltet sich sofort der biologische Selbsterhaltungstrieb der Marktteilnehmer ein: Der finanzielle Anreiz, über den Zuschussmarkt produktiv zu werden, steigt augenblicklich wieder an. Das System tariert sich ökonomisch selbst aus.
+Hebel 2: Das gesetzliche Frequenz-Sicherheitsventil (Die 2- bis 4-Stunden-Pflicht):
+Sollte diese automatische Marktregulation in einem extremen Trägheitsszenario wider Erwarten nicht ausreichen, schlägt die Stunde der staatlichen Treuepflicht. Der Staat schaut nicht passiv zu. Über eine gezielte verfassungsrechtliche Gesetzgebung wird die Existenzsicherung und der vollversorgte, unpfändbare 150-Euro-Kapsel-Wohnspot an eine minimale, gesellschaftliche Mitwirkung von 2 bis 4 Stunden produktiver Arbeit im Erhalt der Netze (Natur 2.0) gekoppelt, unabhängig davon, ob Existenzsicherung oder Renditeausschütter. Arbeit wird frei gewählt.
