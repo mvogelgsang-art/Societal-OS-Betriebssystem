@@ -188,6 +188,9 @@ KI/Roboter ersetzen Arbeit → Umsatz bleibt oder steigt → renditefähige Abga
 Abgabe fließt → Bürgerfonds steigt → Sockelgarantie steigt → Lebenszeit wird frei.
 Lebenszeit wird frei → Mensch wird zum Daten-Generator + Sinn-Schöpfer → neue Märkte entstehen.
 
+Zusatz:
+Beispiel Sony, sollte das Abo-Modell nicht so gut laufen, könnte es Sekundäreffekte haben, da es Gaming-Hubs gibt, könnten Konsolen privat teurer verkauft werden.
+
 Rückkopplung: Jede Automatisierung, die menschliche Basis schädigt, unterbricht ihre eigenen Kapitalströme. KI-Optimierung ohne Mensch = Datenverarmung = Modell-Degeneration. Deshalb ist die Existenzsicherung die kostengünstigste Form der Systemstabilisierung.
 Systemziel: Die Freisetzung von Lebenszeit bei absolutem Schutz der Würde ist kein Nebeneffekt. Es ist das mechanische Ziel. Arbeit wird von Pflicht zu Kür. Wer will, arbeitet. Wer nicht will, lebt vom Sockel. Wer erfindet, nutzt den Bürgerfonds als Risikokapital.
 Resultat: KI wird vom Jobkiller zum Zeit-Gott. Der Mensch arbeitet nicht mehr nur, weil jemand anders davon profitiert. Er arbeitet, weil er selbst davon profitiert – oder lässt arbeiten.
