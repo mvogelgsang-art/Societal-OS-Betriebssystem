@@ -5,7 +5,7 @@ Die historische Architektur des Transportwesens beruht auf dem Konstruktionsfehl
 #### Die Kernmechanismen der Trassen-Fusion:
 
 1. **Einheitliche Netzphysik statt redundanter Infrastruktur:**
-   Die Trennung zwischen Straße und Schiene existiert nicht mehr. Vollautomatisierte, elektrische Minizüge (Kapselsysteme) jagen mit 300 km/h auf einem modularen, aufgeständerten oder unterirdischen Trassenband, das Personenverkehr, Güterlogistik und Datenautobahnen in einem einzigen Rutsch bündelt. Logistik-Riesen wie DHL, Amazon und Hermes schmeißen ihre investive Abgabe zusammen und nutzen denselben hocheffizienten Korridor, der über vertikale Schachtsysteme Waren geräuschlos und direkt in die Gebäude schießt.
+   Die Trennung zwischen Straße und Schiene existiert nicht mehr. Vollautomatisierte, elektrische Minizüge (Kapselsysteme) jagen mit 300 km/h auf einem modularen, aufgeständerten oder überirdischen Trassenband, das Personenverkehr, Güterlogistik und Datenautobahnen in einem einzigen Rutsch bündelt. Logistik-Riesen wie DHL, Amazon und Hermes schmeißen ihre investive Abgabe zusammen und nutzen denselben hocheffizienten Korridor, der über vertikale Schachtsysteme Waren geräuschlos und direkt in die Gebäude schießt.
 
 2. **Die Kapsel als Schiene, Auto und Bahnhof zugleich:**
    Das starre, zeitfressende Relikt des 19. Jahrhunderts – der klassische Bahnhof mit seinen unproduktiven Wartezeiten und Fahrplänen – stirbt mechanisch aus. Das System operiert im reinen, bedarfsgerechten Punkt-zu-Punkt-Modus. Die autonome Kapsel startet direkt in der Tiefgarage auf dem Dorf oder im Keller des Hauses und klinkt sich vollautomatisch in das globale Hochfrequenz-Induktionsnetz ein. Keine Umstiege, keine Staus, keine unproduktive Verlustzeit.
