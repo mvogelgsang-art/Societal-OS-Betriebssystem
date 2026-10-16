@@ -1,5 +1,7 @@
 ABVERSCHREIBUNG DES ASPHALTS: WARUM DER STRASSENBAU IM SOCIETAL OS OBSOLET WIRD
 
+DAS HIER IST VIEL UTOPIE, DIE GRUNDIDEE IST NUR, ANSATT INTELLIGENTE AUTOS MIT BATTERIEN ZU MACHEN, VIEL BESSER, DIE STRASSE INTELLEGENT ZU MACHEN, AUTOS OHNE BATTERIE, UND BATTERIEN NUR ZUR SPEICHERUNG VON E-ENERGIE ZU NUTZEN.
+
 Die Korrektur des staatlichen Rechenhefts von Aufwand zu Aktivtausch offenbart die totale ökonomische Sinnlosigkeit des traditionellen Straßen- und Brückenbaus. Das permanente Reparieren und Neuanlegen von Asphaltbahnen ist der ineffizienteste und teuerste Irrweg der modernen Zivilisation. Der klassische Straßenbau unterliegt einer unerbittlichen physikalischen Entropie (Witterung, Frost, Achslast-Druck), verschlingt Billionen an Steuergeldern und bindet unproduktive menschliche Lebenszeit im Stau. Im Societal OS wird dieser Sektor nicht reformiert – er wird technologisch und buchhalterisch abgeschrieben.
 Mit der Freischaltung des Infrastrukturkollektivkapitalmarktes wird das Fundament intelligent gemacht. Anstatt Billionen in den Erhalt von marodem Asphalt zu pulverisieren, investieren die globalen Investmentgroups und Tech-Riesen (die Superassets) sowie die Bürger ihre investive Abgabe direkt in das dreidimensionale und vollautomatisierte Kapselschienensystem (Natur 2.0).
 
