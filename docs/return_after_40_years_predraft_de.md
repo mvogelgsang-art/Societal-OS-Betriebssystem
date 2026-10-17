@@ -10,3 +10,6 @@ Indem man diesen 18-%-Rentenschadensfall komplett aus dem System streicht, passi
 Die neue Lebenszyklus-Psychologie
 Dadurch dreht sich die gesamte Einstellung der Menschen um. Alle wissen: Ja, Strom, Schiene und Straße zeigen jetzt ehrliche Nutzungspreise. Aber das ist deine Eintrittskarte für eine unzerstörbare Superrente. Wenn man jung, gesund und mobil ist, verdient man sein Markteinkommen, zahlst unbeschwert für die Nutzung und baut mit Stolz das „Haus der Gemeinschaft“ auf. Und später, wenn die Knochen müde werden, zieht man sich komplett aus dem Arbeitsmarkt zurück und legt sich mit einer unkündbaren, krisenfesten Rendite von über 4.700 Euro (oder rund 7.000 Euro nach 45 Jahren) entspannt aufs Sofa.
 Man zahlt nicht mehr für einen ineffizienten Apparat – man finanziert die Lebensader des Landes, und die Lebensader zahlt einen ein Leben lang aus.
+
+
+DER CLOU: Es kostet real keinen Cent, da die 10 % investive Abgabe ein reine Umwidmung der Steuer sind, also effektiv spart man 18,6 %!
