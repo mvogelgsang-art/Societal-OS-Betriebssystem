@@ -53,3 +53,19 @@ zurück auf die Bürger- und Unternehmens-Wallets                               
 ┌────────────────────────────────────────────────────────────────────────┐
 │          DIREKTE FLUTUNG DER ATMENDEN EXISTENZSICHERUNG UND GRUNDAUFGABEN DES STAATES (Jusitz, Sicherheit, Polizei etc.)             │
 └────────────────────────────────────────────────────────────────────────┘
+
+[ DIE ELITE / INVESTOREN OBEN ] 
+Besitzen volatile, krisengefährdete Papier- und Fiat-Milliarden.
+                               │
+                               ▼ (Tag X: Der Tausch)
+[ INVESTITION IN DIE NATUR 2.0 ] 
+Bündeln ihr Kapital im Bau von Kapsel-Trassen, Solar-Inseln & Biosphären [source: 2, 0.1.10].
+                               │
+                               ▼
+[ BILANZ-ZÜNDUNG: SOFORT SUNK ] 
+Das Geld verwandelt sich in unpfändbare, vererbbare Sachwert-Nießbräuche [source: 2].
+                               │
+                               ▼
+[ DIE ULTIMATIVE SYSTEMREINTE ] 
+Generiert ewige, unelastische, krisenfeste Nutzungs-Cashflows, die 
+proportional mit der gesamten Zivilisation atmen.
