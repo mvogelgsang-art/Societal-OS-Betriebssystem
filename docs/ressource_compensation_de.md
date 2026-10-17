@@ -27,3 +27,25 @@ Bürger konsumiert
                │
                ▲ (Kreislauf schließt und verstärkt sich)
                └───────────────────────┘
+
+
+Zusatz: Da Menschen keinen Zugriff auf Ressourcen haben, könnte man dies als eine Art Kompensation bezeichnen, denn Ressourcen gehören prinzipiell allen, jedoch sollten die belohnt werden, die sie entnehmen.
+
+            ┌────────────────────────────────────────┐
+                     │       DER ROHSTOFF-ALLMENDE-SPLIT      │
+                     └────────────────────────────────────────┘
+                                          │
+       ┌──────────────────────────────────┴──────────────────────────────────┐
+       ▼                                                                     ▼
+┌──────────────────────────────┐                                      ┌──────────────────────────────┐
+│      DER PIONIER / CONZERN     │                                      │    DIE MASSEN-ALLMENDE       │
+├──────────────────────────────┤                                      ├──────────────────────────────┤
+│ Holt die Ressourcen real     │                                      │ Besitzt das prinzipielle     │
+│ heraus. Behält volle opera-  │                                      │ Eigentumsrecht an der Natur. │
+│ tive Freiheit und extra Marge│                                      │ Erhält automatische Pacht.   │
+└──────────────────────────────┘                                      └──────────────────────────────┘
+       │                                                                     ▲
+       │                                                                     │
+       └──────────────────► Triggert Ressourcen-Flat-Tax (50/50) ────────────┘
+
+       Wer verbraucht, der entschädigt (Das ehrliche Verursacherprinzip)
