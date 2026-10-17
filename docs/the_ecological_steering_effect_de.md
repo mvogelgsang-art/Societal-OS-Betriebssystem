@@ -25,3 +25,17 @@ wirtschaftlich komplett.                                                        
                                                 ▼
                          [ MASSIVE KEROSINEINSPARUNG & CO2-ENTLASTUNG ]
                              Vollkommen ohne Verbote oder CO2-Zertifikate.
+
+
+
+[ FLUG LANDET / ENERGIE FLIESST ] ──► Trigger des algorithmischen Fluss-Splits
+                                                   │
+                                                   ▼
+                                  [ MULTIPLY: 7,5 % MARGE REKURIERT ]
+                                                   │
+                                                   ▼
+                               [ SOFORTIGE RE-EMISSION AUF DAS WALLET ]
+           Bürger zahlt ehrlichen Preis, erhält Marge im exakt selben Moment zurückerstattet.
+                                                   │
+                                                   ▼
+                             [ EXISTENZSICHERUNG AN DER BASIS BETONIERT ]
