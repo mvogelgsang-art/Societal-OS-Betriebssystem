@@ -26,3 +26,30 @@
 Substanz wird Commons. Die Früchte                                               Der Mensch wird zur Hardware-Bedingung
 fließen als Nießbrauch barrierefrei                                              für die KI. Die Maschine MUSS
 zurück auf die Bürger- und Unternehmens-Wallets                                   ihn reich und angstfrei halten, zum Selbsterhalt.
+
+
+────────────────────────────────────────────────────────────────────┐
+│                      DER UNIVERSELLE FLAT-TAX-FLOW                     │
+└────────────────────────────────────────────────────────────────────────┘
+                                    │
+       ┌───────────────┬────────────┼────────────┬───────────────┐
+       ▼               ▼            ▼            ▼               ▼
+┌──────────────┐┌──────────────┐┌──────────────┐┌──────────────┐┌──────────────┐
+│   GEHÄLTER   ││ UNTERNEHMENS-││  DIVIDENDEN  ││ INFRASTRUKTUR││ RESSOURCEN-  │
+│  (Zuschuss-  ││   GEWINNE    ││  & ERTRÄGE  ││  RENDITEN    ││  KONSUM     │
+│    markt)    ││              ││              ││ (Nießbrauch) ││  (MwSt.-Abz.)│
+└──────────────┘└──────────────┘└──────────────┘└──────────────┘└──────────────┘
+       │               │            │            │               │
+       └───────────────┼────────────┼────────────┼───────────────┘
+                                    ▼
+┌────────────────────────────────────────────────────────────────────────┐
+│                 DIE EINHEITLICHE FLAT TAX (z.B. 10%)                   │
+├────────────────────────────────────────────────────────────────────────┤
+│ • Direktabzug im Millisekundentakt bei jeder Transaktion am Sensor.     │
+│ • Keine Steuererklärungen, keine Schlupflöcher, keine Bürokratie.     │
+└────────────────────────────────────────────────────────────────────────┘
+                                    │
+                                    ▼
+┌────────────────────────────────────────────────────────────────────────┐
+│          DIREKTE FLUTUNG DER ATMENDEN EXISTENZSICHERUNG UND GRUNDAUFGABEN DES STAATES (Jusitz, Sicherheit, Polizei etc.)             │
+└────────────────────────────────────────────────────────────────────────┘
