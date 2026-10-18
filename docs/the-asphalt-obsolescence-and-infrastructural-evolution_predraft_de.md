@@ -6,6 +6,8 @@ DAS HIER IST VIEL UTOPIE, DIE GRUNDIDEE IST NUR, ANSATT INTELLIGENTE AUTOS MIT B
 Die gegenwärtige, globale Strategie der Elektromobilität beruht auf einem fundamentalen thermodynamischen und ökonomischen Denkfehler. Moderne Systeme versuchen verzweifelt, das Endprodukt (das Auto) künstlich mit Intelligenz und tonnenschweren Lithium-Ionen-Akkus aufzublähen. Das Ergebnis ist eine gigantische Materialverschwendung: Ein heutiges E-Auto bewegt im Alltag zwei Tonnen Eigengewicht, wovon hunderte Kilo auf eine brandgefährliche, fragile Batterie entfallen – nur um eine 80-Kilo-Person oder ein Paket zu transportieren. Diese automobile Sackgasse zwingt den Westen in eine erpressbare, geopolitische Abhängigkeit von Rohstoffmonopolen für seltene Erden.
 Dieses Dokument skizziert zwar eine weitreichende technologische Evolution (Natur 2.0), doch die zwingende Grundidee reduziert sich auf ein einziges, unumstößliches Infrastruktur-Prinzip: Die Verlagerung der Intelligenz vom beweglichen Objekt in das unbewegliche Fundament.
 
+GEDANKE: FÜR MEHR FREIHEIT WIE BOXAUTOS ZUR SELBSTSTEUERUNG.
+
 Die Kaskade der ehrlichen Wirtschaftsphysik:
 
 1. Akkuloser Leichtbau und unendliche Reichweite:
