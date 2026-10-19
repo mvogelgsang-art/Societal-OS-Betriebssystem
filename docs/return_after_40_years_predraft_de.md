@@ -12,4 +12,4 @@ Dadurch dreht sich die gesamte Einstellung der Menschen um. Alle wissen: Ja, Str
 Man zahlt nicht mehr für einen ineffizienten Apparat – man finanziert die Lebensader des Landes, und die Lebensader zahlt einen ein Leben lang aus.
 
 
-DER CLOU: Es kostet real keinen Cent, da die 10 % investive Abgabe ein reine Umwidmung der Steuer sind, also effektiv spart man 18,6 %!
+DER CLOU: Es kostet real keinen Cent, da die 10 % investive Abgabe ein reine Umwidmung der Steuer sind, also effektiv spart man 18,6 %! Die 10 % dienen also nur dem Vergleich, aber real zahlt man sie schon als Steuer, deshalb 0 Cent mehr Aufwand!
