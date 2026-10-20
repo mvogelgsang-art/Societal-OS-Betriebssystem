@@ -2,6 +2,8 @@ HINWEIS: Nicht 1:1 nehmen, soll nur die Grundidee (überspitz) veranschaulichen.
 
 ABVERSCHREIBUNG DES ASPHALTS: WARUM DER STRASSENBAU IM SOCIETAL OS OBSOLET WIRD
 
+Hinweis, die Straße würde natürlich aufrechterhalten werden, aber durch den Aktivtausch könnte man so ein Netz parallel aufbauen.
+
 Statt Induktion, moderne, automatisierte Unterleitungs-Schleifkontakte
 
 DAS HIER IST VIEL UTOPIE, DIE GRUNDIDEE IST NUR, ANSATT INTELLIGENTE AUTOS MIT BATTERIEN ZU MACHEN, VIEL BESSER, DIE STRASSE INTELLEGENT ZU MACHEN, AUTOS OHNE BATTERIE, UND BATTERIEN NUR ZUR SPEICHERUNG VON E-ENERGIE ZU NUTZEN.
