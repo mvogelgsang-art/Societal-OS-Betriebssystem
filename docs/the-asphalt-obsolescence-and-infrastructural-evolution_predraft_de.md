@@ -1,3 +1,5 @@
+HINWEIS: Nicht 1:1 nehmen, soll nur die Grundidee (überspitz) veranschaulichen. 
+
 ABVERSCHREIBUNG DES ASPHALTS: WARUM DER STRASSENBAU IM SOCIETAL OS OBSOLET WIRD
 
 Statt Induktion, moderne, automatisierte Unterleitungs-Schleifkontakte
