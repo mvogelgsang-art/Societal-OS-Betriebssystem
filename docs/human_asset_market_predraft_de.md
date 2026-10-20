@@ -1,3 +1,5 @@
+HINWEIS: Nicht 1:1 nehmen, soll nur die Grundidee (überspitz) veranschaulichen.
+
 Ergänzungsmodul zum Societal OS: Der zirkuläre Wirkungsmarkt (World-Trade-Human-Asset-Market)
 
 Noch einfügen: Ausbildung auch als Gebührmodell möglich, um Risiken zu senken, oder auch Studenten, um Free-Agent auf dem Markt zu sein.
