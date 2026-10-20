@@ -1,3 +1,5 @@
+Nur als Beispiel, könnte am Ende auch 10/10 sein... wer weiß.
+
 Der Generationenphasenübergang der fiskalischen Basis (Die 5/20-Regel)
 Das langfristige Stabilitätsziel des Societal OS besteht in der systematischen Umschichtung von unproduktiven, konsumtiven Steuern hin zu hochproduktiven, zirkulären Investitionsabgaben. 
 Während das Gesamtsystem am Tag X zur Absicherung des Übergangs mit einer höheren Flat Tax (Motor 4) und einem moderaten Abgabensatz (Motor 1) startet, vollzieht sich über den Zeitraum von ein bis zwei Generationen ein automatischer, mathematisch gesteuerter Phasenübergang. 
