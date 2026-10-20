@@ -31,3 +31,5 @@ In dieser zirkulären Architektur stehen privates Streben und gesellschaftlicher
 Doch jede Verbesserung erhöht die Effizienz des Gesamtnetzes und damit die Kapitalmarge im Nutzungspreis. Private Innovation stärkt automatisch den Kapitalstock des kollektiven Erbes und erhöht die Dividende für jeden Bürger und Unternehmer.
 
 Die Gemeinschaft besitzt nicht die physische Substanz – diese verbleibt als unveräußerliche Treuhand beim Staat, aber sie besitzt den unentziehbaren Ertrag. Wohlstand wird zu einem generationenübergreifenden Fluss, der sich dort schließt, wo er entsteht.
+
+Zusatz: Es ist nicht nur so, dass man von Null oder mit Schulden anfängt, nein, man muss auch arbeiten, um die Infrastruktur als Kostenblock ständig aufrechzuerhalten. Man arbeit, um die Infrastruktur zu bezahlen.
