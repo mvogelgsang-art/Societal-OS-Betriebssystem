@@ -1,4 +1,4 @@
-HINWEIS: Nicht 1:1 nehmen, soll nur die Grundidee (überspitz) veranschaulichen.
+HINWEIS: Nicht 1:1 nehmen, soll nur die Grundidee (überspitz) veranschaulichen, teilweise mit Extrembeispielen.
 
 Ergänzungsmodul zum Societal OS: Der zirkuläre Wirkungsmarkt (World-Trade-Human-Asset-Market)
 
