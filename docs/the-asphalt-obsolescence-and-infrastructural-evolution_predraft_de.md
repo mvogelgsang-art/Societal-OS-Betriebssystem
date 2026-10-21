@@ -53,6 +53,14 @@ Zusatz:
        │
        └─► Kanal 4: Physische Expertise (Tiefbau/KI) ─► [ PLATTFORM-PROJEKTE ] ──► 4. Cashflow: Gigantischer Umsatz beim Aufbau
 
+
+         ┌─────────────── [ UNTERNEHMENS-LIQUIDITÄT ] ───────────────┐
+                  ▼                                                           ▼
+    [ MARKT 1: DAS PRODUKT / ABO ]                              [ MARKT 2: DER PRIMÄRFAKTOR INFRA ]
+  (Kapseln, Container, Luxus-Module)                           (Trassenbau, Energie, Datennetze, intelligentes Netz)
+                  │                                                           │
+                  └───────────────────► SPUR-SYNERGIEN ◄──────────────────────┘
+
 [ ALTE WELT ]  Tonnenschwere Akkus + Teure Sensorik + Hoher Verschleiß  = Minimale Marge
                                       │
                                       ▼ (Systemkorrektur am Buchungsschalter, investive Abgabe statt Steuer (Aktivtausch))
