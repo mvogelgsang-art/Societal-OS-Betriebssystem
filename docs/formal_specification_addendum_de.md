@@ -2,8 +2,11 @@ Steinzeit und Agrarrevolution
 Existenz ↔ Natur ↔ Werkzeug ↔ Existenz
 
 Industrielle Revolution
+Existenz ↔ Industrie ↔ Kapital ↔ Existenz
+
+Falsche Ableitung im Status Quo, den Faktor Infrastruktur nicht richtig erakannt, ohne Infrastruktur, keine Industrie, die Folge, man klebt an Objekten und Rollen:
 Existenz ↔ Erwerbsarbeit ↔ Rollenkonformität ↔ Existenz
-Folge: Unnatürliche Kopplung, Existenz hängt an der Person, nicht an der Umgebung, austauschbar, ersetzbar, volatil. Entfremdung.
+Folge: Unnatürliche Kopplung, Existenz hängt an der Person, nicht an der Umgebung, austauschbar, ersetzbar, volatil. Entfremdung. Infrastruktur reiner Kostenblock für die Gesellschaft, anstatt Renditefaktor. Folgen sind höhere Steuern, und am Ende läuft es immer auf Privatisierung hinaus. Der Primärfaktor wird privatisiert und hält Menschen in Gefangenschaft.
 
 Infrastrukturelle Revolution
 Existenz ↔ Infrastruktur ↔ Kapital ↔ Existenz
