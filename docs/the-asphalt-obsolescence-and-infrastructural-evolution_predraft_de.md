@@ -49,15 +49,15 @@ Zusatz:
        │
        ├─► Kanal 2: Massen-Plattform-Sharing ───────► [ ABO-KAPSELN ] ──────────► 2. Cashflow: Skalierbare Abo-Einnahmen
        │
-       └─► Kanal 3: Premium-Status-Markt ──────────► [ PRIVAT-KAPSELN ] ────────► 3. Cashflow: Maximaler Einmal-Marge-Umsatz
-
-
-       Möglicher Kanal 4: Mitaufbau dieser Infrastruktur...
+       ├─► Kanal 3: Premium-Status-Markt ──────────► [ PRIVAT-KAPSELN ] ────────► 3. Cashflow: Maximaler Einmal-Marge-Umsatz
+       │
+       └─► Kanal 4: Physische Expertise (Tiefbau/KI) ─► [ PLATTFORM-PROJEKTE ] ──► 4. Cashflow: Gigantischer Umsatz beim Aufbau
 
 [ ALTE WELT ]  Tonnenschwere Akkus + Teure Sensorik + Hoher Verschleiß  = Minimale Marge
                                       │
                                       ▼ (Systemkorrektur am Buchungsschalter, investive Abgabe statt Steuer (Aktivtausch))
-                                      │
+                                      
+                                      Abgesehen davon, Wettbewerb, der eigentlich gegen China schon verloren ist?│
 [ NATUR 2.0 ]  Akkulose Leichtbau-Kapseln + Intelligente Schienenführung = Maximale Marge
 
 Maximale Kostensenkung, Brücken für Autos, LKWs, Buse, Straßen, E-Autos, Schienen, Züge, Fahrradwege (außer zur Freizeit) Relikte aus der "Steinzeit".
