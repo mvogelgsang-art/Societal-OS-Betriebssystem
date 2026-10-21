@@ -51,6 +51,9 @@ Zusatz:
        │
        └─► Kanal 3: Premium-Status-Markt ──────────► [ PRIVAT-KAPSELN ] ────────► 3. Cashflow: Maximaler Einmal-Marge-Umsatz
 
+
+       Möglicher Kanal 4: Mitaufbau dieser Infrastruktur...
+
 [ ALTE WELT ]  Tonnenschwere Akkus + Teure Sensorik + Hoher Verschleiß  = Minimale Marge
                                       │
                                       ▼ (Systemkorrektur am Buchungsschalter, investive Abgabe statt Steuer (Aktivtausch))
