@@ -61,6 +61,9 @@ Zusatz:
                   │                                                           │
                   └───────────────────► SPUR-SYNERGIEN ◄──────────────────────┘
 
+
+Weiterer Markt: Die Altwelt, privater Straßenbau mit privaten Oldschool-Autos, z. B. Strecke Berlin-München, wenn über Plattform genug Nachfrage und Mitinvestoren dabei sind, private Rennstrecken, Oldtimer-Routen etc.
+
 [ ALTE WELT ]  Tonnenschwere Akkus + Teure Sensorik + Hoher Verschleiß  = Minimale Marge
                                       │
                                       ▼ (Systemkorrektur am Buchungsschalter, investive Abgabe statt Steuer (Aktivtausch))
