@@ -1,4 +1,4 @@
-Die Analogie des gemeinsamen Feldes: Warum das Societal OS den ewigen Klassenkampf beendet
+Die Analogie des Feldes: Warum das Societal OS den ewigen Klassenkampf beendet
 
 Der Blick zurück: Das ehrliche Spielfeld der Steinzeit (Natur 1.0)
 Über den größten Teil der Menschheitsgeschichte war das Überleben der Spezies an eine einfache, driftfreie Logik gekoppelt: Die Natur war die kostenlose, unerschöpfliche Lebensgrundlage. Flüsse, Wälder und Wildbahnen gehörten niemandem privat und keinem abstrakten Staat – sie waren das kollektive Gemeingut. 
@@ -32,3 +32,4 @@ Weil jeder Mensch über seine unpfändbare Sachwertdividende direkt von den Frü
 Niemand will mehr den Zaun des Milliardärs einreißen oder die Konzerne plündern. Die Menschen schauen auf ihr eigenes Konto und begreifen: Je erfolgreicher diese Unternehmen operieren, je mehr künstliche High-Tech-Inseln oder smarte Netze sie bauen, desto massiver fließen die Margen in unseren Bürgerfonds, desto höher steigt meine Dividende und desto billiger wird meine Miete. Ich schütze dieses Feld, weil es das Fundament ist, das mich und meine Kinder ernährt.
 
 Das Societal OS beendet den ewigen Klassenkampf nicht durch moralische Umerziehung, sondern durch die unerbittliche Geometrie einer ehrlichen Buchhaltung. Es versöhnt Egoismus und Altruismus, Markt und Gemeinwohl in einer unendlichen Wohlstandstreppe. Wir müssen nicht mehr arbeiten, um zu leben – wir leben, um zu erschaffen.
+
