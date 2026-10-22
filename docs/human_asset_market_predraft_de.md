@@ -4,6 +4,8 @@ Ergänzungsmodul zum Societal OS: Der zirkuläre Wirkungsmarkt (World-Trade-Huma
 
 Noch einfügen: Ausbildung auch als Gebührmodell möglich, um Risiken zu senken, oder auch Studenten, um Free-Agent auf dem Markt zu sein.
 
+Beispiel: Kleine Betriebe können sich an der Ausbildung bei Großkonzernen beteiligen, um Zugang zu Fachkräften zu bekommen. Handgeld wird nur fällig, wenn die Fachkraft dem Wechsel zustimmt. Entscheidet sie sich anders, erhält der beteiligte Betrieb stattdessen seinen Anteil an der Ablöse. Details sind nur Beispiele und Sache der Ausgestaltung.
+
 1. Das Kernaxiom der investiven Spezialisierung
 Im Societal OS ist Humankapital kein privates Konsumgut und kein staatlicher Kostenblock, sondern die lebendige Software der zivilisatorischen Infrastruktur. Da die zehnjährige staatliche Grundausbildung über die universelle Flat Tax bedingungslos abgedeckt ist, verschiebt sich die berufliche Spezialisierung ab Phase 2 vollständig in die dezentrale Realwirtschaft:
 Der Investitionshebel: Unternehmen nutzen ihre gesetzlich verpflichtende, renditefähige Abgabe (Motor 1), um eigene, hochentwickelte Fachakademien, Forschungslabore und Meisterwerkstätten zu errichten und zu betreiben.
