@@ -1,3 +1,5 @@
+WAHRSCHEINLICH UTOPIE, WOHL EHER GERINGERE MARGEN, ÜBERARBEITEN...
+
 Dies ist ein extremes Beispiel mit hoher Marge, um aufzuzeigen, was möglich wäre.
 
 Die 250 Euro sind die monatliche Abgabe, angesetzt als 10 Prozent des Gehalts, nicht ein einmaliger Anteil an einer Anlage. Sie fließt jeden Monat in ein noch offenes Projekt – im einen Monat in Anlage A, im nächsten in Anlage B, je nachdem, welcher Topf noch nicht voll ist. Eine Solaranlage über 4 Millionen Euro braucht 16.000 solche Monatsbeiträge. Die können von 1.334 Leuten in einem Jahr kommen oder von weniger über längere Zeit. Ist der Topf voll, nimmt diese Anlage nichts mehr an. Der nächste Beitrag desselben Zahlers geht in das nächste offene Projekt. Ein Einzelner füllt die 4 Millionen nicht. Er hält am Ende kleine Anteile an vielen Anlagen, einen je Monat, in dem seine 250 Euro dort gelandet sind.
