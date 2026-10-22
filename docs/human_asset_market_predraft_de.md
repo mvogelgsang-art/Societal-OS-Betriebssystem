@@ -1,4 +1,4 @@
-HINWEIS: Nicht 1:1 nehmen, soll nur die Grundidee (überspitz) veranschaulichen, teilweise mit Extrembeispielen (Ablösesummen und Scouting ab der Grundschule). Wichtig: Die Schüler haben keinerlei Verpflichtung, nicht, dass es falsch aufgefasst wird, und, wie gesagt, nur eine Veranschaulichung, was davon machbar ist oder heikel sein sollte, entscheidet einzig und alle der Gesetzgeber)
+HINWEIS: Nicht 1:1 nehmen, soll nur die Grundidee (überspitzt) veranschaulichen, teilweise mit Extrembeispielen (Ablösesummen und Scouting ab der Grundschule). Wichtig: Die Schüler haben keinerlei Verpflichtung, nicht, dass es falsch aufgefasst wird, und, wie gesagt, nur eine Veranschaulichung, was davon machbar ist oder heikel sein sollte, entscheidet einzig und alleine der Gesetzgeber)
 
 Ergänzungsmodul zum Societal OS: Der zirkuläre Wirkungsmarkt (World-Trade-Human-Asset-Market)
 
