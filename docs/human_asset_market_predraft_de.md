@@ -1,3 +1,5 @@
+Das Modul will nicht Kindheit kommerzialisieren – es will Begabung fördern, die der Status quo übersieht. Es will nicht binden – es will ermöglichen. Es will nicht sortieren – es will aufwerten. Die Grenze ist die Freiwilligkeit, die Mündigkeit und die Gleichwertigkeit. Wer das Modul liest, soll nicht die Sport-Metapher sehen – sondern die Lücke, die es schließt.
+
 HINWEIS: Nicht 1:1 nehmen, soll nur die Grundidee (überspitzt) veranschaulichen, teilweise mit Extrembeispielen (Ablösesummen und Scouting ab der Grundschule). Wichtig: Die Schüler haben keinerlei Verpflichtung, nicht, dass es falsch aufgefasst wird, und, wie gesagt, nur eine Veranschaulichung, was davon machbar ist oder heikel sein sollte, entscheidet einzig und alleine der Gesetzgeber)
 
 Ergänzungsmodul zum Societal OS: Der zirkuläre Wirkungsmarkt (World-Trade-Human-Asset-Market)
