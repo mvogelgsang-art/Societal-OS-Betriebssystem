@@ -1,5 +1,10 @@
 WAHRSCHEINLICH UTOPIE, WOHL EHER GERINGERE MARGEN, ÜBERARBEITEN...
 
+Gleiche Belastung, neues Eigentum
+Du zahlst heute schon für die Infrastruktur – über Steuern, Abgaben, Mauten. Das Geld ist weg, die Infrastruktur gehört dir nicht. Societal OS ändert nicht, dass du zahlst, sondern wie es verbucht wird: Aus dem konsumtiven Kostenblock wird ein investiver Eigentumstitel (Nießbrauch). Der Betrag bleibt gleich, die Belastung bleibt gleich – aber du bekommst Ertragsrechte, die es heute nicht gibt. 0 Mehraufwand, zusätzliche Rendite. Die einzige reale Zusatzlast ist der Übergang (Bestandsrenten) – einmalig, nicht dauerhaft.
+
+„Gleiche Belastung, neues Eigentum."
+
 Dies ist ein extremes Beispiel mit hoher Marge, um aufzuzeigen, was möglich wäre.
 
 Die 250 Euro sind die monatliche Abgabe, angesetzt als 10 Prozent des Gehalts, nicht ein einmaliger Anteil an einer Anlage. Sie fließt jeden Monat in ein noch offenes Projekt – im einen Monat in Anlage A, im nächsten in Anlage B, je nachdem, welcher Topf noch nicht voll ist. Eine Solaranlage über 4 Millionen Euro braucht 16.000 solche Monatsbeiträge. Die können von 1.334 Leuten in einem Jahr kommen oder von weniger über längere Zeit. Ist der Topf voll, nimmt diese Anlage nichts mehr an. Der nächste Beitrag desselben Zahlers geht in das nächste offene Projekt. Ein Einzelner füllt die 4 Millionen nicht. Er hält am Ende kleine Anteile an vielen Anlagen, einen je Monat, in dem seine 250 Euro dort gelandet sind.
