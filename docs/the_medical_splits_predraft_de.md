@@ -2,7 +2,7 @@ Modul: Der zirkuläre Hardware-Absatzkreis (Das Siemens-Klinik-Axiom)
 
 1. Die Korrektur des internen Investitionsbugs
 
-In der alten Welt leiden Medizintechnikkonzerne (Siemens Healthineers, Philips, GE) unter einem absurden Paradoxon: Sie entwickeln die irrsten MRT-Geräte, OP-Roboter und Krebstherapie-Cluster, aber sie können sie nicht in die Krankenhäuser bringen, weil die Kliniken im staatlichen Steuer-Kostenblock verarmen oder private Heuschrecken-Kliniken die Geräte über unbezahlbare Operationspauschalen auf dem Rücken der Patienten refinanzieren müssen.
+In der alten Welt leiden Medizintechnikkonzerne (Siemens Healthineers, Philips, GE) unter einem absurden Paradoxon: Sie entwickeln die irrsten MRT-Geräte, OP-Roboter und Krebstherapie-Cluster, aber sie können sie nicht in die Krankenhäuser bringen, weil die Kliniken im staatlichen Steuer-Kostenblock verarmen oder private Kliniken die Geräte über unbezahlbare Operationspauschalen auf dem Rücken der Patienten refinanzieren müssen.
 Das Societal OS löst das über den zirkulären Eigen-Einkauf:
 • Die investive Abgabe als Kaufkraft: Siemens nutzt seine gesetzlich verpflichtende, renditefähige Abgabe (Motor 1) auf der Abgabenseite des Abgabenkontos. Mit diesem Geld kauft sich Siemens die eigenen, hochentwickelten MRT-Geräte und Diagnosesysteme einfach selbst ab.
 • 0 % finanzielle Reibung: Da diese Anschaffungskosten über die ohnehin abfließende Infrastrukturabgabe gedeckt und ab Werk sofort sunk (versunken/neutralisiert) geschrieben werden, fallen jegliche Vertriebs-, Marketing-, Lagerhaltungs- und Restwertrisiken für den Konzern komplett weg! Die Fabriken laufen unter Volllast zu echten Selbstkosten.
