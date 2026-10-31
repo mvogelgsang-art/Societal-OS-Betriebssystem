@@ -43,3 +43,5 @@ Es entsteht damit ein Prinzip der informationellen Ko-Evolution: Die KI unterst�
 Die Erhaltung menschlicher Autonomie wird dadurch nicht nur zu einer ethischen oder sozialen Zielsetzung, sondern zu einem möglichen Faktor langfristiger Systemstabilität.
 
 Dieses Prinzip ersetzt keine technischen Alignment- und Sicherheitsmechanismen. Es erweitert die Betrachtung um die gesellschaftliche Architektur, in der intelligente Systeme eingebettet sind.
+
+Der Mensch ist nicht lediglich Nutzer oder Datenlieferant der KI, sondern ein eigenständiger Generator neuer Realitätsreize. Seine freie Interaktion mit der Welt erhält eine Informationsdynamik, die ein ausschließlich auf synthetischer Selbstreproduktion beruhendes System nicht gleichwertig ersetzen kann.
